@@ -1,0 +1,167 @@
+Initializing hardware OpenGLES emulation support
+android_startOpenglesRenderer: gpu info
+GPU #1
+  Make: 10de
+  Model: NVIDIA GeForce MX110
+  Device ID: 174e
+
+RenderWindow: CMD_INITIALIZE w=1080 h=2400
+FrameBuffer::initialize
+SharedLibrary::open for [vulkan-1.dll]
+
+SharedLibrary::open for [vulkan-1.dll]: not found in map, open for the first time
+
+SharedLibrary::open for [vulkan-1.dll] (win32): call LoadLibrary
+
+SharedLibrary::open succeeded for [vulkan-1.dll]. File name: [C:\Windows\SYSTEM32\vulkan-1.dll]
+
+Supports id properties, got a vulkan device UUID
+WinEngine: Trying to load opengl32.dll
+
+SharedLibrary::open for [opengl32.dll]: not found in map, open for the first time
+
+SharedLibrary::open for [opengl32.dll] (win32): call LoadLibrary
+
+SharedLibrary::open succeeded for [opengl32.dll]. File name: [C:\Windows\system32\OpenGL32.dll]
+
+WinEngine: Library loaded at 000001FDA801CC50
+
+wglGetExtensionsString found 0 listNull/empty 1 0
+
+wglGetExtensionsStringARB found 1 listNull/empty 0 0
+
+WinEngine: Dispatch initialized
+
+call eglInitialize
+egl: 1 4
+gles version: 3 1
+
+Async readback supported
+attempting to create egl context
+attempting to create egl pbuffer context
+context creation successful
+attempting to make context current
+context-current successful
+host system has enough extensions
+There are sufficient EGLconfigs available
+vk/gles UUIDs match
+GL Vendor Google (NVIDIA Corporation)
+GL Renderer Android Emulator OpenGL ES Translator (NVIDIA GeForce MX110/PCIe/SSE2)
+GL Extensions OpenGL ES 3.0 (4.5.0 NVIDIA 512.78)
+SharedLibrary::open for [libshadertranslator.dll]: not found in map, open for the first time
+
+SharedLibrary::open for [libshadertranslator.dll] (win32): call LoadLibrary
+
+SharedLibrary::open succeeded for [libshadertranslator.dll]. File name: [C:\Users\ADMIN\AppData\Local\Android\Sdk\emulator\lib64\libshadertranslator.dll]
+
+interop? 1
+glvk interop final: 1
+basic EGL initialization successful
+OpenGL renderer initialized successfully
+CMD_SET_VSYNC_HZ
+Exited a loader RenderThread @000001FDA8726380
+CMD_SET_DISPLAY_CONFIGS
+CMD_SET_DISPLAY_ACTIVE_CONFIG
+Sending CMD_REPAINT to reposting thread
+Reposting thread dequeueing a CMD_REPAINT
+CMD_REPAINT
+Reposting framebuffer.
+No repost: no last posted color buffer
+Sending CMD_REPAINT to reposting thread
+Reposting thread dequeueing a CMD_REPAINT
+CMD_REPAINT
+Reposting framebuffer.
+No repost: no last posted color buffer
+CMD_SETUP_SUBWINDOW: parent=0000000000000000 wx=20 wy=23 ww=367 wh=816 fbw=367 fbh=816 dpr=1.000000 rotation=0.000000
+Begin setupSubWindow
+Exit setupSubWindow (successful setup)
+CMD_SETUP_SUBWINDOW: parent=0000000000000000 wx=20 wy=23 ww=367 wh=816 fbw=367 fbh=816 dpr=1.000000 rotation=0.000000
+Begin setupSubWindow
+Exit setupSubWindow (successful setup)
+CMD_SETUP_SUBWINDOW: parent=0000000000000000 wx=20 wy=23 ww=367 wh=816 fbw=367 fbh=816 dpr=1.000000 rotation=0.000000
+Begin setupSubWindow
+Exit setupSubWindow (successful setup)
+Started new RenderThread (total 1) @000001FDB4F9B870
+Started new RenderThread (total 2) @000001FDB4F9B950
+Started new RenderThread (total 3) @000001FDB4F9BE90
+Started new RenderThread (total 4) @000001FDB4F9BA30
+Started new RenderThread (total 5) @000001FDB4F9B410
+Started new RenderThread (total 6) @000001FDB4F9BCD0
+Started new RenderThread (total 7) @000001FDB4F9BDB0
+Started new RenderThread (total 8) @000001FDB4F9A610
+Started new RenderThread (total 9) @000001FDB4F9A1B0
+Started new RenderThread (total 10) @000001FE3A575710
+Started new RenderThread (total 11) @000001FE3A575C50
+Started new RenderThread (total 12) @000001FE3A575D30
+Started new RenderThread (total 13) @000001FE3A5767B0
+Started new RenderThread (total 14) @000001FE3A574C90
+Started new RenderThread (total 15) @000001FE3A574D70
+Exited a RenderThread @000001FDB4F9A610
+Exited a RenderThread @000001FDB4F9A1B0
+Started new RenderThread (total 14) @000001FDB5582CF0
+Started new RenderThread (total 15) @000001FDB5583CB0
+Started new RenderThread (total 16) @000001FDB55835B0
+Started new RenderThread (total 17) @000001FDB5582970
+Started new RenderThread (total 18) @000001FDB5582A50
+Exited a RenderThread @000001FE3A575C50
+Started new RenderThread (total 18) @000001FDB55834D0
+Exited a RenderThread @000001FDB5582970
+Started new RenderThread (total 18) @000001FDB55825F0
+Started new RenderThread (total 19) @000001FDB55827B0
+Started new RenderThread (total 20) @000001FDB5582190
+Started new RenderThread (total 21) @000001FDB55833F0
+Started new RenderThread (total 22) @000001FE3A575C50
+Exited a RenderThread @000001FDB55825F0
+Started new RenderThread (total 22) @000001FE3A574F30
+Started new RenderThread (total 23) @000001FDA2C83500
+Exited a RenderThread @000001FE3A575C50
+Started new RenderThread (total 23) @000001FE734A27B0
+Exited a RenderThread @000001FDB5582190
+Started new RenderThread (total 23) @000001FE734A3E70
+Exited a RenderThread @000001FE734A3E70
+Started new RenderThread (total 23) @000001FE734A2890
+Started new RenderThread (total 24) @000001FE734A3850
+Started new RenderThread (total 25) @000001FE734A2DD0
+Started new RenderThread (total 26) @000001FE734A3E70
+Started new RenderThread (total 27) @000001FE734A2970
+Exited a RenderThread @000001FE734A2890
+Started new RenderThread (total 27) @000001FE734A3230
+Started new RenderThread (total 28) @000001FDB5582350
+Started new RenderThread (total 29) @000001FE3A575C50
+Exited a RenderThread @000001FE734A3230
+Started new RenderThread (total 29) @000001FE86F1D6E0
+Exited a RenderThread @000001FE86F1D6E0
+Started new RenderThread (total 29) @000001FE86F1E080
+Exited a RenderThread @000001FDB5582350
+Exited a RenderThread @000001FDB55833F0
+Exited a RenderThread @000001FDB55827B0
+Exited a RenderThread @000001FE734A27B0
+Started new RenderThread (total 26) @000001FE86F1DC20
+Started new RenderThread (total 27) @000001FE86F1CF00
+Exited a RenderThread @000001FDB4F9B870
+Exited a RenderThread @000001FDB4F9BE90
+Exited a RenderThread @000001FDB4F9B950
+Exited a RenderThread @000001FDB4F9BA30
+Exited a RenderThread @000001FDB4F9B410
+Exited a RenderThread @000001FDB4F9BCD0
+Exited a RenderThread @000001FDB4F9BDB0
+Exited a RenderThread @000001FE3A575710
+Exited a RenderThread @000001FE3A5767B0
+Exited a RenderThread @000001FE3A575D30
+Exited a RenderThread @000001FE3A574C90
+Exited a RenderThread @000001FE3A574D70
+Exited a RenderThread @000001FDB5582CF0
+Exited a RenderThread @000001FDB5583CB0
+Exited a RenderThread @000001FDB55835B0
+Exited a RenderThread @000001FDB5582A50
+Exited a RenderThread @000001FDB55834D0
+Exited a RenderThread @000001FE3A574F30
+Exited a RenderThread @000001FE734A3850
+Exited a RenderThread @000001FDA2C83500
+Exited a RenderThread @000001FE734A2DD0
+Exited a RenderThread @000001FE734A3E70
+Exited a RenderThread @000001FE734A2970
+Exited a RenderThread @000001FE3A575C50
+Exited a RenderThread @000001FE86F1DC20
+Exited a RenderThread @000001FE86F1E080
+Exited a RenderThread @000001FE86F1CF00

@@ -1,0 +1,68 @@
+===== Command-line arguments =====
+C:\Users\ADMIN\AppData\Local\Android\Sdk\emulator\qemu\windows-x86_64\qemu-system-x86_64.exe
+-netdelay
+none
+-netspeed
+full
+-avd
+Pixel_6_API_33
+-qt-hide-window
+-grpc-use-token
+-idle-grpc-timeout
+300
+
+===== Environment =====
+ALLUSERSPROFILE=C:\ProgramData
+ANDROID_AVD_HOME=C:\Users\ADMIN\.android\avd
+ANDROID_EMULATOR_LAUNCHER_DIR=C:\Users\ADMIN\AppData\Local\Android\Sdk\emulator
+APPDATA=C:\Users\ADMIN\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-QN14I14
+ComSpec=C:\Windows\system32\cmd.exe
+DriverData=C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+HOMEDRIVE=C:
+HOMEPATH=\Users\ADMIN
+IDEA_INITIAL_DIRECTORY=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Android Studio
+LC_ALL=C
+LOCALAPPDATA=C:\Users\ADMIN\AppData\Local
+LOGONSERVER=\\DESKTOP-QN14I14
+MESA_RGB_VISUAL=TrueColor 24
+NUMBER_OF_PROCESSORS=4
+OneDrive=C:\Users\ADMIN\OneDrive
+OneDriveConsumer=C:\Users\ADMIN\OneDrive
+OS=Windows_NT
+Path=C:\Users\ADMIN\AppData\Local\Android\Sdk\emulator\lib64\qt\lib;C:\Users\ADMIN\AppData\Local\Android\Sdk\emulator\lib64\gles_swiftshader;C:\Users\ADMIN\AppData\Local\Android\Sdk\emulator\lib64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\ADMIN\AppData\Local\Microsoft\WindowsApps;;C:\Users\ADMIN\AppData\Local\Programs\Microsoft VS Code\bin
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=8e09
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+QMLSCENE_DEVICE=softwarecontext
+QT_AUTO_SCREEN_SCALE_FACTOR=none
+QT_LOGGING_RULES=default.warning=false
+QT_OPENGL=software
+QT_QPA_PLATFORM_PLUGIN_PATH=C:\Users\ADMIN\AppData\Local\Android\Sdk\emulator\lib64\qt\plugins
+QT_SCALE_FACTOR=none
+QT_SCREEN_SCALE_FACTORS=none
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\ADMIN\AppData\Local\Temp
+TMP=C:\Users\ADMIN\AppData\Local\Temp
+USERDOMAIN=DESKTOP-QN14I14
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-QN14I14
+USERNAME=ADMIN
+USERPROFILE=C:\Users\ADMIN
+windir=C:\Windows
+ZES_ENABLE_SYSMAN=1
+

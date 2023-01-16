@@ -1,0 +1,4393 @@
+*|windows media player	*|windows player	7508
+*|windows live mail	*|email	3375
+*|	*|union	9189
+*|windows fax and scan	*|wfs	7818
+*|google chrome	*|chromes	10605
+*|calculator	*|clalc	11318
+*|command prompt	*|زئی	9574
+*|	*|uplay	6514
+*|powerpoint 2013	*|poweer	7290
+*|windows fax and scan	*|sac	8283
+*|	*|vegas	6526
+*|	*|virtualbox	8312
+*|google chrome	*|chromer	10167
+*|windows fax and scan	*|scna	7811
+*|powerpoint 2013	*|powepoint	7505
+*|	*|vesta	8668
+*|google chrome	*|chromee	10850
+*|	*|video	8778
+*|discord	*|dicsord	10183
+*|	*|raven	8824
+*|powerpoint 2016	*|powet	8261
+*|google chrome	*|cheomw	11572
+*|	*|retro	8781
+*|	*|teamviewer	6844
+*|google chrome	*|cheome	11565
+*|calculator	*|cal#	10219
+*|	*|rpcs3	9064
+*|powerpoint 2016	*|powerr	8006
+*|	*|rsbot	8390
+*|google chrome	*|cgrome	10416
+*|	*|rufus	4716
+*|control panel	*|painel	9990
+*|google chrome	*|gooogle	9277
+*|	*|runad	8360
+*|powerpoint 2016	*|powere	8567
+*|calculator	*|ca,c	11347
+*|	*|sabre	9405
+*|google chrome	*|googole	11415
+*|powerpoint 2016	*|poweer	7329
+*|	*|sales	7196
+*|メモ帳	*|notepad	2012
+*|google chrome	*|googlwe	11160
+*|	*|scorp	9351
+*|control panel	*|pannel	11010
+*|	*|serif	9561
+*|winrar	*|win rar	5548
+*|google chrome	*|googlre	11518
+*|powerpoint 2016	*|powerpnt	8678
+*|calculator	*|ca'l	10950
+*|windows server update services	*|wsus	157
+*|	*|shigi	8277
+*|google chrome	*|googlle	12044
+*|	*|the sims 4	8808
+*|	*|short	9405
+*|windows security	*|defender	2278
+*|powerpoint 2016	*|powerpont	8311
+*|	*|sinus	9312
+*|google chrome	*|googlke	11864
+*|calculator	*|aclc	10449
+*|	*|skaia	9161
+*|windows security	*|windows defender security center	5618
+*|google chrome	*|googlew	11299
+*|windows powershell ise	*|powershell_ise	6274
+*|	*|small	8201
+*|powerpoint 2016	*|powerpoit	8117
+*|discord	*|discird	10473
+*|	*|solar	9200
+*|google chrome	*|googler	9664
+*|windows powershell	*|powre	7648
+*|powerpoint 2016	*|powerpint	8063
+*|	*|sonic	8685
+*|google chrome	*|googlee	10863
+*|calculator	*|xcalc	11851
+*|	*|sound	9315
+*|command prompt	*|แทก	10503
+*|windows powershell	*|pwershell	8295
+*|windows powershell	*|poweshell	6965
+*|	*|spark	9214
+*|windows powershell	*|powersell	8491
+*|google chrome	*|google#	11929
+*|ペイント	*|paint	818
+*|powerpoint 2016	*|poweroint	8921
+*|	*|spoon	9351
+*|windows powershell	*|poershell	8286
+*|google chrome	*|googkle	12085
+*|	*|squid	9290
+*|	*|thinkfolio	8798
+*|windows powershell	*|pwoershell	8269
+*|calculator	*|rcalc	11693
+*|powerpoint 2016	*|powepoint	7512
+*|	*|stars	8596
+*|google chrome	*|googgle	10880
+*|	*|stata	7902
+*|google chrome	*|ggoogle	11135
+*|windows powershell	*|powersheel	7608
+*|	*|stea#	9025
+*|windows powershell	*|powersehll	8329
+*|powerpoint 2016	*|poerpoint	8266
+*|	*|steel	9142
+*|google chrome	*|cvhrome	11691
+*|calculator	*|lomme	10757
+*|windows powershell	*|powerhsell	7263
+*|	*|stock	8833
+*|powerpoint 2016	*|powerpoiny	9010
+*|google chrome	*|chtrome	11359
+*|	*|store	9220
+*|windows powershell	*|power shell	6650
+*|	*|super	7649
+*|windows powershell	*|powershell.exe	7569
+*|google chrome	*|chrtome	10488
+*|windows memory diagnostic	*|mdsched	3763
+*|calculator	*|hesap	10126
+*|コントロール パネル	*|control	1326
+*|	*|swift	9271
+*|powerpoint 2016	*|powerpiont	8060
+*|google chrome	*|chrrome	11143
+*|windows media player	*|rip	6801
+*|	*|swtor	9265
+*|	*|unity 2018	9357
+*|discord	*|discoed	9932
+*|windows media player	*|meida	7651
+*|	*|tally	7537
+*|powerpoint 2016	*|power point	5025
+*|google chrome	*|chrpome	10829
+*|	*|tarsc	8946
+*|google chrome	*|chropme	10189
+*|calculator	*|cxalc	11449
+*|	*|team#	9169
+*|windows media player	*|medis	7594
+*|windows media player	*|medai	7840
+*|	*|team,	8853
+*|powerpoint 2016	*|presentation	8215
+*|google chrome	*|chroome	10550
+*|	*|tedit	8940
+*|windows media player	*|windowa	7347
+*|google chrome	*|chronme	10451
+*|powerpoint 2016	*|microsoft po	8764
+*|	*|timer	7569
+*|コマンド プロンプト	*|cmd	693
+*|calculator	*|cvalc	11022
+*|cámara	*|camera	2299
+*|	*|times	8964
+*|windows media player	*|play cd	7028
+*|google chrome	*|chromwe	9979
+*|windows media player	*|burn cd	7017
+*|windows media player	*|wmplayer	7515
+*|	*|titan	8430
+*|google chrome	*|chromre	11458
+*|powerpoint 2013	*|ppt	4267
+*|	*|total	7484
+*|windows media player	*|cd burner	7668
+*|	*|unity 2019	9166
+*|	*|touch	9077
+*|windows media player	*|mediaplayer	7817
+*|google chrome	*|chromoe	11947
+*|powerpoint 2013	*|pwer	7143
+*|calculator	*|csalc	11222
+*|	*|trade	9262
+*|google chrome	*|chromne	9857
+*|	*|trans	9232
+*|windows media player	*|window media	7000
+*|windows media player	*|video player	6994
+*|	*|turbo	8627
+*|google chrome	*|chromme	11084
+*|powerpoint 2013	*|powr	6720
+*|calculator	*|cqalc	11217
+*|	*|ultra	8390
+*|google chrome	*|chromke	11604
+*|windows media player	*|music player	6948
+*|	*|umlet	9018
+*|powerpoint 2013	*|poer	5910
+*|discord	*|discors	10502
+*|	*|acrobat	9032
+*|	*|unifi	9321
+*|google chrome	*|chromew	9767
+*|calculator	*|clacl	10504
+*|windows fax and scan	*|scam	6949
+*|	*|voila	8787
+*|windows fax and scan	*|scab	6877
+*|google chrome	*|chrome]	10119
+*|powerpoint 2013	*|power point	4705
+*|	*|watch	8999
+*|google chrome	*|chrome#	10378
+*|	*|webex	7453
+*|windows fax and scan	*|sscan	8169
+*|powerpoint 2013	*|presentation	7631
+*|	*|win32	9074
+*|แผ่นจดบันทึก	*|note	693
+*|google chrome	*|chrom,e	9978
+*|calculator	*|ccalc	10062
+*|windows fax and scan	*|scasn	8415
+*|	*|winvv	9293
+*|windows fax and scan	*|scans	5569
+*|google chrome	*|chrom e	11269
+*|windows fax and scan	*|scanb	8426
+*|	*|word#	8718
+*|windows fax and scan	*|scaner	6891
+*|powerpoint	*|ppt	4766
+*|windows fax and scan	*|scanner	4069
+*|	*|works	9054
+*|google chrome	*|chrokme	11532
+*|	*|windirstat	9092
+*|calculator	*|caslc	10243
+*|windows fax and scan	*|new scan	7002
+*|	*|xampp	7107
+*|powerpoint	*|poo	8919
+*|google chrome	*|chroime	9981
+*|	*|xenos	8770
+*|discord	*|discprd	10137
+*|	*|xeres	9094
+*|windows fax and scan	*|hp scanner	7741
+*|google chrome	*|chriome	10479
+*|windows fax and scan	*|windows scan	6282
+*|	*|xlite	8267
+*|powerpoint	*|poew	10064
+*|google chrome	*|chrfome	11633
+*|calculator	*|caqlc	10808
+*|	*|zadig	8441
+*|windows fax and scan	*|scan document	7160
+*|powerpoint	*|pwoer	9988
+*|	*|.bat	8868
+*|google chrome	*|chreome	11050
+*|แผงควบคุม	*|con	693
+*|	*|.exe	8361
+*|windows fax and scan	*|scan to computer	7984
+*|google chrome	*|chorome	11373
+*|windows explorer	*|file	876
+*|	*|7zip	9344
+*|windows dvd player	*|play dvd	3503
+*|เครื่องมือสนิป	*|snip	2203
+*|calculator	*|caolc	11482
+*|powerpoint	*|powre	9568
+*|	*|aida	8989
+*|windows defender firewall with advanced security	*|windows firewall	3396
+*|google chrome	*|chjrome	11255
+*|	*|aeroadmin	9235
+*|	*|aims	8802
+*|windows defender	*|anti	4934
+*|google chrome	*|chhrome	11303
+*|powerpoint	*|powet	8591
+*|	*|amos	9238
+*|	*|andy	9309
+*|google chrome	*|chgrome	11369
+*|windows defender	*|virus	5348
+*|calculator	*|calxc	10180
+*|wiersz polecenia	*|cmd	797
+*|	*|anki	8501
+*|google chrome	*|chfrome	12004
+*|powerpoint	*|poqwe	9926
+*|	*|anti	8484
+*|whatsapp desktop	*|whts	8911
+*|	*|apex	6043
+*|powerpoint	*|slides	9260
+*|google chrome	*|cherome	11542
+*|calculator	*|calvu	11816
+*|	*|autocad	8177
+*|	*|asce	8503
+*|google chrome	*|cghrome	11762
+*|whatsapp desktop	*|whta	8706
+*|	*|asio	8198
+*|whatsapp desktop	*|whar	8171
+*|whatsapp desktop	*|whast	7849
+*|whatsapp desktop	*|watsa	8347
+*|	*|assa	9189
+*|powerpoint	*|ppower	9371
+*|google chrome	*|cchrome	10657
+*|whatsapp desktop	*|whatts	8643
+*|	*|asus	8622
+*|	*|any video	9229
+*|google chrome	*|c hrome	11825
+*|whatsapp desktop	*|whatapp	7694
+*|	*|atom	7534
+*|powerpoint	*|powwer	9764
+*|	*|aura	8426
+*|google chrome	*|google.com	8442
+*|whatsapp desktop	*|whats app	6294
+*|	*|azur	8373
+*|whatsapp	*|whh	9549
+*|google chrome	*|open google	11884
+*|	*|baan	8581
+*|powerpoint	*|powewr	9981
+*|	*|back	8627
+*|whatsapp	*|whts	9395
+*|google chrome	*|open chrome	12234
+*|powerpoint	*|powert	9627
+*|	*|bait	8793
+*|google chrome	*|googlechrome	10733
+*|command prompt	*|ؤةي	10231
+*|	*|bare	7828
+*|whatsapp	*|whay	9597
+*|whatsapp	*|whar	7386
+*|whatsapp	*|whtas	8498
+*|	*|best	9161
+*|google chrome	*|google crome	10414
+*|powerpoint	*|powerr	9252
+*|whatsapp	*|whatd	9289
+*|	*|beth	8590
+*|google chrome	*|gogle chrome	12024
+*|	*|bakkesmod	8841
+*|	*|bloo	9361
+*|whatsapp	*|whast	7364
+*|powerpoint	*|powere	9026
+*|	*|bose	8383
+*|google chrome	*|google chorme	11981
+*|	*|boss	9042
+*|whatsapp	*|wahts	8320
+*|globalprotect	*|global protect	5894
+*|whatsapp	*|whatts	9638
+*|	*|brom	9232
+*|powerpoint	*|poweer	8736
+*|	*|bulk	8362
+*|global vpn client	*|sonicwall	5558
+*|whatsapp	*|whatss	8349
+*|powerpoint	*|popwer	9546
+*|	*|bull	8656
+*|git extensions	*|gitext	4941
+*|เครื่องคิดเลข	*|cal	1587
+*|	*|caps	9305
+*|whatsapp	*|whatas	8155
+*|whatsapp	*|whatsup	8858
+*|	*|card	9445
+*|whatsapp	*|whatspp	8733
+*|git bash	*|gitbash	4128
+*|whatsapp	*|whatapp	7835
+*|powerpoint	*|powerpnt	8767
+*|	*|care	8557
+*|whatsapp	*|watsapp	7850
+*|gimp 2	*|gimo	6334
+*|	*|case	9293
+*|	*|beatsaber	9312
+*|whatsapp	*|whats app	6569
+*|powerpoint	*|pwerpoint	9320
+*|	*|cash	8443
+*|gimp 2	*|gimp2	6069
+*|	*|cats	9299
+*|geforce experience	*|gtx	6601
+*|wechat	*|wecaht	6471
+*|	*|cctv	9052
+*|wechat	*|we chat	5947
+*|powerpoint	*|powerpont	8438
+*|	*|cemu	7384
+*|geforce experience	*|geo	6147
+*|webex teams	*|spark	4968
+*|	*|chr#	8454
+*|powerpoint	*|powerpint	8409
+*|geforce experience	*|gefr	7052
+*|	*|chr]	8739
+*|webex teams	*|cisco	4476
+*|	*|cims	9136
+*|weather	*|wether	5733
+*|geforce experience	*|nvide	5602
+*|weather	*|weater	6231
+*|พีซีเครื่องนี้	*|m	693
+*|	*|ckan	7090
+*|powerpoint	*|poweroint	9202
+*|geforce experience	*|nvida	5976
+*|výstřižky	*|snip	2347
+*|	*|clik	7362
+*|	*|cinebench	8741
+*|vyprvpn	*|vyper	3396
+*|	*|clip	8766
+*|powerpoint	*|powepoint	7793
+*|geforce experience	*|nivid	6809
+*|	*|cmrc	8728
+*|geforce experience	*|nvidia	3050
+*|	*|code	8073
+*|vpn access manager	*|shrew	2841
+*|volume activation management tool 3.1	*|vamt	1
+*|	*|colo	9471
+*|powerpoint	*|poerpoint	8466
+*|geforce experience	*|gforce	5840
+*|	*|cool	8497
+*|voicemod	*|voice mod	5642
+*|geforce experience	*|geforece	7327
+*|powerpoint	*|powerpoitn	9184
+*|	*|copy	9175
+*|	*|core	6981
+*|voice recorder	*|voie	7355
+*|geforce experience	*|shadowplay	6292
+*|voice recorder	*|voive	7052
+*|voice recorder	*|voicw	7107
+*|	*|cost	9312
+*|พร้อมท์คำสั่ง	*|cmd	1
+*|garry's mod	*|garrys	3042
+*|powerpoint	*|powerpoiny	9942
+*|	*|cpuz	8421
+*|voice recorder	*|vocie	7117
+*|	*|clownfish	9331
+*|	*|creo	8534
+*|voice recorder	*|recod	7191
+*|fxsound enhancer	*|dfx	1156
+*|powerpoint	*|powerpiont	9196
+*|	*|cris	8280
+*|free download manager	*|fdm	2211
+*|	*|cube	9112
+*|voice recorder	*|recording	5092
+*|voice recorder	*|sound recorder	5735
+*|	*|cute	8774
+*|foxit reader	*|pdf	2490
+*|powerpoint	*|power pint	10075
+*|	*|dark	8477
+*|forticlient	*|forit	6405
+*|voice recorder	*|audio recorder	7402
+*|	*|dart	8491
+*|powerpoint	*|powerpoint#	10005
+*|कैल्क्यूलेटर	*|cal	693
+*|	*|data	6937
+*|command prompt	*|сьв	9960
+*|forticlient	*|fortin	5887
+*|voice recorder	*|voice recording	7325
+*|vnc viewer	*|vnx	6945
+*|	*|ddlc	9463
+*|vmware vsphere client	*|vcenter	5819
+*|firstobject xml editor	*|foxe	1
+*|	*|dead	9402
+*|powerpoint	*|power point	5365
+*|vmware horizon client	*|vdi	4044
+*|	*|deck	8778
+*|	*|crosscare	9256
+*|firefox	*|mox	8345
+*|vmware horizon client	*|view	5247
+*|powerpoint	*|presentation	7954
+*|	*|deep	9482
+*|firefox	*|mozz	7915
+*|	*|deez	8518
+*|vlc media player	*|vlx	6582
+*|	*|deve	9344
+*|vlc media player	*|vlv	6861
+*|firefox	*|frie	9844
+*|powerpoint	*|microsoft office	9224
+*|	*|diff	9315
+*|firefox	*|fier	8234
+*|	*|dis#	8730
+*|vlc media player	*|vls	7293
+*|powerpoint	*|microsoft powerpoint	9570
+*|	*|dis]	9361
+*|vlc media player	*|vcl	6342
+*|firefox	*|fiure	9853
+*|visual studio code - insiders	*|vscode	2853
+*|	*|dise	9328
+*|visual studio code	*|visul	8308
+*|firefox	*|firte	8932
+*|visual studio code	*|vscode	3683
+*|	*|dont	9398
+*|power pdf standard	*|nuance	1140
+*|visual studio code	*|vs code	6493
+*|	*|doom	9438
+*|firefox	*|firre	9055
+*|	*|dauntless	9351
+*|	*|dual	9074
+*|visual studio code	*|visual code	6660
+*|power pdf advanced	*|nuance	1222
+*|	*|dymo	8236
+*|firefox	*|firer	8937
+*|	*|ease	9226
+*|visual studio 2019	*|devenv	6693
+*|visual studio 2017	*|devenv	6229
+*|	*|ebay	7329
+*|firefox	*|firee	9121
+*|power bi desktop	*|powerbi	2818
+*|	*|eden	8520
+*|visual studio 2015	*|vs	4607
+*|	*|edos	9164
+*|postman	*|postmn	7314
+*|firefox	*|fired	8819
+*|	*|epos	9015
+*|موجه الأوامر	*|cmd	693
+*|command prompt	*|xms	10525
+*|visio 2016	*|viso	4987
+*|	*|esea	8237
+*|visio 2013	*|viso	5169
+*|firefox	*|ffire	9984
+*|visio	*|viso	4882
+*|	*|eset	8789
+*|virtual user generator	*|vugen	1
+*|posta	*|mail	1485
+*|virtual machine manager console	*|vmm	369
+*|	*|esis	8179
+*|firefox	*|mozila	7013
+*|	*|evolution	9302
+*|	*|euro	8661
+*|video editor	*|vidoe	6886
+*|pokémon trading card game online	*|pokemon	1784
+*|	*|evac	9378
+*|firefox	*|firfox	8211
+*|	*|feed	8833
+*|video editor	*|movie maker	4820
+*|vẽ	*|ve	1582
+*|	*|fiji	8614
+*|firefox	*|firefx	9118
+*|point blank	*|pb	1801
+*|	*|flex	9250
+*|vẽ	*|paint	2145
+*|	*|flow	8477
+*|podłączanie pulpitu zdalnego	*|re	2511
+*|firefox	*|firefp	9884
+*|	*|fnaf	6999
+*|ماشین حساب	*|calc	2423
+*|verbinding met extern bureaublad	*|mstsc	315
+*|	*|foot	8604
+*|vegas pro 13.0 (64-bit)	*|sony vegas	3917
+*|firefox	*|fiefox	9481
+*|vegas pro 12.0 (64-bit)	*|sony	2118
+*|	*|free	7131
+*|لوحة التحكم	*|control	2813
+*|podłączanie pulpitu zdalnego	*|mstsc	2007
+*|uzak masaüstü bağlantısı	*|mstsc	1839
+*|	*|fuze	9290
+*|firefox	*|mozilla	5668
+*|	*|ezblocker	8843
+*|	*|gala	9467
+*|utklippsverktøy	*|snipp	2790
+*|play	*|igi	920
+*|	*|gcss	9486
+*|firefox	*|forefox	9946
+*|	*|geek	8607
+*|usługi	*|services	1575
+*|user registration system	*|urs	1
+*|	*|goo#	8804
+*|firefox	*|fireofx	9261
+*|piešimas	*|paint	1360
+*|	*|goo]	9456
+*|user interface	*|avaya	1088
+*|	*|goto	6766
+*|picasa 3	*|picassa	4099
+*|firefox	*|firefoz	8904
+*|	*|gpuz	8209
+*|	*|bitlord	8787
+*|câmara	*|cam	693
+*|uruchom	*|run	1842
+*|	*|gree	8427
+*|uplay	*|uply	7407
+*|firefox	*|firefor	9326
+*|uplay	*|uplsy	7874
+*|	*|gyaz	7762
+*|uplay	*|uplau	7073
+*|photos	*|pj	7150
+*|uplay	*|upaly	8200
+*|	*|halo	9054
+*|firefox	*|firefoc	9517
+*|	*|fightcade	8973
+*|	*|haza	9318
+*|uplay	*|siege	6953
+*|photos	*|phh	8321
+*|	*|herc	8931
+*|firefox	*|firefix	8679
+*|	*|hide	9338
+*|uplay	*|ubisoft	5863
+*|uplay	*|rainbow	7093
+*|	*|hola	8851
+*|firefox	*|fire fox	8541
+*|photos	*|pics	6467
+*|	*|home	9229
+*|universal media server	*|ums	2368
+*|	*|ibox	9361
+*|photos	*|phpt	8035
+*|final fantasy xiv - a realm reborn	*|ffxiv	3670
+*|	*|icon	8217
+*|universal cit toolbar 3.2.0	*|ucit	2842
+*|	*|icue	6296
+*|unity hub	*|unityhub	5427
+*|final fantasy xiv	*|ffxiv	3887
+*|unity	*|uniy	5921
+*|	*|idle	7788
+*|photos	*|phor	8455
+*|unity	*|untiy	6013
+*|	*|igdm	9071
+*|films & tv	*|movies	2530
+*|	*|filemaker	9128
+*|	*|ikov	8951
+*|unikeynt	*|viet	5688
+*|photos	*|phoo	7259
+*|	*|imvu	8798
+*|filezilla	*|ftp	3268
+*|	*|ipop	9286
+*|ukazni poziv	*|cmd	1
+*|távoli asztali kapcsolat	*|mstsc	688
+*|	*|iris	8110
+*|filezilla	*|fiz	8171
+*|photos	*|phoi	8547
+*|	*|iron	8841
+*|twitch	*|twith	7484
+*|	*|isis	9354
+*|photos	*|foto	7233
+*|filezilla	*|fik	8296
+*|	*|ival	8973
+*|تشغيل	*|run	693
+*|command prompt	*|xmd	9186
+*|twitch	*|twich	6702
+*|	*|ivms	8962
+*|translator	*|translate	2777
+*|filezilla	*|filw	7614
+*|trader workstation	*|tws	709
+*|	*|jade	8746
+*|tomtom mydrive connect	*|tom tom	4419
+*|photos	*|potos	8432
+*|time cloud desktop	*|timecloud	2664
+*|	*|java	6641
+*|filezilla	*|filr	8105
+*|	*|firestorm	8287
+*|	*|join	8586
+*|tightvnc viewer	*|tigth	6503
+*|photos	*|phtot	7999
+*|	*|jump	9357
+*|filezilla	*|fiel	6850
+*|	*|just	8281
+*|	*|kies	9341
+*|filezilla	*|filze	7935
+*|tightvnc viewer	*|tight vnc	6524
+*|	*|kill	7230
+*|this pc	*|thí	9558
+*|	*|king	8837
+*|filezilla	*|fille	7774
+*|photos	*|phtos	7146
+*|	*|kite	8776
+*|	*|kodu	7774
+*|filezilla	*|filke	8272
+*|this pc	*|myy	9178
+*|	*|lame	9131
+*|photos	*|phots	6475
+*|	*|lanc	7835
+*|filezilla	*|filex	7811
+*|	*|last	9206
+*|this pc	*|kom	9898
+*|	*|ldap	9120
+*|filezilla	*|filezila	6553
+*|this pc	*|co,	9847
+*|	*|lego	9142
+*|this pc	*|yhis	9737
+*|الكاميرا	*|cam	693
+*|	*|lice	9427
+*|filezilla	*|file zilla	7847
+*|photos	*|photp	8008
+*|	*|life	9296
+*|this pc	*|y pc	9591
+*|	*|lims	8346
+*|file explorer (1)	*|files	3084
+*|	*|fivem.exe	8757
+*|	*|line	8306
+*|this pc	*|tjis	9397
+*|photos	*|photi	7178
+*|	*|lisa	9378
+*|file explorer	*|f:	7315
+*|	*|loop	8946
+*|	*|lore	9423
+*|file explorer	*|e:	6916
+*|	*|loss	9203
+*|this pc	*|thus	8655
+*|this pc	*|thos	9235
+*|	*|lvis	8905
+*|file explorer	*|fii	9317
+*|	*|mail	8781
+*|photos	*|phoyos	7832
+*|	*|main	8365
+*|file explorer	*|fold	9283
+*|	*|make	9402
+*|this pc	*|mypc	6702
+*|photos	*|photod	7130
+*|	*|mame	8940
+*|file explorer	*|filw	7411
+*|	*|mari	9338
+*|	*|mars	7802
+*|file explorer	*|fils	9168
+*|this pc	*|com[	9996
+*|	*|mass	9059
+*|this pc	*|c dr	8857
+*|this pc	*|tthis	10065
+*|	*|mcre	9398
+*|file explorer	*|filr	7361
+*|الحاسبة	*|calc	2483
+*|	*|mega	7724
+*|photos	*|photoa	7648
+*|this pc	*|tjhis	10201
+*|	*|memu	8475
+*|file explorer	*|fike	8008
+*|	*|merc	9305
+*|	*|gamemaker	9110
+*|this pc	*|thuis	9085
+*|	*|mesh	8935
+*|file explorer	*|fiel	7038
+*|photos	*|images	5845
+*|	*|meta	7749
+*|	*|midi	9069
+*|file explorer	*|fille	9339
+*|	*|miku	9328
+*|this pc	*|thjis	9649
+*|	*|mind	9094
+*|file explorer	*|filke	8160
+*|this pc	*|thius	8934
+*|	*|mirc	8586
+*|photos	*|photots	7810
+*|	*|moss	8383
+*|file explorer	*|filex	9369
+*|	*|move	8268
+*|this pc	*|thiss	9508
+*|	*|mtga	7671
+*|file explorer	*|filew	8830
+*|photos	*|photoes	7748
+*|	*|muse	8999
+*|أداة القصاصة	*|sn	1506
+*|	*|myst	9241
+*|file explorer	*|files	4008
+*|	*|near	8818
+*|this pc	*|thisd	8709
+*|this pc	*|thisa	9441
+*|	*|need	8739
+*|file explorer	*|filer	8179
+*|this pc	*|thios	9260
+*|	*|nero	8336
+*|photos	*|gallery	5944
+*|	*|next	9416
+*|file explorer	*|fikle	8192
+*|this pc	*|thiis	10144
+*|	*|nice	7547
+*|	*|ge remote	8768
+*|	*|niss	9061
+*|file explorer	*|exploer	8088
+*|this pc	*|thids	9329
+*|	*|nmap	8521
+*|photos	*|pictures	4210
+*|	*|node	8286
+*|file explorer	*|download	5003
+*|	*|nova	8104
+*|	*|nvda	9371
+*|file explorer	*|fileexplorer	9369
+*|this pc	*|thias	9487
+*|	*|occt	9097
+*|this pc	*|thhis	10115
+*|	*|ochr	9232
+*|file explorer	*|file manager	7306
+*|photos	*|my photos	7351
+*|	*|osdm	8365
+*|	*|osu!	9011
+*|file explorer	*|file exploere	9379
+*|this pc	*|my pv	9701
+*|	*|oyez	9118
+*|photos	*|photo viewer	7745
+*|	*|pala	9066
+*|file explorer	*|file explorere	8499
+*|	*|pano	9354
+*|command prompt	*|vmd	9903
+*|this pc	*|my pc	4455
+*|	*|para	8994
+*|file explorer	*|windows explorer	6628
+*|this pc	*|my cp	10062
+*|	*|part	9077
+*|this pc	*|my cm	10295
+*|	*|phoe	9220
+*|fiddler 4	*|fidler	5379
+*|photos	*|photo editor	7224
+*|	*|pico	9325
+*|this pc	*|my ci	9925
+*|	*|pics	8090
+*|ferramenta de recorte	*|cut	3897
+*|	*|grammarly	9115
+*|	*|ping	7574
+*|this pc	*|mi pc	9896
+*|photos	*|windows photo	7586
+*|	*|pmdg	8820
+*|ferramenta de recorte	*|snipp	4143
+*|	*|prod	8714
+*|	*|prop	8766
+*|ferramenta de captura	*|sni	1561
+*|	*|puan	9445
+*|this pc	*|compi	9511
+*|this pc	*|tis pc	9638
+*|	*|pubg	6100
+*|fallout mod manager	*|fomm	432
+*|	*|qbit	7243
+*|photos	*|photo gallery	8037
+*|	*|qgis	8151
+*|facebook	*|face book	6101
+*|	*|qlik	8598
+*|this pc	*|thispc	6801
+*|photos	*|import photos	7484
+*|	*|qmax	7787
+*|f.lux	*|flux	1500
+*|	*|qnap	9200
+*|שורת הפקודה	*|cmd	1
+*|	*|qtac	8576
+*|f-secure safe	*|fs	1203
+*|this pc	*|thi pc	9431
+*|	*|qube	9283
+*|this pc	*|my cop	9940
+*|this pc	*|my con	10238
+*|	*|rage	6274
+*|f & b manager	*|fnb	708
+*|this pc	*|cdrive	9942
+*|	*|raid	8462
+*|photos	*|microsoft photos	7272
+*|this pc	*|thsi pc	9367
+*|	*|rego	9054
+*|exécuter	*|run	1092
+*|	*|revo	8055
+*|	*|handbrake	8617
+*|this pc	*|this px	10283
+*|	*|ride	9368
+*|exécuter	*|exe	1113
+*|perspectives	*|tm1	1998
+*|	*|rise	9274
+*|	*|risk	9082
+*|exp.o	*|expo	309
+*|	*|roat	8791
+*|this pc	*|this pv	9477
+*|	*|robo	8576
+*|executare	*|run	693
+*|this pc	*|this ps	10455
+*|	*|room	9155
+*|people	*|contacts	2408
+*|	*|safe	8079
+*|excel 2016	*|ẽ	8118
+*|	*|sai2	9344
+*|this pc	*|this oc	8283
+*|	*|samp	9126
+*|excel 2016	*|xls	7497
+*|people	*|address book	4317
+*|	*|sand	9409
+*|מחשבון	*|calc	905
+*|	*|scan	6983
+*|excel 2016	*|exx	8502
+*|	*|sccm	9434
+*|this pc	*|this cp	9812
+*|this pc	*|this [c	9998
+*|	*|self	9052
+*|excel 2016	*|exv	8860
+*|this pc	*|thic pc	9771
+*|	*|send	9001
+*|подключение к удаленному рабочему столу	*|mstsc	869
+*|pdfsam basic	*|pdf sam	3751
+*|	*|shop	8978
+*|excel 2016	*|ecx	8287
+*|this pc	*|thi spc	9114
+*|	*|side	8053
+*|	*|installer	9430
+*|	*|sits	7381
+*|excel 2016	*|exel	5862
+*|this pc	*|omputer	9711
+*|	*|skin	8418
+*|pcsx2 1.4.0	*|pcx	3554
+*|	*|skip	9381
+*|excel 2016	*|excw	8485
+*|	*|skla	9302
+*|	*|skse	9191
+*|excel 2016	*|ecel	7008
+*|this pc	*|coputer	9896
+*|	*|slam	8224
+*|this pc	*|comuter	9971
+*|	*|slic	8841
+*|excel 2016	*|wxcel	8746
+*|payroll professional	*|star	1
+*|	*|smtp	9131
+*|	*|snap	8935
+*|excel 2016	*|execl	8623
+*|this pc	*|computr	9545
+*|	*|snes	7991
+*|password safe	*|pwsafe	4291
+*|	*|soap	8622
+*|excel 2016	*|excle	8179
+*|	*|booking	8978
+*|	*|soda	9074
+*|command prompt	*|smd	9259
+*|this pc	*|compuer	9723
+*|	*|soft	7663
+*|excel 2016	*|excek	8094
+*|this pc	*|compter	9516
+*|	*|sole	8899
+*|this pc	*|this poc	9129
+*|this pc	*|this pic	9546
+*|	*|sony	7882
+*|excel 2016	*|escel	8733
+*|parancssor	*|cmd	693
+*|	*|soul	8286
+*|this pc	*|this opc	9750
+*|	*|spam	9331
+*|excel 2016	*|excell	6099
+*|	*|keyfinder	9155
+*|	*|spo#	9445
+*|this pc	*|kingston	8944
+*|pannello di controllo	*|panel	3665
+*|	*|spss	7495
+*|excel 2016	*|exccel	8928
+*|	*|ssdt	9490
+*|	*|stax	9250
+*|excel 2016	*|ms excel	9160
+*|	*|stop	8789
+*|this pc	*|computor	9354
+*|this pc	*|computer	4656
+*|	*|surf	9391
+*|excel 2016	*|spreadsheet	8911
+*|	*|sync	7970
+*|panneau de configuration	*|control	2748
+*|	*|task	9203
+*|excel 2016	*|microsoft excel	8683
+*|	*|tea,	7357
+*|this pc	*|mycomputer	8496
+*|panel điều khiển	*|con	693
+*|	*|tera	8549
+*|excel 2013	*|ẽ	7866
+*|	*|term	9334
+*|	*|test	8363
+*|excel 2013	*|xls	7549
+*|this pc	*|my compter	10466
+*|	*|text	8890
+*|this pc	*|local disk	9197
+*|this pc	*|my computor	9404
+*|	*|tftp	8484
+*|excel 2013	*|exx	7943
+*|	*|toad	9265
+*|panel sterowania	*|control	4821
+*|this pc	*|my computer	5236
+*|	*|tool	8468
+*|excel 2013	*|ecx	8102
+*|	*|toon	8563
+*|	*|lightroom	8768
+*|this pc	*|my downloads	9587
+*|	*|trak	8704
+*|excel 2013	*|exel	5787
+*|paint.net	*|pait	7361
+*|	*|tray	9299
+*|	*|true	8419
+*|excel 2013	*|excw	8304
+*|	*|tuff	9200
+*|this pc	*|this computer	8106
+*|	*|twig	9064
+*|excel 2013	*|ecel	7128
+*|this pc	*|recent places	10452
+*|	*|ulti	9344
+*|paint.net	*|paint net	7555
+*|	*|unet	8090
+*|excel 2013	*|execl	8811
+*|	*|veco	9006
+*|this pc	*|map network drive	7985
+*|	*|vera	7899
+*|excel 2013	*|excle	8530
+*|paint shop pro 7	*|psp	1775
+*|	*|vigo	9296
+*|панель управления	*|control	2727
+*|	*|vive	9015
+*|excel 2013	*|excek	8113
+*|	*|void	7859
+*|the elder scrolls online	*|eso	1146
+*|texworks	*|mik	3344
+*|	*|vray	9112
+*|excel 2013	*|spread	8029
+*|texworks	*|latex	2455
+*|	*|wamp	8651
+*|tencent gaming buddy	*|tan	5159
+*|paint shop pro 5	*|psp	813
+*|	*|wave	9253
+*|excel 2013	*|excell	5908
+*|tencent gaming buddy	*|tece	5152
+*|	*|wifi	9161
+*|	*|livesplit	8096
+*|	*|winp	9459
+*|excel 2013	*|ms excel	8586
+*|ten komputer	*|pc	4224
+*|	*|wise	9066
+*|paint 3d	*|pant	6366
+*|	*|wolf	9293
+*|excel 2013	*|microsoft excel	8206
+*|	*|wom3	9445
+*|	*|x360	9368
+*|excel	*|ẽ	10052
+*|ten komputer	*|this	4311
+*|	*|yumi	8148
+*|telegram	*|tee	7018
+*|	*|zalo	8494
+*|excel	*|xls	7947
+*|paint 3d	*|piant	7134
+*|	*|zeus	8688
+*|	*|zoip	9381
+*|excel	*|off	9011
+*|telegram	*|فثمث	6906
+*|	*|zuma	8264
+*|paint 3d	*|paint3d	4436
+*|	*|3cx	8623
+*|excel	*|exv	9175
+*|	*|888	8313
+*|command prompt	*|pip	9567
+*|telegram	*|telg	8117
+*|	*|ace	6988
+*|excel	*|exel	6486
+*|telegram	*|teke	7877
+*|	*|acm	9112
+*|tekla structural designer 2019	*|tsd	1812
+*|ножницы	*|snip	2710
+*|	*|acu	9020
+*|excel	*|excr	10877
+*|paint 3d	*|drawing	6864
+*|	*|ada	9142
+*|tekla structural designer 2018i	*|tsd	2076
+*|	*|adb	8725
+*|excel	*|ecxe	10436
+*|	*|mobaxterm	8734
+*|	*|ade	9180
+*|techpowerup gpu-z	*|gpuz	3040
+*|paint	*|art	7500
+*|	*|adp	9290
+*|excel	*|ecel	7398
+*|	*|adw	6969
+*|	*|aff	8438
+*|excel	*|wxcel	9090
+*|	*|all	8973
+*|teamviewer 14	*|tw	7937
+*|teamviewer 14	*|tesm	8996
+*|	*|alt	8903
+*|excel	*|ezcel	10717
+*|	*|amd	8323
+*|paint	*|pint	7070
+*|	*|amp	9405
+*|excel	*|exxce	10261
+*|	*|app	8387
+*|teamviewer 14	*|tema	9076
+*|paint	*|pinr	10585
+*|	*|aqn	9364
+*|excel	*|execl	9091
+*|	*|ark	8796
+*|	*|arm	9253
+*|excel	*|excwl	10729
+*|teamviewer 14	*|tea,	8142
+*|	*|art	8531
+*|teamviewer 14	*|ream	9003
+*|teamviewer 14	*|tream	8692
+*|	*|asl	9344
+*|excel	*|excle	9554
+*|моzillа firеfох	*|fire	1
+*|	*|att	8857
+*|paint	*|pant	7613
+*|teamviewer 14	*|teram	8652
+*|	*|avc	8676
+*|excel	*|excep	10869
+*|	*|avg	6452
+*|	*|msi after	9427
+*|teamviewer 14	*|teasm	8962
+*|	*|axi	8543
+*|excel	*|exced	10038
+*|paint	*|malo	10901
+*|	*|bbc	9244
+*|	*|big	8313
+*|	*|bmi	8681
+*|excel	*|excdl	10435
+*|	*|bms	9018
+*|teamviewer 14	*|teanm	8993
+*|teamviewer 14	*|teamn	8308
+*|	*|bob	8851
+*|	*|box	8180
+*|paint	*|ยฟรืะ	10651
+*|	*|bss	7281
+*|excel	*|excal	10653
+*|câmera	*|camera	1
+*|	*|bud	8962
+*|teamviewer 14	*|teamve	8828
+*|	*|bus	9203
+*|paint	*|حشهىف	9471
+*|	*|c4c	9427
+*|	*|cch	6270
+*|excel	*|escel	8926
+*|командная строка	*|cmd	693
+*|	*|ccm	9084
+*|teamviewer 14	*|teamviwer	8123
+*|	*|cdk	8884
+*|teamviewer 14	*|teamviewr	8718
+*|	*|cel	9226
+*|teamviewer 14	*|team viewer	6527
+*|	*|ch#	8622
+*|excel	*|exzcel	10497
+*|	*|ch]	9107
+*|paint	*|حشهدف	9833
+*|teamviewer 13	*|tem	6065
+*|	*|chi	9427
+*|	*|cir	9351
+*|	*|notepad++	7657
+*|	*|cl1	9200
+*|excel	*|execel	9902
+*|teamviewer 13	*|tean	6740
+*|	*|cmi	8849
+*|paint	*|зфште	9102
+*|	*|cmm	8295
+*|	*|cms	7240
+*|	*|cnc	8518
+*|excel	*|excwel	10961
+*|	*|coc	8723
+*|teamviewer 13	*|team viewer	5675
+*|teamviewer 12	*|team viewer	5211
+*|	*|cok	8787
+*|	*|crm	7457
+*|paint	*|pzint	11243
+*|	*|cru	8614
+*|excel	*|excvel	10581
+*|command prompt	*|npm	9979
+*|	*|cs3	9357
+*|teamviewer 11	*|team viewer	5027
+*|	*|cs6	8435
+*|paint	*|psiny	10888
+*|	*|dgt	9347
+*|	*|dms	8659
+*|excel	*|excewl	10070
+*|	*|dmt	9110
+*|teamspeak 3 client	*|ts3	5347
+*|	*|dns	7962
+*|teamspeak 3 client	*|tewa	8028
+*|	*|dsx	8690
+*|teamspeak 3 client	*|teas	8259
+*|	*|dtr	9235
+*|excel	*|excerl	10619
+*|	*|dts	9183
+*|paint	*|psint	9149
+*|teamspeak 3 client	*|tean	8010
+*|	*|dvd	8940
+*|	*|dwg	9445
+*|	*|overheads	9250
+*|	*|eac	9102
+*|excel	*|excelo	10849
+*|teamspeak 3 client	*|tea,	7137
+*|	*|ebs	8884
+*|paint	*|pqint	10229
+*|	*|eco	9361
+*|	*|ecs	9209
+*|	*|edi	9077
+*|excel	*|excell	6448
+*|	*|eid	9256
+*|teamspeak 3 client	*|teamp	7995
+*|teamspeak 3 client	*|teamn	8276
+*|	*|emc	8774
+*|	*|emf	9123
+*|paint	*|piant	8503
+*|	*|ems	9344
+*|excel	*|excelk	9728
+*|	*|end	9521
+*|teamspeak 3 client	*|team speak	7845
+*|	*|ep[	9044
+*|paint	*|paİnt	10349
+*|	*|erp	8433
+*|	*|eso	8795
+*|excel	*|excele	10519
+*|калькулятор	*|calc	2082
+*|	*|esr	8709
+*|command prompt	*|mcd	8687
+*|task scheduler	*|taskschd	6232
+*|	*|ess	7681
+*|símbolo del sistema	*|cmd	740
+*|	*|etg	9378
+*|számológép	*|calcu	4882
+*|	*|eth	9180
+*|excel	*|excekl	9653
+*|systemsteuerung	*|control	2917
+*|	*|eye	8899
+*|paint	*|paunt	9714
+*|systems for dentists	*|sfd	1
+*|	*|ezi	9064
+*|	*|far	8061
+*|	*|overwatch	8768
+*|	*|fit	8426
+*|excel	*|excdel	10470
+*|systemkonfiguration	*|msconfig	1
+*|	*|fix	9438
+*|paint	*|patin	9759
+*|	*|fls	9357
+*|	*|fms	9354
+*|	*|fot	9256
+*|excel	*|exccel	9343
+*|	*|fov	7310
+*|system21 explorer	*|jba	1
+*|system update	*|tvsu	4522
+*|	*|fps	9177
+*|	*|fsc	9018
+*|paint	*|paste	10282
+*|	*|fse	9175
+*|excel	*|esxcel	10519
+*|	*|ftp	8646
+*|system update	*|lenovo	2731
+*|	*|get	9049
+*|paint	*|paont	9584
+*|	*|gog	8741
+*|	*|gpm	9020
+*|excel	*|eexcel	10409
+*|калкулатор	*|calc	1782
+*|	*|gsx	9102
+*|system status	*|ssa	2123
+*|	*|gta	7333
+*|system information	*|sytem	6723
+*|	*|gus	9398
+*|system information	*|specs	5614
+*|	*|gw2	8800
+*|excel	*|msexcel	10918
+*|блокнот	*|notepad	1811
+*|	*|har	9364
+*|paint	*|paomt	11315
+*|system information	*|syste,	6792
+*|	*|hdd	9211
+*|	*|hex	8225
+*|	*|paint.net	8785
+*|	*|hfs	9052
+*|excel	*|ms excel	10176
+*|system information	*|version	5498
+*|	*|hqm	8598
+*|paint	*|panit	8937
+*|	*|hrc	8381
+*|	*|hub	8638
+*|	*|hue	8352
+*|excel	*|spreadsheet	9157
+*|	*|hxd	8774
+*|system information	*|sys info	7918
+*|system information	*|msinfo32	3663
+*|	*|ibm	9052
+*|	*|ibs	9003
+*|paint	*|paitn	7971
+*|	*|icc	9280
+*|excel	*|microsoft excel	9144
+*|	*|ice	7754
+*|system information	*|sysinfo32	8263
+*|	*|ics	9309
+*|paint	*|paind	10555
+*|	*|idm	7394
+*|	*|ids	9338
+*|excel	*|microsoft office	9926
+*|	*|brother	8992
+*|	*|ifs	8693
+*|command prompt	*|dos	7862
+*|system information	*|systeminfo	7271
+*|	*|img	9126
+*|system information	*|system type	7827
+*|	*|imo	9274
+*|system information	*|windows version	5274
+*|	*|ims	9069
+*|exact dental	*|soe	2562
+*|system engineering tool	*|set	1
+*|	*|ink	7826
+*|paint	*|paimt	8622
+*|system configuration	*|sconfig	7101
+*|	*|ipm	9412
+*|	*|iqs	9271
+*|	*|paperless	9099
+*|	*|iqx	8653
+*|exact audio copy	*|eac	440
+*|system configuration	*|mscofig	7018
+*|	*|isl	8317
+*|paint	*|paijt	10734
+*|	*|iso	9259
+*|	*|its	9361
+*|	*|jda	9338
+*|evernote	*|evr	6371
+*|system configuration	*|ms config	5947
+*|	*|jdk	7899
+*|system configuration	*|misconfig	6067
+*|	*|jjs	9071
+*|paint	*|paibt	9919
+*|	*|job	8205
+*|	*|jre	9525
+*|event viewer	*|evet	6728
+*|	*|kas	9268
+*|system configuration	*|msconfig.msc	7251
+*|paint	*|pai t	10566
+*|	*|kik	8439
+*|	*|kim	8429
+*|	*|kms	7946
+*|event viewer	*|events	6001
+*|	*|kyc	9357
+*|system configuration	*|msconfig.exe	5538
+*|symantec encryption desktop	*|pgp	561
+*|	*|lab	8569
+*|survey_program	*|delta	1502
+*|	*|lag	9142
+*|	*|lex	9309
+*|event viewer	*|eventvwr	2993
+*|paint	*|oaint	8676
+*|	*|map	6944
+*|supportassist	*|suport	6245
+*|	*|mcs	8150
+*|	*|photoshop	5158
+*|	*|men	8644
+*|supportassist	*|support assist	5279
+*|	*|mfg	9262
+*|event viewer	*|eventviewer	6774
+*|paint	*|apint	8620
+*|	*|mis	9302
+*|	*|mkv	9238
+*|	*|mmc	9448
+*|super smash flash 2 beta	*|ssf2	1444
+*|	*|mms	9351
+*|europa universalis iv golden century	*|eu4	1182
+*|sublime text 3	*|sublie	6960
+*|	*|mor	9459
+*|paint	*|[aomt	10668
+*|	*|mpc	8679
+*|command prompt	*|cnd	7344
+*|	*|mpv	8907
+*|	*|msc	9200
+*|epson scan	*|es	6183
+*|sublime text 3	*|subline	6923
+*|	*|mt4	9395
+*|paint	*|[aint	8839
+*|	*|mw2	9371
+*|σημειωματάριο	*|note	693
+*|	*|mym	8759
+*|	*|nba	8711
+*|epson scan	*|epsom	5383
+*|strumento di cattura	*|cut	3968
+*|	*|nch	8065
+*|strumento di cattura	*|capt	4041
+*|strumento di cattura	*|snipp	3510
+*|	*|ncw	9305
+*|strumento di cattura	*|scree	3988
+*|	*|nes	9334
+*|paint	*|spaint	10224
+*|	*|new	9131
+*|epson scan	*|scanner	5008
+*|streamlabs obs	*|stra	7112
+*|	*|nik	9220
+*|	*|publisher	8340
+*|	*|noh	8254
+*|store	*|play	4204
+*|	*|non	9430
+*|paint	*|psaint	11045
+*|	*|now	6759
+*|epic games launcher	*|epci	8631
+*|	*|nox	7779
+*|	*|nuc	9250
+*|store	*|app store	3947
+*|	*|oct	9309
+*|store	*|windows store	4788
+*|	*|old	8554
+*|epic games launcher	*|eoic	9382
+*|	*|osl	8958
+*|paint	*|ppaint	9245
+*|cốc cốc	*|coc	573
+*|	*|pbe	8178
+*|	*|pdf	7500
+*|store	*|microsoft store	4607
+*|	*|per	9223
+*|epic games launcher	*|epioc	8129
+*|paint	*|poaint	9470
+*|	*|pes	8113
+*|	*|pfe	9217
+*|	*|pid	9274
+*|stoppage analysis module	*|sam	1
+*|	*|pio	8962
+*|epic games launcher	*|unreal	5880
+*|sticky notes	*|stui	9225
+*|	*|plm	9357
+*|sticky notes	*|nots	7770
+*|πίνακας ελέγχου	*|control	1294
+*|	*|psc	9318
+*|paint	*|piaint	11285
+*|	*|pso	8175
+*|sticky notes	*|noes	9385
+*|	*|psp	9438
+*|epic games launcher	*|epicgames	7087
+*|	*|qad	8855
+*|	*|putty.exe	8938
+*|sticky notes	*|stiky	7395
+*|	*|qmf	8716
+*|paint	*|pbrush	7758
+*|	*|qua	9136
+*|	*|r2s	8839
+*|enterprise architect	*|ea	1180
+*|	*|ram	8750
+*|sticky notes	*|sticy	7650
+*|	*|rat	9364
+*|sticky notes	*|sticl	8108
+*|	*|rbx	8356
+*|	*|rdb	8907
+*|engine mro production	*|ifs	688
+*|paint	*|pauint	9848
+*|	*|rdc	9128
+*|command prompt	*|cmv	11245
+*|	*|rds	8576
+*|sticky notes	*|sticj	8281
+*|	*|rec	7572
+*|paint	*|pasint	10013
+*|	*|red	7878
+*|em client	*|mail	4575
+*|	*|ref	9305
+*|	*|ren	8967
+*|sticky notes	*|stcky	8455
+*|	*|ria	8931
+*|sticky notes	*|sicky	8707
+*|	*|rio	7550
+*|em client	*|email	4647
+*|sticky notes	*|notas	8768
+*|	*|rms	9177
+*|ζωγραφική	*|paint	1390
+*|paint	*|paqint	11259
+*|	*|rog	8557
+*|sticky notes	*|stivky	8922
+*|	*|ros	9082
+*|	*|rsi	8835
+*|elite dangerous market connector	*|edm	1085
+*|	*|quicktime	9405
+*|	*|rub	9262
+*|sticky notes	*|stikcy	8445
+*|paint	*|paoint	9455
+*|	*|sap	7167
+*|	*|sba	9283
+*|	*|scp	8216
+*|electronic time sheet smart client (production)	*|ets	1
+*|	*|sdm	8999
+*|sticky notes	*|sticku	7815
+*|sticky notes	*|stickt	8135
+*|	*|sdr	8942
+*|	*|sea	8572
+*|paint	*|paiunt	9061
+*|	*|see	8139
+*|ekran alıntısı aracı	*|snip	2627
+*|	*|ses	9299
+*|sticky notes	*|stciky	8150
+*|	*|sfm	8728
+*|paint	*|paiont	8624
+*|	*|sil	9175
+*|	*|slr	9438
+*|eingabeaufforderung	*|cmd	707
+*|εργαλείο αποκομμάτων	*|snip	1762
+*|	*|sos	7751
+*|sticky notes	*|sitcky	8948
+*|	*|sts	8730
+*|sticky notes	*|postit	7673
+*|	*|sun	8484
+*|sticky notes	*|stickey	7575
+*|	*|swa	9305
+*|eidosmedia méthode 7.0	*|methode	1
+*|	*|sym	9082
+*|paint	*|painyt	9245
+*|sticky notes	*|sticker	7181
+*|	*|tam	7618
+*|	*|tap	9633
+*|	*|resharper	9315
+*|	*|tcp	8461
+*|ee live	*|qad	1
+*|sticky notes	*|stickies	7146
+*|	*|ten	8664
+*|paint	*|painty	8354
+*|	*|teo	9391
+*|	*|tfb	9186
+*|	*|tik	9256
+*|edytor rejestru	*|regedit	428
+*|sticky notes	*|stickynotes	8210
+*|	*|tms	7351
+*|sticky notes	*|stick notes	8762
+*|	*|top	9102
+*|paint	*|paintt	9181
+*|	*|trs	9126
+*|command prompt	*|cmp	8778
+*|	*|tsm	9354
+*|editor	*|text	3732
+*|	*|tux	9120
+*|sticky notes	*|post it notes	8965
+*|paint	*|paints	9217
+*|	*|uat	9120
+*|	*|ugx	8511
+*|명령 프롬프트	*|cmd	1
+*|	*|url	9277
+*|editor	*|notepad	2415
+*|	*|usb	8640
+*|steps recorder	*|psr	1993
+*|steam	*|srt	8685
+*|	*|vdi	9265
+*|steam	*|civ	8630
+*|	*|via	7717
+*|paint	*|paintr	8835
+*|	*|vip	8878
+*|ebay	*|e bay	3970
+*|steam	*|stam	10389
+*|	*|vlc	6004
+*|	*|runescape	8385
+*|	*|vnc	5721
+*|steam	*|seam	10482
+*|	*|vop	9368
+*|paint	*|paintg	10564
+*|	*|vpn	6999
+*|e-sword	*|esw	1
+*|	*|war	7541
+*|	*|wfm	8001
+*|steam	*|dota	7949
+*|	*|who	9331
+*|steam	*|csgo	7543
+*|	*|wii	9241
+*|e-post	*|mail	1
+*|	*|wms	8845
+*|paint	*|painte	10392
+*|steam	*|syeam	9821
+*|	*|wps	8718
+*|	*|xrm	7681
+*|	*|ytd	8246
+*|e-max rm6	*|emax	1
+*|paint	*|paint]	9258
+*|	*|zap	9200
+*|steam	*|stwea	9707
+*|	*|zee	8989
+*|	*|zen	8886
+*|command prompt	*|cmg	9977
+*|	*|zpl	9259
+*|dzlauncher	*|dayz	1274
+*|steam	*|stwam	10564
+*|3ds max 2018	*|3dsmax	4222
+*|paint	*|paint4	11142
+*|steam	*|stram	10046
+*|3ds max 2019	*|3dsmax	4833
+*|steam	*|stesm	9775
+*|7-zip file manager	*|7 zip	4068
+*|paint	*|paint'	10721
+*|7-zip file manager	*|7zip	2117
+*|dropbox	*|dropo	7766
+*|Feedback hub	*|Windows feedback	64000
+*|	*|setup.exe	9493
+*|steam	*|stema	8634
+*|Snip and sketch	*|Snip & sketch	64000
+*|steam	*|steaj	10473
+*|Snip and sketch	*|Screenshot	64000
+*|Sticky notes	*|Notes	64000
+*|dropbox	*|drop box	6058
+*|Video Editor	*|Movie Maker	64000
+*|paint	*|paint#	9355
+*|Visual Studio Code	*|VS Code	64000
+*|steam	*|stea]	9850
+*|access	*|msaccess	5837
+*|access	*|acess	4627
+*|drive file stream	*|google	2416
+*|steam	*|staem	8941
+*|access 2013	*|acess	4155
+*|access 2016	*|acess	4095
+*|paint	*|painrt	9300
+*|accounting	*|psf	691
+*|steam	*|sream	9650
+*|accounts 2.51c	*|access	1196
+*|don't starve together	*|dont	1189
+*|accounts 2.51f	*|access	938
+*|γραμμή εντολών	*|cmd	693
+*|accounts 2.51g	*|access	1222
+*|steam	*|setam	10025
+*|acrobat reader dc	*|adobe re	5965
+*|paint	*|painnt	9868
+*|active directory users and computers	*|actie	7288
+*|disk cleanup	*|dsk	7442
+*|steam	*|sdtea	10259
+*|active directory users and computers	*|dsa.	7274
+*|steam	*|cs go	9844
+*|paint	*|painmt	8803
+*|activinspire	*|active	4164
+*|adobe creative cloud	*|adobe cc	5748
+*|	*|skywalker	9305
+*|adobe reader touch	*|pdf	1673
+*|disk cleanup	*|dick	6940
+*|steam	*|ateam	9771
+*|adobe reader xi	*|acro	4000
+*|steam	*|styeam	10004
+*|adobe reader xi	*|pdf	1949
+*|advanced ip scanner	*|ipsca	4801
+*|alarm & uhr	*|timer	1014
+*|disk cleanup	*|disck	6228
+*|paint	*|painjt	10413
+*|alarms & clock	*|what time is it	7974
+*|steam	*|stteam	10188
+*|alarms & clock	*|alarms  clock	7465
+*|steam	*|stream	9741
+*|alarms & clock	*|alarm clock	7439
+*|command prompt	*|cmb	8992
+*|alarms & clock	*|world clock	7922
+*|disk cleanup	*|clear	5959
+*|alarms & clock	*|stop watch	7183
+*|paint	*|painit	11325
+*|steam	*|stewam	9634
+*|alarms & clock	*|set alarm	7535
+*|alarms & clock	*|stopwatch	5118
+*|steam	*|stesam	10458
+*|alarms & clock	*|clcok	7472
+*|disk cleanup	*|cleanmgr	5585
+*|alarms & clock	*|clocl	6705
+*|steam	*|steram	9068
+*|paint	*|paingt	10625
+*|alarms & clock	*|timer	2070
+*|steam	*|steqam	10516
+*|alarms & clock	*|alae	7380
+*|steam	*|steeam	9745
+*|alarms & clock	*|alam	6958
+*|disk cleanup	*|clean up	5790
+*|paint	*|painbt	9370
+*|alarms & clock	*|alrm	7246
+*|	*|start tor	7249
+*|alarms & clock	*|imer	6597
+*|steam	*|steasm	9116
+*|alarms & clock	*|timr	7649
+*|steam	*|steaqm	10669
+*|alat za izrezivanje	*|sni	1
+*|disk cleanup	*|diskclean	7147
+*|alienware update	*|dell	1857
+*|all 4	*|all4	2951
+*|paint	*|pain t	9616
+*|amd settings	*|radeon	3007
+*|steam	*|steanm	9192
+*|anaconda navigator	*|python	4755
+*|disk cleanup	*|clean disk	7168
+*|analyzer	*|bex	2284
+*|steam	*|steams	10293
+*|cốc cốc	*|cô	3971
+*|android studio	*|andrio	6312
+*|android studio	*|andoi	6566
+*|paint	*|paimnt	9385
+*|android studio	*|sdk	6354
+*|disk cleanup	*|disc cleanup	6685
+*|steam	*|steamn	8636
+*|angry ip scanner	*|ipscan	4633
+*|αριθμομηχανή	*|calc	1865
+*|anteckningar	*|notepad	1056
+*|anydesk	*|any desk	5883
+*|steam	*|steamm	9696
+*|aparat	*|camera	2411
+*|disk cleanup	*|disk clean up	6055
+*|paint	*|paijnt	10276
+*|application manager	*|avid	1
+*|steam	*|steam]	9302
+*|steam	*|steam,	8444
+*|audacity	*|audactiy	7794
+*|paint	*|paiint	9365
+*|audacity	*|audca	7328
+*|audacity	*|audi	7381
+*|disk clean-up	*|disj	7694
+*|	*|steam.exe	8611
+*|audit automation	*|pro	749
+*|steam	*|steaam	9751
+*|steam	*|stea,m	9446
+*|audit automation (1)	*|pro	1095
+*|ausführen	*|run	1
+*|autocad 2018 - english	*|acad	5103
+*|disk clean-up	*|disck	6321
+*|automate control center	*|lab	2007
+*|paint	*|paibnt	9733
+*|steam	*|ssteam	9396
+*|avast secureline	*|vpn	1603
+*|aw command center	*|alien	885
+*|steam	*|sateam	10452
+*|backup and sync from google	*|google drive	3305
+*|disk clean-up	*|cleanup	4515
+*|command prompt	*|chk	10579
+*|backup and sync from google	*|drive	2703
+*|paint	*|paiant	11346
+*|basic paye tools - standard mode	*|rti	2479
+*|steam	*|rocket	8943
+*|battle.net	*|battle net	8112
+*|battle.net	*|battlenet	6762
+*|disk clean-up	*|cleanmgr	5605
+*|éditeur du registre	*|regedit	1
+*|battle.net	*|blizzard	5802
+*|start zoom	*|zoon	6611
+*|battle.net	*|batlle	8303
+*|paint	*|pai9nt	11392
+*|battle.net	*|battke	8427
+*|start zoom	*|zooom	7217
+*|battle.net	*|batle	7618
+*|disk clean-up	*|clean up	5646
+*|start platform manager	*|sode	1
+*|battle.net	*|batte	7387
+*|paint	*|pai nt	10749
+*|battle.net	*|battt	8165
+*|	*|teamspeak	8357
+*|battle.net	*|batr	8424
+*|star wars - the old republic	*|swtor	2226
+*|battle.net	*|baa	7942
+*|disk clean-up	*|diskclean	7175
+*|star stable online	*|starstable	3785
+*|battlefield 1	*|bf1	2026
+*|battlefield™ v	*|bfv	2916
+*|battlestate games launcher	*|bsg	2638
+*|paint	*|paaint	9562
+*|bet angel - professional	*|betangel	1209
+*|disk clean-up	*|disc clean	5983
+*|star computers smart time entry	*|smarttime	3795
+*|big-ip edge client	*|big ip	3823
+*|sql server management studio	*|ssms	2880
+*|big-ip edge client	*|bigip	4760
+*|blizzard app	*|battle	3340
+*|bloc de notas	*|notepad	2057
+*|disk clean-up	*|disk cleanup	4396
+*|paint	*|p[aint	9286
+*|bloc-notes	*|notepad	2857
+*|sql server 2014 management studio	*|ssms	2937
+*|blocco note	*|notepad	2354
+*|	*|calibre	8927
+*|bloco de notas	*|notepad	2311
+*|blue jeans	*|bluejeans	2427
+*|disk clean-up	*|disk cleaner	7735
+*|sql plus	*|sqlplus	1938
+*|brackets	*|brak	5521
+*|paint	*|opaint	10439
+*|sql developer	*|sqlde	3856
+*|bt virus protect	*|mca	2233
+*|sql compare 13	*|red	2064
+*|bt virus protect (1)	*|mc	1
+*|paint	*|mspint	10862
+*|calculadora	*|calculator	5822
+*|disk clean-up	*|disk clean up	5652
+*|calculadora	*|cacl	6082
+*|	*|tessitura	9331
+*|spyder	*|spider	6053
+*|calculator	*|calcolatrice	11782
+*|spyder	*|python	4365
+*|calculator	*|calculatrice	11799
+*|calculator	*|rekenmachine	11283
+*|discord	*|disv	9721
+*|calculator	*|calaculator	11549
+*|paint	*|mspait	10895
+*|calculator	*|calculadora	10222
+*|spotify	*|sp[	8980
+*|calculator	*|calculation	10564
+*|calculator	*|calculatior	11126
+*|discord	*|disd	8953
+*|spotify	*|spto	8290
+*|calculator	*|calculatoer	12073
+*|command prompt	*|c,d	7845
+*|calculator	*|calculatoir	11185
+*|paint	*|apaint	10668
+*|calculator	*|calculatore	11140
+*|spotify	*|spop	9952
+*|calculator	*|calculators	12057
+*|discord	*|disa	9304
+*|calculator	*|calculatort	12063
+*|spotify	*|spoo	9569
+*|calculator	*|caclulator	11068
+*|spotify	*|spof	10034
+*|calculator	*|calcaultor	11984
+*|paint	*|[paint	10226
+*|calculator	*|calcualtor	9048
+*|discord	*|dis]	10625
+*|spotify	*|sspot	10010
+*|calculator	*|calculaotr	10740
+*|spotify	*|sppot	9703
+*|paint	*|paintnt	11246
+*|calculator	*|calculated	12057
+*|calculator	*|calculater	8607
+*|	*|tlauncher	6597
+*|calculator	*|calculatir	10363
+*|discord	*|dios	10241
+*|spotify	*|spoyi	10533
+*|calculator	*|calculatot	10862
+*|spotify	*|spoty	8019
+*|calculator	*|calculatpr	11429
+*|calculator	*|calculatro	10334
+*|calculator	*|calcultaor	11561
+*|discord	*|diis	9976
+*|paint	*|mspiant	11206
+*|calculator	*|caluclator	10584
+*|spotify	*|spotr	10313
+*|calculator	*|claculator	10372
+*|spotify	*|sptify	9570
+*|calculator	*|kalkulator	10931
+*|calculator	*|caculator	9652
+*|discord	*|diusc	10678
+*|calculator	*|calclator	11045
+*|paint	*|mspaint	4976
+*|spotify	*|spotiy	9200
+*|calculator	*|calcuator	10072
+*|calculator	*|calculaor	10500
+*|µtorrent	*|utorrent	3173
+*|calculator	*|calcularo	11642
+*|discord	*|disxc	9603
+*|calculator	*|calcultor	9715
+*|spotify	*|spotiu	9439
+*|paint	*|msapint	10058
+*|calculator	*|calulator	9979
+*|spotify	*|spotfy	8332
+*|calculator	*|clculator	10962
+*|spotify	*|spoify	10327
+*|calculator	*|calccalc	11928
+*|discord	*|discv	9918
+*|paint	*|drawing	9533
+*|calculator	*|calculay	12122
+*|	*|undertale	9175
+*|calculator	*|calculka	12041
+*|spotify	*|sotify	9569
+*|calculator	*|calcutor	11425
+*|spotify	*|spotufy	9380
+*|calculator	*|calcalc	12118
+*|discord	*|dscord	10166
+*|calculator	*|calcuka	11414
+*|calculator	*|calcukl	10897
+*|paint	*|painting	9854
+*|calculator	*|calculo	12023
+*|spotify	*|spotofy	8997
+*|calculator	*|calculs	12099
+*|discord	*|disord	8999
+*|calculator	*|rechner	8933
+*|spotify	*|spotigy	8876
+*|command prompt	*|adb	9228
+*|calculator	*|calcil	11928
+*|calculator	*|calciu	11470
+*|paint	*|ms paint	7597
+*|calculator	*|calclu	11167
+*|discord	*|discrd	8924
+*|spotify	*|spotifu	9073
+*|calculator	*|calcui	10739
+*|calculator	*|calcuy	11280
+*|calculator	*|calcyu	11763
+*|spotify	*|spotidy	9248
+*|calculator	*|callcu	12128
+*|discord	*|discod	8686
+*|paint	*|paintaint	11111
+*|calculator	*|calucu	12041
+*|spotify	*|spotfiy	8200
+*|spotify	*|spoitfy	10526
+*|calculator	*|laskin	10633
+*|paint	*|paint.net	9487
+*|calculator	*|acalc	11498
+*|calculator	*|alcal	11733
+*|discord	*|dicord	8624
+*|	*|userbench	8927
+*|calculator	*|c alc	11129
+*|spotify	*|apotify	10055
+*|spotify	*|spotiofy	10079
+*|calculator	*|caalc	10336
+*|calculator	*|cacal	11551
+*|calculator	*|caclc	9809
+*|discord	*|duscird	10374
+*|calculator	*|cakcu	11928
+*|paint	*|paintpaint	10177
+*|calculator	*|caklc	10095
+*|calculator	*|calal	11182
+*|calculator	*|calc#	9850
+*|discord	*|dsicord	7740
+*|calculator	*|calc'	11866
+*|paint	*|paintbrush	11098
+*|calculator	*|calc4	11381
+*|calculator	*|calc7	11348
+*|calculator	*|calc]	10131
+*|discord	*|doscprd	10604
+*|calculator	*|calce	11689
+*|command prompt	*|xcmd	10751
+*|calculator	*|calck	11758
+*|paint	*|photo editor	11392
+*|calculator	*|calcs	11302
+*|calculator	*|calcv	10046
+*|discord	*|disocrd	7986
+*|spotify	*|sportify	9583
+*|calculator	*|calcx	10063
+*|paint	*|windows paint	11315
+*|calculator	*|calkc	9779
+*|	*|visualboy	9357
+*|calculator	*|caloc	10838
+*|control panel	*|cotrol panel	10806
+*|calculator	*|calvc	10909
+*|discord	*|discrod	8253
+*|paint	*|picture editor	11418
+*|메모장	*|notepad	2233
+*|paint	*|microsoft paint	9273
+*|daemon tools lite	*|deamon	4684
+*|pageant	*|pagent	3515
+*|그림판	*|paint	1856
+*|p4v	*|perforce	4557
+*|	*|wallpaper	9030
+*|control panel	*|แนื	11116
+*|p-touch editor 5.2	*|ptouch	2533
+*|speccy	*|specy	5347
+*|command prompt	*|rcmd	9902
+*|overdrive	*|amd	523
+*|yy语音	*|y'y	2325
+*|sourcetree	*|soure	6853
+*|outlook 2016	*|خعف	9370
+*|outlook 2016	*|oit	9528
+*|	*|wireshark	9238
+*|outlook 2016	*|iut	9824
+*|outlook 2016	*|ouyt	8791
+*|yu-gi-oh! the dawn of a new era	*|ygo	1116
+*|sonos	*|sonso	5871
+*|outlook 2016	*|outy	8705
+*|sonicwall netextender	*|dell	3703
+*|outlook 2016	*|outt	9674
+*|	*|advanced	8820
+*|outlook 2016	*|outr	10165
+*|software center	*|scc	5653
+*|command prompt	*|ping	6011
+*|outlook 2016	*|outk	9268
+*|control panel	*|controlpanel	8973
+*|outlook 2016	*|ourt	9735
+*|outlook 2016	*|ouit	8748
+*|	*|audacity	6957
+*|software center	*|spft	8658
+*|outlook 2016	*|oout	9332
+*|outlook 2016	*|oiut	9067
+*|ytd video downloader	*|youtube	4032
+*|software center	*|sofy	7879
+*|outlook 2016	*|mail	6392
+*|software center	*|sofr	8434
+*|outlook 2016	*|inbox	9399
+*|	*|bandicam	9351
+*|outlook 2016	*|outook	9034
+*|control panel	*|control pnel	10282
+*|command prompt	*|mcmd	11211
+*|outlook 2016	*|oulook	8679
+*|youtube v2.0	*|you tube	5105
+*|control panel	*|contraol	10777
+*|outlook 2016	*|otlook	9777
+*|software center	*|softe	8003
+*|software center	*|softwe	8759
+*|outlook 2016	*|office	8204
+*|	*|building	9131
+*|outlook 2016	*|emails	9773
+*|software center	*|sotware	8307
+*|software center	*|sofware	7613
+*|outlook 2016	*|outlool	8882
+*|	*|voicemod	8748
+*|command prompt	*|dcmd	11025
+*|outlook 2016	*|outloko	10032
+*|software center	*|softwre	7466
+*|outlook 2016	*|outlokk	8872
+*|	*|caffeine	8944
+*|software center	*|softwae	8425
+*|outlook 2016	*|outllok	7980
+*|software center	*|softare	7914
+*|outlook 2016	*|outloook	8515
+*|software center	*|softwrae	8625
+*|daily desktop wallpaper	*|bing	460
+*|outlook 2016	*|outlookl	9980
+*|software center	*|software centre	5493
+*|socksclient	*|vip	1
+*|outlook 2016	*|outlookj	10251
+*|	*|ccleaner	8587
+*|snippingtool	*|snipping tool	4316
+*|outlook 2016	*|outlook#	9875
+*|snipping tool	*|v	12490
+*|	*|techniclauncher.exe	9357
+*|outlook 2016	*|outllook	9558
+*|snipping tool	*|سىه	10950
+*|command prompt	*|cxmd	10289
+*|snipping tool	*|нож	11969
+*|outlook 2016	*|out look	10184
+*|control panel	*|control pael	10974
+*|outlook 2016	*|calendar	10397
+*|	*|chromium	9561
+*|control panel	*|زخدف	11679
+*|snipping tool	*|wyc	12084
+*|outlook 2016	*|outlook2016	9027
+*|outlook 2016	*|outlook.com	9650
+*|outlook 2016	*|microsoft outlook	9140
+*|outlook 2013	*|oy	8698
+*|	*|creative	8895
+*|snipping tool	*|sny	12512
+*|outlook 2013	*|ot	8168
+*|control panel	*|control anel	11104
+*|outlook 2013	*|خعف	9454
+*|yoursite explorer	*|yse	1311
+*|command prompt	*|cvmd	10321
+*|snipping tool	*|sn#	10907
+*|outlook 2013	*|oit	9409
+*|control panel (1)	*|uninstall	6440
+*|outlook 2013	*|ouyt	8637
+*|	*|dameware	7917
+*|outlook 2013	*|outy	8583
+*|outlook 2013	*|ourt	9583
+*|snipping tool	*|nap	11910
+*|snipping tool	*|kép	11802
+*|outlook 2013	*|ouit	8663
+*|outlook 2013	*|oiut	8883
+*|	*|dashlane	9166
+*|snipping tool	*|سدهح	12377
+*|outlook 2013	*|mail	6137
+*|control panel	*|contro panel	10107
+*|outlook 2013	*|inbox	8994
+*|command prompt	*|comd	9040
+*|snipping tool	*|znip	11681
+*|outlook 2013	*|outook	9302
+*|outlook 2013	*|oulook	8782
+*|	*|discord#	9271
+*|snipping tool	*|xnip	11679
+*|outlook 2013	*|office	8192
+*|outlook 2013	*|emails	9570
+*|xtreme download manager	*|xdm	336
+*|outlook 2013	*|outlool	9113
+*|snipping tool	*|wnip	11808
+*|snipping tool	*|trim	9455
+*|outlook 2013	*|outlokk	8802
+*|	*|easymars	8814
+*|snipping tool	*|spin	8939
+*|outlook 2013	*|outllok	8042
+*|control panel	*|contrl panel	10935
+*|snipping tool	*|snİp	11665
+*|outlook 2013	*|outloook	8644
+*|command prompt	*|cnmd	9493
+*|outlook 2013	*|outlook#	9454
+*|snipping tool	*|snuo	11342
+*|outlook 2013	*|out look	9625
+*|	*|electrum	8280
+*|snipping tool	*|snsn	12487
+*|control panel	*|contreol	9885
+*|outlook 2013	*|outlook2013	9548
+*|snipping tool	*|snkp	12241
+*|outlook 2013	*|microsoft outlook	9230
+*|snipping tool	*|snit	10259
+*|xbox console companion	*|xbxo	7161
+*|snipping tool	*|snis	11881
+*|outlook	*|خعف	10353
+*|snipping tool	*|snim	12137
+*|snipping tool	*|snil	11560
+*|outlook	*|щге	10674
+*|	*|esportal	8578
+*|	*|visual studio code	9018
+*|outlook	*|oyu	10208
+*|snipping tool	*|snie	12166
+*|outlook	*|oyt	10105
+*|xbox console companion	*|xbpx	7438
+*|data loader	*|dataloader	3483
+*|snipping tool	*|sni]	11296
+*|outlook	*|ouo	11402
+*|outlook	*|otu	11339
+*|	*|explorer	7122
+*|outlook	*|oit	9317
+*|계산기	*|calcu	3806
+*|outlook	*|iut	9695
+*|snipping tool	*|snao	11543
+*|outlook	*|0ut	10406
+*|control panel	*|contol panel	10031
+*|outlook	*|pout	11218
+*|	*|f secure	9238
+*|outlook	*|ouyt	8963
+*|outlook	*|ouut	10481
+*|control panel	*|conrol panel	10466
+*|command prompt	*|cmsd	9166
+*|outlook	*|outy	9821
+*|snipping tool	*|slip	11627
+*|outlook	*|outu	11120
+*|	*|facebook	9094
+*|snipping tool	*|scip	12074
+*|outlook	*|outr	9950
+*|snipping tool	*|sbuo	11318
+*|outlook	*|out]	9985
+*|outlook	*|ourt	9716
+*|control panel (1)	*|contorl	6498
+*|outlook	*|ou't	10795
+*|	*|fortnite	7203
+*|snipping tool	*|s'ni	10838
+*|outlook	*|oput	11259
+*|outlook	*|oiut	9127
+*|snipping tool	*|s ni	11552
+*|xbox console companion	*|xboz	7321
+*|outlook	*|mail	6791
+*|control panel	*|cntrol panel	11580
+*|outlook	*|outlk	10270
+*|	*|geogebra	9344
+*|snipping tool	*|knip	8769
+*|outlook	*|outkl	11277
+*|snipping tool	*|klip	11210
+*|outlook	*|inbox	9320
+*|xbox console companion	*|xboc	7497
+*|command prompt	*|cmnd	8598
+*|snipping tool	*|grab	8820
+*|outlook	*|outout	10590
+*|outlook	*|outook	9007
+*|	*|git bash	8944
+*|snipping tool	*|crop	7624
+*|outlook	*|oulook	8708
+*|snipping tool	*|cnip	11493
+*|control panel	*|contriol	10019
+*|outlook	*|otlook	9741
+*|電卓	*|calc	1468
+*|snipping tool	*|catt	12659
+*|snipping tool	*|wsnip	12382
+*|outlook	*|office	8147
+*|snipping tool	*|swnip	11539
+*|snipping tool	*|snmip	11114
+*|outlook	*|emails	9712
+*|	*|goldmine	8540
+*|	*|internet explorer	7561
+*|outlook	*|e mail	11179
+*|snipping tool	*|snkip	11873
+*|outlook	*|putlook	10407
+*|xbox console companion	*|xbix	6810
+*|snipping tool	*|snjip	12191
+*|outlook	*|ouylook	10805
+*|outlook	*|outlool	9643
+*|	*|grimoire	8962
+*|outlook	*|outlooj	11304
+*|outlook	*|outloko	10068
+*|snipping tool	*|snipy	11751
+*|xbox console companion	*|xboix	7398
+*|outlook	*|outlokk	9087
+*|control panel	*|panel control	11376
+*|outlook	*|outlock	10818
+*|	*|hp print	8737
+*|outlook	*|outllok	8096
+*|control panel	*|c ontrol	11422
+*|outlook	*|ourlook	10453
+*|	*|windower	8955
+*|command prompt	*|cmmd	9437
+*|outlook	*|oultook	11007
+*|snipping tool	*|snips	10125
+*|snipping tool	*|snipn	11650
+*|outlook	*|outtlook	11271
+*|	*|impactor	9177
+*|outlook	*|outloook	9445
+*|snipping tool	*|snipg	12655
+*|outlook	*|outlooko	11087
+*|control panel	*|control pnale	11900
+*|outlook	*|outlookl	9847
+*|snipping tool	*|snip]	10600
+*|outlook	*|outlookj	10134
+*|	*|intellij	9061
+*|snipping tool	*|snip4	12014
+*|outlook	*|outlook]	9976
+*|outlook	*|outlook#	9303
+*|control panel	*|contro l	11744
+*|snipping tool	*|snip0	11718
+*|outlook	*|outlooik	10414
+*|snipping tool	*|snip-	12174
+*|outlook	*|outllook	9711
+*|	*|intranet	9226
+*|control panel	*|control pnael	10741
+*|snipping tool	*|snip#	10904
+*|outlook	*|out look	10202
+*|outlook	*|ouitlook	11003
+*|snipping tool	*|snioo	10018
+*|command prompt	*|cmfd	9441
+*|outlook	*|ooutlook	11005
+*|snipping tool	*|sninp	11919
+*|outlook	*|calendar	10947
+*|	*|inventry	8271
+*|阿里旺旺	*|ali	1
+*|snipping tool	*|snini	12259
+*|snipping tool	*|snikp	11346
+*|outlook	*|outlook.com	9084
+*|snipping tool	*|sniff	11250
+*|outlook	*|outlook 2016	10641
+*|xbox console companion	*|xbox com	7543
+*|snipping tool	*|sni0p	12285
+*|	*|league of legends	8468
+*|outlook	*|open outlook	10264
+*|snipping tool	*|snhip	12392
+*|	*|launcher	8194
+*|outlook	*|microsoft office	10503
+*|snipping tool	*|snaip	10971
+*|outlook	*|microsoft outlook	9401
+*|data transfer workbench (32-bit)	*|dtw	702
+*|controlconsole api	*|ccapi	1
+*|outil capture d’écran	*|cut	5238
+*|邮件	*|mail	693
+*|outil capture d’écran	*|screen	5235
+*|	*|logitech	8174
+*|snipping tool	*|sn ip	11606
+*|outil capture d’écran	*|snipping	4833
+*|orodje za izrezovanje	*|sni	1
+*|control panel	*|control panle	9860
+*|origin	*|orign	6664
+*|	*|lol skin	8835
+*|origin	*|orgin	5684
+*|snipping tool	*|sinip	12310
+*|snipping tool	*|sdnip	11554
+*|origin	*|orogin	7820
+*|xbox console companion	*|xbox app	5549
+*|command prompt	*|cmed	10221
+*|origin	*|oriign	8607
+*|snipping tool	*|scrre	11941
+*|origin	*|origen	8669
+*|	*|maconomy	8099
+*|control panel	*|control panal	9812
+*|origin	*|origins	7170
+*|snipping tool	*|scren	10778
+*|order lifecycle enviroment - 1	*|ole	1
+*|snipping tool	*|sbnip	10823
+*|oracle vm virtualbox	*|virut	6331
+*|	*|multiple	9214
+*|oracle vm virtualbox	*|virta	7019
+*|control panel	*|controal	11159
+*|snipping tool	*|sanip	11048
+*|oracle vm virtualbox	*|virtual box	6343
+*|xbox	*|xox	7754
+*|snipping tool	*|nsnip	11499
+*|opera browser	*|opra	6495
+*|snipping tool	*|nsipp	12294
+*|opera browser	*|opera.	6530
+*|	*|netbeans	9008
+*|snipping tool	*|ferra	12176
+*|openoffice writer	*|open office	3585
+*|openoffice	*|open office	2946
+*|xbox	*|dvr	7599
+*|snipping tool	*|dnipp	12220
+*|	*|agresso	7253
+*|open broadcaster software (64bit)	*|obs	902
+*|snipping tool	*|asnip	11425
+*|	*|openhard	8714
+*|snipping tool	*|snuipp	12568
+*|open broadcaster software (32bit)	*|obs	1
+*|	*|path of building	8230
+*|control panel	*|mail	6934
+*|opdrachtprompt	*|cmd	693
+*|snipping tool	*|snping	12541
+*|command prompt	*|cmds	8573
+*|onenote 2016	*|onw	7238
+*|snipping tool	*|snoipp	12058
+*|onenote 2016	*|onr	7636
+*|	*|optifine	9378
+*|control panel	*|control apnel	10950
+*|onenote 2016	*|onne	8869
+*|onenote 2016	*|onew	9009
+*|메모장	*|memo	2453
+*|control panel	*|uin	10927
+*|snipping tool	*|snippt	11580
+*|onenote 2016	*|onene	9012
+*|snipping tool	*|snipps	12501
+*|	*|papercut	8397
+*|onenote 2016	*|notes	4502
+*|onenote 2016	*|onnote	8036
+*|control panel	*|control [anel	11714
+*|control panel	*|controil	9937
+*|onenote 2016	*|oneote	8319
+*|onenote 2016	*|onenoe	7647
+*|	*|password	8578
+*|snipping tool	*|snippl	12726
+*|onenote 2016	*|oenote	8835
+*|snipping tool	*|snipp[	10825
+*|onenote 2016	*|oneonte	8250
+*|xbox	*|xbpx	7209
+*|command prompt	*|cmdp	10207
+*|core ftp le	*|coreftp	2585
+*|onenote 2016	*|onentoe	8313
+*|	*|pinnacle	8953
+*|snipping tool	*|snipit	9015
+*|onenote 2016	*|one noe	8308
+*|onenote 2016	*|oennote	8364
+*|snipping tool	*|snipet	10293
+*|xbox	*|xboz	7318
+*|onenote 2016	*|ontenote	8889
+*|control panel	*|contorl panel	10018
+*|onenote 2016	*|onennote	8487
+*|	*|practice	9265
+*|snipping tool	*|sniper	10439
+*|snipping tool	*|sni[pp	11885
+*|onenote 2016	*|one notes	8250
+*|snipping tool	*|snbipp	12021
+*|onenote 2016	*|one note 2016	9019
+*|snipping tool	*|smnipp	12544
+*|onenote 2013	*|notes	4624
+*|snipping tool	*|cutter	11760
+*|	*|proclaim	7970
+*|onenote 2013	*|one note	2854
+*|snipping tool	*|snpiing	12339
+*|onenote	*|one note	3260
+*|snipping tool	*|snippit	9620
+*|xbox	*|xboc	7465
+*|command prompt	*|cmdf	8518
+*|	*|autoclicker.exe	8669
+*|onedrive for business	*|one drive	3039
+*|onedrive (1)	*|one drive	2960
+*|	*|progress	8566
+*|snipping tool	*|snippij	12180
+*|onedrive	*|oner	8041
+*|snipping tool	*|snipped	11191
+*|onedrive	*|onede	8135
+*|xbox	*|xbob	8011
+*|onedrive	*|cloud	5750
+*|	*|puttygen	9361
+*|onedrive	*|onedrie	8462
+*|snipping tool	*|snip it	9134
+*|onedrive	*|ondrive	7661
+*|snipping tool	*|snag it	12047
+*|	*|world of	9099
+*|defragment and optimise drives	*|disc defrag	7302
+*|onedrive	*|onedirve	8700
+*|control panel	*|comtrol panel	11549
+*|onedrive	*|one drive	3481
+*|	*|realtemp	8649
+*|control panel	*|controkl	10549
+*|onedrive	*|microsoft onedrive	8886
+*|on-screen takeoff 3	*|ost	1
+*|snipping tool	*|cutting	10791
+*|snipping tool	*|clipper	10298
+*|on-screen keyboard	*|نثغ	6389
+*|	*|rimworld	8776
+*|control panel	*|system control	11947
+*|on-screen keyboard	*|osk	4437
+*|on-screen keyboard	*|keybord	7145
+*|snipping tool	*|capture	8828
+*|command prompt	*|cmde	9581
+*|on-screen keyboard	*|onscreen	5703
+*|snipping tool	*|snupping	12114
+*|on-screen keyboard	*|key board	8007
+*|	*|rsclient	7922
+*|on-screen keyboard	*|virtual keyboard	8226
+*|snipping tool	*|snpiping	12604
+*|on-screen keyboard	*|on screen keyboard	6825
+*|snipping tool	*|snopping	12058
+*|control panel	*|controll panel	10953
+*|snipping tool	*|snniping	12097
+*|office	*|word	5970
+*|	*|runelite	8450
+*|office	*|ofice	6510
+*|snipping tool	*|sniptool	10670
+*|snipping tool	*|snippung	12294
+*|office	*|my office	6634
+*|xbox	*|xbix	6727
+*|遠端桌面連線	*|mstsc	1
+*|office	*|open office	5899
+*|snipping tool	*|snippong	11419
+*|snipping tool	*|snippnig	11782
+*|odbc data sources (32-bit)	*|dsn	5145
+*|	*|screento	8748
+*|	*|microsoft teams	9271
+*|odbc data sources (32-bit)	*|odbcad32	4784
+*|oculus	*|occ	4643
+*|snipping tool	*|snippinf	10770
+*|core temp	*|coretemp	4217
+*|control panel	*|ciontrol	11495
+*|obs studio (64bit)	*|ovs	7915
+*|snipping tool	*|snippgin	12568
+*|	*|shutdown	9172
+*|obs studio (64bit)	*|obsd	7619
+*|nástroj na vystrihovanie	*|sni	459
+*|command prompt	*|cmdd	9018
+*|control panel	*|control#	9650
+*|nsoftphone	*|nfon	680
+*|snipping tool	*|snippett	12035
+*|now tv player	*|nowtv	4611
+*|	*|smarteye	9229
+*|snipping tool	*|snipoing	12463
+*|control panel	*|controle panel	11788
+*|now tv	*|nowtv	3942
+*|notisblokk	*|notepad	1437
+*|xbox	*|xbxox	7972
+*|notesblok	*|notepad	1967
+*|	*|speedfan	9144
+*|snipping tool	*|snipipng	12150
+*|notes	*|lotus	323
+*|notepad++	*|nte	7677
+*|snipping tool	*|snipiing	11019
+*|notepad++	*|npp	7440
+*|control panel	*|controlcontrol	11367
+*|notepad++	*|noy	8174
+*|	*|switcher	9172
+*|snipping tool	*|sni[[ing	11946
+*|notepad++	*|nop	8165
+*|notepad++	*|noe	7006
+*|xbox	*|xboix	7187
+*|snipping tool	*|snapshot	10725
+*|notepad++	*|text	6536
+*|	*|systmone	8833
+*|snipping tool	*|skipping	12730
+*|notepad++	*|notw	8110
+*|snipping tool	*|sinpping	12252
+*|notepad++	*|notr	7616
+*|snipping tool	*|shipping	12224
+*|xbox	*|x box	7908
+*|command prompt	*|cmd]	8649
+*|notepad++	*|notpe	8612
+*|snipping tool	*|scissors	11612
+*|notepad++	*|notes	7037
+*|	*|telegram	7772
+*|snipping tool	*|sbipping	11651
+*|notepad++	*|noted	7886
+*|snipping tool	*|recortes	10854
+*|notepad++	*|notea	7561
+*|snipping tool	*|anipping	10923
+*|snipping tool	*|ssnipping	12026
+*|notepad++	*|note[	7836
+*|	*|microsoft word	8470
+*|	*|terraria	8668
+*|notepad++	*|notpad	7474
+*|control panel	*|control pannel	8630
+*|notepad++	*|notepd	8494
+*|control panel	*|control.	11283
+*|snipping tool	*|snnipping	12063
+*|notepad++	*|note++	8880
+*|notepad++	*|notepas	8864
+*|	*|tinytask	8286
+*|远程桌面连接	*|mstsc	1
+*|notepad++	*|notepadd++	8252
+*|notepad++	*|notepad ++	7378
+*|command prompt	*|cmd4	11042
+*|snipping tool	*|sniupping	11959
+*|snipping tool	*|snippuing	11503
+*|notepad	*|txt	6926
+*|	*|treesize	9120
+*|control panel	*|control panerl	11708
+*|notepad	*|nog	11282
+*|notepad	*|ىخفث	10745
+*|correo	*|mail	599
+*|xbox	*|gamebar	7707
+*|defragment and optimise drives	*|disk defrag	5869
+*|notepad	*|دخفث	11070
+*|snipping tool	*|snippoing	10847
+*|notepad	*|тщеу	10775
+*|	*|utorrent	6724
+*|snipping tool	*|snippiung	10779
+*|notepad	*|otes	9222
+*|control panel	*|control panels	11408
+*|notepad	*|onte	11582
+*|xbox	*|game dvr	7365
+*|snipping tool	*|snippiong	10775
+*|notepad	*|noyr	10327
+*|	*|vibrance	8032
+*|snipping tool	*|snippinng	12355
+*|notepad	*|noto	11017
+*|notepad	*|norw	10489
+*|control panel	*|font	8470
+*|snipping tool	*|snippinmg	10832
+*|notepad	*|nope	10044
+*|snipping tool	*|snippinhg	11630
+*|notepad	*|mpte	10790
+*|command prompt	*|cmd'	10024
+*|snipping tool	*|snippings	12174
+*|notepad	*|memo	8809
+*|	*|callsys	9351
+*|snipping tool	*|snippingh	10823
+*|notepad	*|klad	8793
+*|snipping tool	*|snippingg	12595
+*|notepad	*|ntoes	11303
+*|xampp control panel	*|xaa	6709
+*|notepad	*|npote	10084
+*|snipping tool	*|snippinbg	12213
+*|snipping tool	*|snippin g	11486
+*|notepad	*|noyte	10007
+*|	*|capture	9331
+*|snipping tool	*|snippimng	11127
+*|	*|gachalife.exe	8903
+*|notepad	*|notwe	9292
+*|notepad	*|notge	11074
+*|xampp control panel	*|xammp	6056
+*|notepad	*|notel	11693
+*|control panel	*|control4	11547
+*|	*|central	8679
+*|snipping tool	*|snippiing	11598
+*|notepad	*|note]	9877
+*|notepad	*|note4	11236
+*|control panel	*|control panell	11520
+*|	*|ableton	9134
+*|notepad	*|note#	10178
+*|迅雷	*|xun	980
+*|notepad	*|notas	10126
+*|	*|chrome#	7955
+*|snipping tool	*|snipoping	11878
+*|snipping tool	*|snip[ping	11524
+*|notepad	*|norte	10229
+*|notepad	*|mnote	11088
+*|command prompt	*|cmd#	8546
+*|notepad	*|bnote	10953
+*|	*|classic	9459
+*|control panel	*|control panelk	11690
+*|notepad	*|bloco	9832
+*|snipping tool	*|snip tool	9621
+*|notepad	*|ntepad	9576
+*|notepad	*|notpad	7606
+*|snipping tool	*|sniopping	11849
+*|notepad	*|notete	11532
+*|	*|clicker	9274
+*|notepad	*|notead	8469
+*|snipping tool	*|sniipping	11952
+*|notepad	*|notapd	11408
+*|notepad	*|noepad	9095
+*|snipping tool	*|screenshot	9083
+*|	*|concord	9374
+*|snipping tool	*|snippy tool	12479
+*|notepad	*|editor	9737
+*|control panel	*|control panekl	11681
+*|notepad	*|textpad	10444
+*|xampp control panel	*|local	6392
+*|notepad	*|ntoepad	9149
+*|snipping tool	*|screen snip	12166
+*|snipping tool	*|screen shot	10240
+*|notepad	*|nptepad	10889
+*|	*|connect	8472
+*|snipping tool	*|screen grab	11363
+*|notepad	*|noyepad	11007
+*|notepad	*|notwpad	10956
+*|snipping tool	*|screen clip	12592
+*|command prompt	*|cmcd	10428
+*|snipping tool	*|printscreen	11589
+*|notepad	*|notrpad	10493
+*|迅雷	*|thun	1920
+*|	*|console	9047
+*|snipping tool	*|snpping tool	12213
+*|notepad	*|notpead	9242
+*|snipping tool	*|snippng tool	12125
+*|notepad	*|notepsd	11041
+*|snipping tool	*|snippingtool	9864
+*|notepad	*|notepqd	11466
+*|	*|google chrome	6927
+*|notepad	*|notepda	9716
+*|	*|content	8128
+*|corsair utility engine	*|cue	3097
+*|control panel	*|control]	11515
+*|notepad	*|notepat	11386
+*|snipping tool	*|snipping ool	12504
+*|notepad	*|notepar	11552
+*|x-vpn	*|xvpn	2330
+*|notepad	*|noteoad	9406
+*|	*|convert	7607
+*|notepad	*|notebad	11391
+*|snipping tool	*|snippin tool	11233
+*|notepad	*|noteapd	8192
+*|snipping tool	*|snippig tool	11916
+*|command prompt	*|cm,d	9135
+*|notepad	*|note[ad	8540
+*|control panel	*|control p[anel	11387
+*|notepad	*|notapad	11416
+*|	*|corsair	8697
+*|snipping tool	*|snippet tool	11863
+*|notepad	*|not pad	10933
+*|notepad	*|norepad	10214
+*|x-lite	*|xlite	1620
+*|snipping tool	*|snipper tool	12372
+*|notepad	*|noetpad	9256
+*|	*|counter	9003
+*|snipping tool	*|sniping tool	9483
+*|notepad	*|nodepad	11479
+*|notepad	*|nitepad	10380
+*|world of warships	*|wows	3148
+*|defragment and optimise drives	*|scan disk	7210
+*|notepad	*|motepad	10441
+*|snipping tool	*|sipping tool	12281
+*|notepad	*|botepad	10545
+*|	*|crowbar	9022
+*|snipping tool	*|screen print	12455
+*|control panel	*|control centre	11119
+*|notepad	*|textedit	11628
+*|snipping tool	*|print screen	10264
+*|notepad	*|notyepad	11059
+*|notepad	*|nottepad	11490
+*|	*|crystal	9256
+*|snipping tool	*|snippint tool	12148
+*|notepad	*|notrepad	10410
+*|snipping tool	*|snipping took	11671
+*|snipping tool	*|snipping toll	10803
+*|notepad	*|notewpad	11371
+*|world of warcraft classic	*|wow	1081
+*|command prompt	*|cm d	10114
+*|notepad	*|notespad	11269
+*|snipping tool	*|snippimg tool	12682
+*|notepad	*|noterpad	10219
+*|	*|desmume	7649
+*|snipping tool	*|snippign tool	12589
+*|notepad	*|notepsad	11582
+*|notepad	*|noteppad	10716
+*|world of warcraft	*|wow	1910
+*|snipping tool	*|sniiping tool	12279
+*|snipping tool	*|snapping tool	12788
+*|notepad	*|notepoad	9709
+*|	*|destiny	9283
+*|snipping tool	*|smipping tool	12780
+*|notepad	*|notepead	11603
+*|	*|minecraft.exe	7285
+*|control panel	*|co ntrol	11762
+*|notepad	*|notepasd	9540
+*|world of tanks	*|wot	2357
+*|notepad	*|notepaid	10969
+*|control panel	*|controla	10921
+*|notepad	*|notepage	11567
+*|	*|dolphin	7618
+*|snipping tool	*|clipping tool	12033
+*|notepad	*|notepafd	10306
+*|control panel	*|control center	11264
+*|notepad	*|notepaed	11606
+*|workspace	*|eclipse	1271
+*|notepad	*|notepads	9780
+*|snipping tool	*|snippping tool	11463
+*|	*|dropbox	7382
+*|snipping tool	*|snipping toool	11412
+*|notepad	*|notepadf	9425
+*|notepad	*|notepade	9434
+*|workforce management	*|wfm	1556
+*|command prompt	*|cdmd	10851
+*|notepad	*|notepadd	9945
+*|notepad	*|notepada	11549
+*|	*|eduroam	9134
+*|snipping tool	*|snipping tools	9997
+*|notepad	*|notepad]	11609
+*|snipping tool	*|snipping tooll	12245
+*|notepad	*|notepad#	10575
+*|wordpad	*|woed	7457
+*|control panel	*|ccontrol panel	11781
+*|notepad	*|notepaad	10441
+*|	*|emarker	8458
+*|snipping tool	*|snipping toold	12484
+*|notepad	*|notep[ad	9612
+*|notepad	*|noteopad	10596
+*|snipping tool	*|screen capture	11746
+*|wordpad	*|ward	7928
+*|notepad	*|notenote	11024
+*|snip & sketch	*|snip and	3723
+*|notepad	*|noteepad	10688
+*|	*|exilent	9427
+*|counter-strike global offensive	*|cout	6244
+*|snip & sketch	*|snip  sketch	4196
+*|notepad	*|notedpad	10050
+*|slack	*|slck	7208
+*|notepad	*|notebook	8180
+*|wordpad	*|wword	8547
+*|notepad	*|noteapad	10133
+*|slack	*|slcak	7397
+*|	*|express	8373
+*|slack	*|slaxk	7854
+*|notepad	*|note[pad	10251
+*|notepad	*|note pad	7090
+*|캡처 도구	*|snip	2432
+*|wordpad	*|word[	8951
+*|command prompt	*|ccmd	9084
+*|notepad	*|notatnik	11606
+*|slack	*|slakc	7190
+*|slack	*|slacl	7794
+*|notepad	*|noptepad	10497
+*|	*|extreme	9274
+*|slack	*|slacj	8958
+*|	*|sage accounts	9136
+*|notepad	*|nootepad	11406
+*|notepad	*|noitepad	10638
+*|wordpad	*|worpad	7585
+*|control panel	*|windows control	11766
+*|notepad	*|nnotepad	10663
+*|control panel	*|controlk	10202
+*|	*|fallout	8671
+*|slack	*|salck	7317
+*|notepad	*|nmotepad	11600
+*|notepad	*|niotepad	11239
+*|wordpad	*|wordpd	8479
+*|notepad	*|nbotepad	11523
+*|command prompt	*|c,md	9765
+*|	*|fanatec	9203
+*|slack	*|slacxk	9028
+*|notepad	*|n otepad	11582
+*|slack	*|slackl	9264
+*|defragment and optimise drives	*|optimize	6260
+*|notepad	*|notepad++	8968
+*|wordpad	*|wodpad	9084
+*|command prompt	*|c md	9952
+*|notepad	*|note book	10763
+*|	*|fifa 19	8750
+*|skärmklippverktyget	*|snipp	2433
+*|notepad	*|notepad.exe	9620
+*|wordpad	*|wordpas	8019
+*|command prompt	*|shell	9089
+*|skype for business 2016	*|sku	6700
+*|notatnik	*|notepad	3245
+*|	*|figtree	9150
+*|not defteri	*|notepad	2356
+*|skype for business 2016	*|sype	7003
+*|wordpad	*|wordpaf	9130
+*|nordvpn	*|nord vpn	6572
+*|control panel	*|uninstall a pro	11488
+*|command prompt	*|promt	10973
+*|	*|firefox	5998
+*|node.js	*|nodejs	4097
+*|skype for business 2016	*|skpe	7754
+*|nintendo dev interface	*|ndi	429
+*|wordpad	*|word pad	4415
+*|command prompt	*|msdos	10205
+*|ni max	*|nimax	3730
+*|	*|fishing	8759
+*|skype for business 2016	*|lync	4297
+*|skype for business 2016	*|skypw	7523
+*|nexus mod manager	*|nmm	3770
+*|wordpad	*|microsoft word	5785
+*|defragment and optimise drives	*|de frag	6607
+*|network password manager	*|npm	1
+*|control panel	*|dene	11099
+*|	*|forager	9223
+*|skype for business 2016	*|skypr	7615
+*|command prompt	*|mdcmd	11056
+*|network connect	*|juni	4509
+*|skype for business 2016	*|skyoe	5947
+*|word 2016	*|wrd	8387
+*|netflix	*|nwt	7743
+*|skype for business 2016	*|skyep	8175
+*|	*|geforce	7612
+*|skype for business 2016	*|skypoe	7253
+*|netflix	*|nex	7641
+*|command prompt	*|commd	10987
+*|netflix	*|nnet	9013
+*|word 2016	*|wod	7472
+*|netflix	*|neyt	9102
+*|	*|google#	8015
+*|skype for business 2016	*|skyope	7678
+*|skype for business 2015	*|skp	5973
+*|netflix	*|nety	8435
+*|word 2016	*|صخقی	9882
+*|command prompt	*|cmdmd	10418
+*|skype for business 2015	*|skyo	6155
+*|netflix	*|nett	8615
+*|	*|sketchup 2017	9059
+*|	*|google]	8857
+*|netflix	*|netr	8464
+*|command prompt	*|c'm'd	11252
+*|word 2016	*|صخقي	10051
+*|netflix	*|netn	9696
+*|control panel	*|system preferences	11634
+*|control panel	*|controlo	9449
+*|defragment and optimise drives	*|dfrgui	7096
+*|	*|hamachi	8419
+*|skype for business 2015	*|skye	5992
+*|netflix	*|nete	9520
+*|netflix	*|netd	8300
+*|word 2016	*|wrod	8853
+*|command prompt	*|run as	11336
+*|netflix	*|nert	8284
+*|	*|horizon	7955
+*|netflix	*|neet	8656
+*|skype for business 2015	*|lync	3435
+*|word 2016	*|wprd	7962
+*|skype for business	*|skt	8306
+*|command prompt	*|ms dos	10795
+*|netflix	*|netfk	8595
+*|	*|hotsoft	9405
+*|netflix	*|netlix	8065
+*|word 2016	*|woed	8262
+*|netflix	*|netflx	8131
+*|	*|hp scan	8688
+*|skype for business	*|sjk	9684
+*|command prompt	*|ipconf	9116
+*|netflix	*|netfix	7760
+*|word 2016	*|wird	8910
+*|skype for business	*|sype	7034
+*|netflix	*|neflix	8136
+*|	*|httrack	9430
+*|control panel	*|hardware and sound	9958
+*|command prompt	*|commnd	10826
+*|netflix	*|netlfix	8260
+*|word 2016	*|ward	10301
+*|skype for business	*|skyt	9305
+*|defragment and optimise drives	*|defag	7132
+*|netflix	*|netflux	8873
+*|	*|javelin	9092
+*|netflix	*|netfliz	8842
+*|记事本	*|notepad	857
+*|word 2016	*|qord	9547
+*|command prompt	*|cmdcmd	9698
+*|skype for business	*|sky[	8685
+*|netflix	*|netflic	7166
+*|	*|junifer	9097
+*|skype for business	*|skpe	7612
+*|netflix	*|netflex	9044
+*|courrier	*|mail	1077
+*|word 2016	*|owrd	10085
+*|command prompt	*|run cmd	10045
+*|netflix	*|netfilx	9382
+*|	*|keepass	6516
+*|skype for business	*|lync	5127
+*|skype for business	*|sykpe	9367
+*|netflix	*|netfliux	9656
+*|word 2016	*|eord	10083
+*|skype for business	*|slype	8604
+*|net logon	*|netlogon	2265
+*|	*|lockout	7949
+*|narzędzie wycinanie	*|cut	5137
+*|control panel	*|my computer	8011
+*|word 2016	*|docs	10033
+*|command prompt	*|coomand	11025
+*|skype for business	*|skzpe	9276
+*|narzędzie wycinanie	*|snipping	4711
+*|	*|lutebot	9200
+*|skype for business	*|skyoe	5925
+*|narrator	*|nara	3367
+*|skype for business	*|skyep	8204
+*|word 2016	*|wword	9401
+*|	*|snipping tool	9128
+*|naredbeni redak	*|cmd	1
+*|	*|m files	8940
+*|control panel	*|controls	10675
+*|máy tính tay	*|may	2378
+*|control panel	*|system and security	10269
+*|word 2016	*|wpord	9937
+*|máy tính tay	*|cal	1678
+*|	*|malware	8661
+*|skype for business	*|skupe	9271
+*|mx5	*|max	1108
+*|word 2016	*|wotrd	10428
+*|command prompt	*|console	9020
+*|muistio	*|note	1
+*|	*|manycam	9478
+*|mtg arena	*|mtga	3300
+*|skype for business	*|skpye	7905
+*|word 2016	*|worsd	9867
+*|skype for business	*|sjype	8745
+*|ms-resource:appname	*|calculator	1913
+*|	*|maxtime	9299
+*|mozilla firefox	*|mozila	5528
+*|word 2016	*|worrd	9335
+*|defragment and optimise drives	*|defre	6029
+*|movie maker	*|move	5536
+*|	*|mcleaks	8352
+*|skype for business	*|skyupe	9224
+*|movie maker	*|video	4887
+*|word 2016	*|world	9195
+*|skype for business	*|skypwe	9365
+*|movie maker	*|moviemaker	5178
+*|	*|mozilla	8958
+*|control panel	*|network and internet	10686
+*|movie maker	*|windows movie maker	5803
+*|word 2016	*|workd	9892
+*|command prompt	*|commnad	10887
+*|skype for business	*|skypre	8707
+*|mouse and keyboard settings	*|setpoint	1678
+*|	*|mremote	9087
+*|mobilepass	*|mobile pass	5048
+*|计算器	*|jisuanqi	4059
+*|word 2016	*|worfd	9705
+*|skype for business	*|skypoe	7157
+*|mobile vpn with ssl client	*|vpm	5722
+*|	*|multimc	6848
+*|skype for business	*|skypew	9055
+*|mivoice office 250 system administration & diagnostics	*|mitel	1
+*|word 2016	*|wored	9441
+*|mini remote control	*|dame	604
+*|	*|netscan	8450
+*|skype for business	*|skyper	8238
+*|skype for business	*|skyp[e	9282
+*|minecraft launcher	*|minw	7803
+*|word 2016	*|words	7290
+*|skype for business	*|skyope	7626
+*|minecraft launcher	*|mien	7614
+*|	*|openvpn	9166
+*|control panel	*|cobntrol	11720
+*|minecraft launcher	*|miner	8484
+*|计算器	*|calculator	4276
+*|word 2016	*|wordf	9144
+*|command prompt	*|commadn	10833
+*|skype for business	*|skuype	9548
+*|minecraft launcher	*|mince	8142
+*|	*|osbuddy	6439
+*|skype for business	*|skype business	8832
+*|minecraft launcher	*|minecarft	8448
+*|skype	*|سنغ	10117
+*|word 2016	*|wordd	9256
+*|	*|unreal engine	9102
+*|minecraft	*|minr	7914
+*|	*|p touch	7863
+*|control panel	*|controol	9201
+*|minecraft	*|mind	9574
+*|word 2016	*|word]	9784
+*|minecraft	*|mimn	8882
+*|	*|pageant	9180
+*|skype	*|ылн	9102
+*|minecraft	*|mibn	8967
+*|word 2016	*|word#	9712
+*|control panel	*|configuration manager	10234
+*|minecraft	*|mibe	8842
+*|	*|payroll	8855
+*|minecraft	*|mmine	9418
+*|skype	*|skl	9358
+*|word 2016	*|woprd	9864
+*|command prompt	*|comamnd	11288
+*|skype	*|skj	9320
+*|	*|pokemon	9283
+*|minecraft	*|miune	9662
+*|minecraft	*|mione	8490
+*|word 2016	*|woord	9626
+*|	*|popcorn	7843
+*|skype	*|scy	10219
+*|minecraft	*|minwe	9559
+*|word 2016	*|woird	9978
+*|minecraft	*|minme	9012
+*|	*|prime95	9128
+*|skype	*|sype	7638
+*|minecraft	*|minee	9322
+*|word 2016	*|woerd	9993
+*|command prompt	*|cmd.exe	7556
+*|skype	*|skyt	9490
+*|	*|private	8619
+*|minecraft	*|mined	9783
+*|minecraft	*|mine]	9790
+*|word 2016	*|wiord	10117
+*|	*|amadeus	9064
+*|skype	*|skty	9717
+*|	*|procars	8370
+*|skype	*|skpe	7095
+*|minecraft	*|mince	7723
+*|word 2016	*|office	8293
+*|defragment and optimise drives	*|defrg	6986
+*|control center & documentation	*|pcc	1
+*|minecraft	*|minbe	8913
+*|	*|procexp	8691
+*|skype	*|skep	10164
+*|minecraft	*|min e	9545
+*|skype	*|sykpe	8785
+*|word 2016	*|msword	9163
+*|	*|procmon	8845
+*|skype	*|slype	8762
+*|minecraft	*|miine	9438
+*|minecraft	*|minect	8976
+*|word 2016	*|winword	6253
+*|command prompt	*|terminal	7892
+*|control panel	*|contropl	10498
+*|	*|prohire	8476
+*|skype	*|skzpe	8738
+*|minecraft	*|mineraft	9029
+*|skype	*|skyoe	6579
+*|word 2016	*|ms word	8207
+*|minecraft	*|minecrft	8682
+*|	*|project	8674
+*|skype	*|skyep	8555
+*|	*|cheat engine	8685
+*|minecraft	*|minecrat	8443
+*|word 2016	*|word2016	10080
+*|	*|psiphon	6509
+*|cpu-z	*|cpu z	4681
+*|minecraft	*|minecaft	9413
+*|control panel	*|ctrl	10113
+*|minecraft	*|mincraft	7631
+*|word 2016	*|microsoft word	7311
+*|skype	*|sky[e	8400
+*|	*|purevpn	8704
+*|minecraft	*|miecraft	8611
+*|word 2016	*|microsoft office	10060
+*|command prompt	*|commmand	11291
+*|minecraft	*|minecrfat	8315
+*|	*|pycharm	8443
+*|skype	*|skupe	8559
+*|minecraft	*|minecrafy	9399
+*|skype	*|skpye	8213
+*|word 2013	*|wrd	8401
+*|	*|raisers	8578
+*|contact+ screenphone	*|mac	1
+*|minecraft	*|minecarft	8210
+*|minecraft	*|miencraft	8339
+*|word 2013	*|wod	7578
+*|skype	*|skipe	9106
+*|	*|realtek	9405
+*|minecraft	*|minecrafty	9269
+*|word 2013	*|صخقی	10017
+*|skype	*|sjype	9226
+*|minecraft	*|minecraftr	9054
+*|	*|reimage	9200
+*|minecraft	*|minecrafrt	9826
+*|skype	*|s'k'y	10355
+*|word 2013	*|صخقي	9390
+*|command prompt	*|cmd ping	11245
+*|	*|reshade	7959
+*|microsoft word 2010	*|wrd	8325
+*|microsoft word 2010	*|woo	8893
+*|word 2013	*|wrod	9111
+*|skype	*|dkype	10183
+*|skype	*|akype	9166
+*|	*|revised	9262
+*|microsoft word 2010	*|woe	7447
+*|word 2013	*|wprd	8069
+*|microsoft word 2010	*|wod	7413
+*|	*|rstudio	9586
+*|skype	*|sskype	9345
+*|skype	*|skyype	10091
+*|microsoft word 2010	*|mir	8915
+*|word 2013	*|wors	8612
+*|command prompt	*|ip config	9848
+*|skype	*|skyupe	9726
+*|	*|rvtools	9161
+*|microsoft word 2010	*|wprd	7892
+*|control panel	*|contrpol	11187
+*|microsoft word 2010	*|wors	8522
+*|word 2013	*|work	7248
+*|skype	*|skypwe	9667
+*|	*|sai.exe	9256
+*|skype	*|skypre	9426
+*|microsoft word 2010	*|worf	8206
+*|word 2013	*|woed	8185
+*|defragment and optimise drives	*|degr	6981
+*|skype	*|skyppe	9592
+*|microsoft word 2010	*|wore	9108
+*|	*|samsung	8955
+*|	*|google earth	9217
+*|microsoft word 2010	*|mico	9233
+*|word 2013	*|wird	8994
+*|contact center client	*|ccc	2489
+*|	*|scratch	7512
+*|microsoft word 2010	*|wword	9090
+*|skype	*|skypoe	7995
+*|microsoft word 2010	*|wordf	8962
+*|word 2013	*|ward	10066
+*|command prompt	*|cmd admin	10775
+*|	*|service	8273
+*|microsoft word 2010	*|wordd	8316
+*|word 2013	*|qord	10094
+*|microsoft word 2010	*|office	7264
+*|	*|shotcut	8593
+*|skype	*|skypew	9361
+*|skype	*|skyper	8765
+*|microsoft word 2010	*|ms wor	8322
+*|word 2013	*|docs	10053
+*|skype	*|skypee	9387
+*|	*|showbox	9244
+*|microsoft word 2010	*|winword	6033
+*|microsoft word 2010	*|word document	9077
+*|word 2013	*|wword	9194
+*|skype	*|skyp[e	9560
+*|	*|stardew	9486
+*|microsoft visual foxpro 9.0	*|vfp	853
+*|skype	*|skyope	8373
+*|word 2013	*|worrd	9247
+*|command prompt	*|cmd prompt	11118
+*|microsoft visual basic 6.0	*|vb6	1553
+*|	*|support	8069
+*|skype	*|sky[pe	10177
+*|microsoft to-do	*|todo	1902
+*|word 2013	*|world	9149
+*|	*|supremo	8409
+*|記事本	*|notepad	1114
+*|microsoft to-do	*|to do	1847
+*|skype	*|skuype	10122
+*|microsoft test manager 2017	*|mtm	691
+*|word 2013	*|worfd	9754
+*|skype	*|skkype	9790
+*|	*|synapse	8275
+*|microsoft test manager 2015	*|mtm	806
+*|word 2013	*|wored	10070
+*|skype	*|skypeskype	10465
+*|microsoft store	*|aps	8219
+*|	*|tequila	8843
+*|skype	*|open skype	10015
+*|microsoft store	*|stot	8200
+*|sky remote access	*|vpn	2716
+*|word 2013	*|words	7204
+*|command prompt	*|mac address	10192
+*|consumer & shopper explorer	*|case	1
+*|	*|tom tom	8814
+*|control panel	*|contrrol	10018
+*|microsoft store	*|sote	8178
+*|microsoft store	*|sore	7217
+*|word 2013	*|wordf	9246
+*|sky go	*|skygo	3424
+*|sketchup	*|sketch up	5505
+*|	*|torrent	6565
+*|microsoft store	*|shop	5480
+*|skaičiuotuvas	*|calc	2000
+*|word 2013	*|wordd	8887
+*|	*|premiere pro	9299
+*|microsoft store	*|appp	7693
+*|	*|tracker	8825
+*|microsoft store	*|appa	8212
+*|word 2013	*|word]	10023
+*|command prompt	*|command line	10118
+*|	*|trainer	8690
+*|site administration	*|asa	1027
+*|microsoft store	*|stroe	8001
+*|microsoft store	*|stpre	7573
+*|word 2013	*|word#	9660
+*|	*|trigold	7559
+*|microsoft store	*|stoer	8093
+*|word 2013	*|woord	9465
+*|defragment and optimize drives	*|disk defrag	5861
+*|sims .net	*|sims.net	8000
+*|microsoft store	*|stire	7650
+*|	*|tropics	9220
+*|shotcut	*|short	5599
+*|microsoft store	*|sotre	6663
+*|shoretel communicator	*|shorte	4540
+*|word 2013	*|office	8005
+*|control panel	*|cointrol	10702
+*|	*|uniform	8793
+*|microsoft store	*|atore	8266
+*|settings	*|sew	9181
+*|microsoft store	*|strore	8564
+*|word 2013	*|msword	8815
+*|command prompt	*|command promt	9865
+*|	*|vintner	9338
+*|settings	*|swtt	9126
+*|microsoft store	*|storre	8382
+*|connexion bureau à distance	*|mstsc	1514
+*|word 2013	*|winword	6136
+*|microsoft store	*|storer	8470
+*|	*|winauth	8003
+*|settings	*|sitt	9618
+*|microsoft store	*|market	6806
+*|word 2013	*|ms word	7569
+*|	*|windiff	8929
+*|settings	*|apps	7191
+*|microsoft store	*|ms store	8447
+*|settings	*|start	9238
+*|microsoft store	*|microsft	7970
+*|word 2013	*|word2013	9975
+*|	*|witcher	9003
+*|control panel	*|contrtol	10120
+*|microsoft store	*|appstore	6599
+*|settings	*|ssett	9078
+*|word 2013	*|microsoft word	7311
+*|command prompt	*|comand prompt	10660
+*|settings	*|setup	9462
+*|microsoft store	*|all apps	7290
+*|	*|workday	9001
+*|settings	*|settu	8716
+*|microsoft store	*|app store	4381
+*|cpu-z	*|cpuz	2963
+*|word 2013	*|microsoft office	9769
+*|	*|wow.exe	7882
+*|腾讯qq	*|q'q	3455
+*|microsoft store	*|play store	5780
+*|settings	*|sette	9054
+*|microsoft store	*|game store	8464
+*|word	*|wof	11657
+*|settings	*|setrt	9219
+*|	*|xpadder	8651
+*|	*|sage payroll	8659
+*|microsoft store	*|free games	7687
+*|word	*|wod	9082
+*|microsoft store	*|apps store	8113
+*|	*|yandere	6827
+*|microsoft store	*|windows apps	8409
+*|settings	*|sertt	8970
+*|word	*|صخقي	10366
+*|command prompt	*|command prompt admin	9399
+*|	*|youtube	9302
+*|microsoft store	*|window store	7780
+*|connexion bureau à distance	*|remote	1937
+*|microsoft store	*|windows store	4313
+*|word	*|wrod	8935
+*|	*|2d des	9430
+*|settings	*|guest	8877
+*|microsoft store	*|microsoft app	7952
+*|word	*|wprd	7916
+*|settings	*|settib	9773
+*|microsoft sql server management studio 18	*|ssms	1971
+*|	*|access	8658
+*|microsoft sql server management studio 17	*|ssms	2475
+*|settings	*|sttings	8547
+*|word	*|worx	11912
+*|command prompt	*|command prompt (admin)	9917
+*|	*|active	9354
+*|microsoft sql server management studio 17	*|sql mana	7294
+*|settings	*|settomg	9859
+*|microsoft sql server management studio	*|ssms	2453
+*|word	*|worg	11188
+*|settings	*|settngs	8858
+*|	*|alicia	8527
+*|microsoft solitaire collection	*|fr	7249
+*|word	*|worc	10815
+*|defragment and optimize drives	*|de frag	6855
+*|microsoft solitaire collection	*|solt	7409
+*|	*|always	8643
+*|settings	*|settins	7872
+*|settings	*|settigs	8173
+*|microsoft solitaire collection	*|sola	6463
+*|word	*|woed	8249
+*|	*|amidst	8280
+*|control panel	*|conttrol	9902
+*|microsoft solitaire collection	*|solitare	5112
+*|settings	*|setings	7099
+*|microsoft solitaire collection	*|klondike	7066
+*|word	*|wird	10248
+*|code composer studio 8.2.0	*|ccs	601
+*|settings	*|adapter	8576
+*|	*|amtech	9283
+*|settings	*|settinhs	9802
+*|microsoft solitaire collection	*|solitiare	7999
+*|word	*|qord	9244
+*|microsoft powerpoint 2010	*|poo	7556
+*|	*|apache	9118
+*|网易有道词典	*|youdao	690
+*|settings	*|settingf	10067
+*|microsoft powerpoint 2010	*|poer	6139
+*|settings	*|settinga	8285
+*|word	*|owrd	10135
+*|	*|apower	9049
+*|	*|spacesniffer	8835
+*|microsoft powerpoint 2010	*|powee	7254
+*|control panel	*|conc	11208
+*|microsoft powerpoint 2010	*|power point	4660
+*|word	*|eord	11076
+*|	*|beamng	9374
+*|microsoft outlook 2010	*|outlok	6737
+*|settings	*|settinfs	9943
+*|word	*|docs	9778
+*|citrix receiver	*|citric	5921
+*|microsoft onenote 2010	*|one note	2840
+*|	*|better	8067
+*|connessione desktop remoto	*|mstsc	1783
+*|microsoft onedrive	*|one drive	1458
+*|word	*|wword	9385
+*|	*|border	8508
+*|settings	*|settimgs	8826
+*|microsoft office word 2007	*|wr	8229
+*|microsoft office word 2007	*|woo	8448
+*|word	*|wsord	11425
+*|settings	*|settigns	8689
+*|control panel	*|cpl	10043
+*|	*|chatty	9388
+*|microsoft office word 2007	*|wod	7270
+*|settings	*|setiings	9545
+*|word	*|wrord	11851
+*|microsoft office word 2007	*|msw	7882
+*|	*|chrom#	9153
+*|settings	*|seetings	8859
+*|microsoft office word 2007	*|mir	8370
+*|word	*|wqord	10721
+*|citrix receiver	*|citirx	6318
+*|settings	*|computer	8524
+*|	*|cinema	9049
+*|microsoft office word 2007	*|wprd	7765
+*|microsoft office word 2007	*|work	7155
+*|word	*|wpord	9865
+*|网易云音乐	*|wangyi	1
+*|settings	*|aettings	10032
+*|	*|cities	9247
+*|settings	*|uninstall	6298
+*|microsoft office word 2007	*|worf	7871
+*|word	*|wotrd	10489
+*|microsoft office word 2007	*|woed	7612
+*|	*|citrix	7106
+*|control panel	*|contyrol	9812
+*|settings	*|setttings	8418
+*|microsoft office word 2007	*|mico	8650
+*|settings	*|settingss	9282
+*|word	*|wortd	11085
+*|citrix gateway	*|net	1920
+*|	*|civica	9416
+*|settings	*|settingsd	8793
+*|microsoft office word 2007	*|wword	8454
+*|microsoft office word 2007	*|world	6827
+*|word	*|worsd	11185
+*|	*|client	8026
+*|settings	*|settinghs	9844
+*|microsoft office word 2007	*|words	6550
+*|settings	*|settingds	9123
+*|word	*|worrd	9690
+*|defragment and optimize drives	*|defre	6078
+*|microsoft office word 2007	*|wordd	7876
+*|	*|clumsy	9020
+*|	*|sqldeveloper	9256
+*|microsoft office word 2007	*|ms wor	7295
+*|word	*|world	9398
+*|	*|config	9471
+*|microsoft office word 2007	*|winword	5706
+*|settings	*|settiings	9833
+*|microsoft office word 2007	*|microsoft word	6163
+*|word	*|workd	10702
+*|cisco uc integration for microsoft lync	*|cuci	2150
+*|	*|connie	9183
+*|connection client	*|bentley	2914
+*|microsoft office word 2003	*|microsoft word	5265
+*|word	*|worfd	9727
+*|microsoft office powerpoint 2007	*|poer	5898
+*|	*|cricut	8793
+*|settings	*|seettings	9802
+*|microsoft office powerpoint 2007	*|power point	4164
+*|settings	*|recording	9245
+*|word	*|wored	10530
+*|control panel	*|unn	10691
+*|	*|cubase	8726
+*|microsoft office excel 2007	*|ms	7582
+*|settings	*|windows 10	8862
+*|microsoft office excel 2007	*|ec	5897
+*|word	*|words	7255
+*|	*|custom	7911
+*|settings	*|preferences	8835
+*|microsoft office excel 2007	*|exx	7646
+*|word	*|wordr	11033
+*|cisco jabber	*|jaber	5864
+*|settings	*|pc settings	8115
+*|microsoft office excel 2007	*|exl	7468
+*|	*|cygwin	9385
+*|microsoft office excel 2007	*|exel	5251
+*|카카오톡	*|kakao	1781
+*|word	*|wordf	9198
+*|settings	*|my computer	7324
+*|	*|daemon	9177
+*|settings	*|control panel	6743
+*|microsoft office excel 2007	*|excell	5572
+*|microsoft office excel 2007	*|microsoft excel	7240
+*|word	*|worde	11239
+*|control panel	*|conytrol	10657
+*|	*|dealer	8638
+*|settings	*|update and sec	9767
+*|microsoft office access 2007	*|ms	3929
+*|settings	*|windows setting	9174
+*|word	*|wordd	10042
+*|microsoft excel 2010	*|ẽ	7471
+*|	*|deltek	8427
+*|settings	*|change pc settings	9691
+*|microsoft excel 2010	*|exel	5654
+*|word	*|wordc	11581
+*|cisco anyconnect secure mobility client	*|vpn	2451
+*|connected components workbench	*|ccw	1
+*|	*|device	7901
+*|settings	*|network and internet	8877
+*|microsoft excel 2010	*|excell	5711
+*|services	*|sẻ	8232
+*|microsoft edge	*|ie	6591
+*|word	*|word]	10767
+*|	*|throttlestop	9250
+*|	*|diablo	9232
+*|microsoft edge	*|ex	7359
+*|word	*|word#	11571
+*|microsoft edge	*|mis	9163
+*|	*|digita	7552
+*|services	*|serr	8146
+*|microsoft edge	*|ixl	8501
+*|word	*|woprd	9972
+*|cisco anyconnect secure mobility client	*|cico	7645
+*|	*|dimmer	7820
+*|ctr module - worleyparsons	*|ctrm	1047
+*|microsoft edge	*|ege	7132
+*|microsoft edge	*|edd	9115
+*|word	*|woord	9617
+*|services	*|serc	8388
+*|	*|docker	8395
+*|microsoft edge	*|egde	7289
+*|services	*|seer	8375
+*|word	*|woird	9790
+*|defragment and optimize drives	*|deg	6606
+*|control panel	*|comntrol	10336
+*|microsoft edge	*|edgr	7854
+*|	*|dragon	7624
+*|services	*|spool	7215
+*|microsoft edge	*|mirco	9391
+*|word	*|woerd	9924
+*|	*|driver	7755
+*|services	*|servu	7919
+*|microsoft edge	*|edsge	9373
+*|microsoft edge	*|edghe	8527
+*|word	*|wo0rd	11825
+*|cisco anyconnect secure mobility client	*|csico	8652
+*|services	*|seriv	7654
+*|	*|ebillz	9374
+*|microsoft edge	*|edgfe	8438
+*|相机	*|camera	950
+*|word	*|wiord	9943
+*|services	*|servis	8684
+*|microsoft edge	*|edege	8732
+*|	*|engage	9027
+*|services	*|srvices	8494
+*|microsoft edge	*|interne	7828
+*|word	*|weord	10745
+*|control panel	*|coontrol	10418
+*|	*|etcher	8822
+*|services	*|servies	7319
+*|microsoft edge	*|browser	7623
+*|services	*|servics	7856
+*|microsoft edge	*|enternet	9540
+*|word	*|oword	10442
+*|services	*|servces	8449
+*|connect	*|conect	4699
+*|	*|expert	8962
+*|microsoft edge	*|microsft edge	9421
+*|word	*|wordwo	11981
+*|cisco anyconnect secure mobility client	*|cisoc	7344
+*|services	*|serices	8154
+*|microsoft application virtualization client	*|appv	1
+*|	*|flynet	9203
+*|services	*|servoces	8492
+*|microsoft app-v 5.0 client ui	*|appv	146
+*|	*|bitdefender	8798
+*|word	*|msword	9349
+*|	*|foobar	8734
+*|microsoft advertising editor	*|bing	463
+*|messenger	*|mese	6230
+*|word	*|winword	6419
+*|services	*|servives	8421
+*|	*|frosty	9325
+*|messenger	*|mees	7963
+*|word	*|ms word	8596
+*|messenger	*|mass	7381
+*|	*|fusion	8017
+*|messenger	*|messs	7127
+*|services	*|servcies	7704
+*|word	*|word 2016	10630
+*|cisco anyconnect secure mobility client	*|ciscp	7927
+*|	*|garmin	7517
+*|services	*|superfetch	7612
+*|messenger	*|messn	7766
+*|control panel	*|copntrol	10511
+*|messenger	*|messanger	6488
+*|word	*|word 2013	11934
+*|services	*|sevices.msc	8581
+*|	*|gibbed	7608
+*|meshlabserver	*|cmd	693
+*|word	*|open word	10620
+*|services	*|service.msc	6607
+*|mendeley desktop	*|mendley	6633
+*|	*|gifcam	8247
+*|services	*|services.msc	3189
+*|mendeley desktop	*|mendely	5437
+*|word	*|microsfot	11646
+*|cisco anyconnect secure mobility client	*|cisci	7290
+*|	*|github	9448
+*|百度网盘	*|baidu	871
+*|media player classic	*|mpc	1184
+*|services	*|services,msc	8841
+*|media composer	*|avid	520
+*|word	*|open office	12047
+*|	*|global	8778
+*|mcafee livesafe (1)	*|maca	4989
+*|services	*|services msc	8262
+*|word	*|office word	11476
+*|dell update	*|dell updates	5937
+*|services	*|windows services	8473
+*|mcafee livesafe	*|mcaffe	5128
+*|	*|gsauto	8976
+*|configure java	*|java con	4743
+*|control panel	*|cibt	11714
+*|mcafee livesafe	*|macafee	5539
+*|百度网盘	*|bai'du	3220
+*|word	*|microsft word	11617
+*|service manager	*|sme	291
+*|	*|hearth	8300
+*|secure shell client	*|ssh	941
+*|maps	*|bing maps	5828
+*|manual logon script	*|vpn	1
+*|word	*|microsoft work	11496
+*|cisco anyconnect secure mobility client	*|cicso	8087
+*|	*|blender.exe	9223
+*|	*|heaven	9553
+*|malwarebytes	*|mbam	6188
+*|word	*|microsoft word	7195
+*|mail	*|msil	8746
+*|	*|heroes	9371
+*|secure client monitor	*|ncp	1
+*|mail	*|mial	8204
+*|word	*|microsoft office	9415
+*|	*|hitman	8829
+*|mail	*|emal	9796
+*|scratch 2	*|scrach	4558
+*|mail	*|,ail	9602
+*|wo mic client	*|womic	2782
+*|scan	*|scn	6382
+*|	*|horion	9416
+*|control panel	*|cpontrol	10952
+*|mail	*|mmail	9597
+*|winscp	*|sftp	5899
+*|chromium	*|chrome	3016
+*|scan	*|san	7242
+*|mail	*|maiul	9884
+*|	*|hwinfo	8450
+*|mail	*|maiol	8789
+*|scan	*|scam	6887
+*|winscp	*|winsp	6826
+*|	*|icloud	7503
+*|scan	*|scab	6821
+*|mail	*|mails	9277
+*|mail	*|mailo	9468
+*|winscp	*|wincp	7131
+*|	*|android	9305
+*|	*|imagej	6313
+*|scan	*|scanner	4170
+*|mail	*|maill	8939
+*|winscp	*|winsco	6477
+*|mail	*|mailk	8438
+*|	*|impero	5998
+*|scan	*|hp scan	6785
+*|mail	*|maikl	8471
+*|scan	*|windows scan	7023
+*|winscp	*|winscpo	7492
+*|chrome	*|google	4287
+*|	*|indigo	8831
+*|mail	*|maiil	9712
+*|mail	*|maail	9846
+*|winscp	*|win scp	7492
+*|sap logon	*|saplogon	6682
+*|san andreas multiplayer	*|samp	1596
+*|	*|intact	7955
+*|mail	*|inbox	8174
+*|	*|cold turkey	9110
+*|mail	*|emial	9924
+*|	*|ipscan	8192
+*|configuração do sistema	*|msconfig	1
+*|mail	*|emails	7259
+*|control panel	*|cvontrol	11426
+*|chạy	*|run	693
+*|sage 50 accounts	*|sage50	6422
+*|	*|itunes	6359
+*|mail	*|e-mail	9055
+*|mail	*|e mails	9506
+*|	*|keygen	9445
+*|sage 200c professional	*|sage200	4306
+*|mail	*|mail app	9935
+*|desktop client	*|osirium	2269
+*|ryzen master application	*|amd	1398
+*|mail	*|my emails	9829
+*|	*|kindle	8240
+*|mail	*|live mail	9652
+*|ryzen master	*|amd	1749
+*|	*|linkup	9203
+*|mail	*|windows mail	8602
+*|run2standard	*|r2s	1
+*|magnifier	*|magnify	4955
+*|character map	*|chare	6289
+*|run	*|+r	8143
+*|	*|liquid	9200
+*|magnifier	*|magnifer	6268
+*|magic the gathering online	*|mtgo	1231
+*|	*|little	9296
+*|madhura dictionary	*|madu	1939
+*|run	*|قعى	9236
+*|	*|loader	9302
+*|run	*|ryn	9427
+*|lõikeriist	*|snip	1200
+*|lync 2013	*|skype	3790
+*|	*|luyten	8914
+*|run	*|rum	7456
+*|lommeregner	*|calc	1363
+*|run	*|eun	7810
+*|character map	*|charc	5500
+*|lol	*|lea	1415
+*|	*|magica	9025
+*|	*|eclipse.exe	9305
+*|control panel	*|con trol	10603
+*|logmein hamachi	*|him	4623
+*|configuration wizard	*|crm	995
+*|	*|master	9378
+*|run	*|ruun	9017
+*|logitech gaming software 9.02	*|logt	6863
+*|login console	*|snmpc	716
+*|	*|matlab	7634
+*|linkedin	*|linked in	4643
+*|run	*|runn	8142
+*|linie de comandă	*|cmd	1
+*|	*|mcafee	7760
+*|run	*|runm	9167
+*|control panel	*|cxontrol	11557
+*|linha de comandos	*|cmd	693
+*|character map	*|symbols	5624
+*|	*|mcedit	8269
+*|run	*|rund	9276
+*|lightshot	*|ligt	6577
+*|libreoffice writer	*|libra	5832
+*|run	*|runb	8315
+*|	*|merlin	8946
+*|libreoffice writer	*|libre office	4906
+*|run	*|run]	8767
+*|lexia core 5	*|chrome	1
+*|	*|mfiles	8086
+*|画图	*|paint	730
+*|lenovo service bridge	*|lsb	1401
+*|character map	*|charmap	3103
+*|	*|minion	8870
+*|lego digital designer	*|ldd	1079
+*|run	*|run#	8747
+*|ledetekst	*|cmd	693
+*|cyberlink youcam 5	*|camera	1937
+*|	*|mobile	7997
+*|league of legends	*|lol	2986
+*|run	*|ruin	8841
+*|desktop video setup	*|black	747
+*|run	*|rubn	8273
+*|league of legends	*|leas	9188
+*|	*|modass	9299
+*|	*|fastclicker	8878
+*|league of legends	*|leah	9286
+*|	*|mousej	8783
+*|league of legends	*|leaf	9256
+*|run	*|ru n	9311
+*|league of legends	*|legue	9240
+*|ccleaner	*|cclear	7502
+*|	*|mp3tag	8477
+*|league of legends	*|leage	6022
+*|run	*|rrun	8662
+*|league of legends	*|legaue	9279
+*|	*|netcut	9581
+*|run	*|reun	9175
+*|league of legends	*|leauge	6172
+*|control panel	*|ninstall	10903
+*|	*|noping	9059
+*|run	*|runun	9367
+*|league of legends	*|leagye	8163
+*|league of legends	*|leaguye	7930
+*|run	*|appda	7425
+*|	*|norton	7306
+*|launch v-ray dr spawner	*|vray	1
+*|run	*|prefetch	6859
+*|canon inkjet print utility	*|cannon	3510
+*|laskin	*|calc	1652
+*|	*|nvidia	7843
+*|landing rate monitor	*|lrm	1
+*|configuration manager console	*|sccm	1252
+*|	*|oculus	7946
+*|l.e.k. online services	*|lek	1
+*|run	*|control userpasswords2	8034
+*|képmetsző	*|snipp	3488
+*|control panel	*|apps	8494
+*|	*|office	8493
+*|画图	*|huatu	1428
+*|kuvakaappaustyökalu	*|snip	1131
+*|rules of survival	*|ros	1285
+*|rstudio	*|r studio	4346
+*|konfiguracja systemu	*|msconfig	798
+*|	*|onetap	8653
+*|	*|illustrator	9286
+*|komut İstemi	*|cmd	693
+*|caméra	*|camera	1391
+*|	*|oracle	7651
+*|kommandotolken	*|cmd	1
+*|roblox	*|rolox	7331
+*|kommandoprompt	*|cmd	1
+*|	*|origin	4328
+*|komentokehote	*|cmd	693
+*|roblox	*|robox	6840
+*|komandinė eilutė	*|cmd	693
+*|	*|papers	9153
+*|roblox	*|roblx	8023
+*|knipprogramma	*|snipping	4671
+*|camera	*|camm	8286
+*|roblox	*|rblox	8621
+*|	*|parsec	9158
+*|klippeværktøj	*|snip	2298
+*|kladblok	*|notepad	2023
+*|roblox	*|rolbox	8909
+*|	*|pencil	8498
+*|roblox	*|robloz	7448
+*|kerbal space program	*|ksp	2514
+*|digital photo professional 4	*|dpp	444
+*|keepass 2	*|kepp	7329
+*|	*|piskel	8973
+*|keepass 2	*|keee	7745
+*|control panel	*|panel de	11711
+*|	*|planet	9250
+*|roblox	*|robloc	6774
+*|keepass 2	*|keeps	7506
+*|configuración del sistema	*|msconfig	693
+*|keepass 2	*|kepass	7781
+*|camera	*|webcm	9262
+*|有道词典桌面版	*|youdao	1021
+*|	*|plants	9302
+*|roblox	*|eoblox	8912
+*|keepass 2	*|keypass	4581
+*|roblox	*|rroblox	8314
+*|keepass 2	*|keepass2	7661
+*|	*|player	9344
+*|	*|lotus notes	9136
+*|keepass	*|keypass	5388
+*|	*|portal	9131
+*|roblox	*|robloxc	9070
+*|kamera	*|camera	2344
+*|kalkylatorn	*|calc	1597
+*|	*|powder	7624
+*|kalkulačka	*|calc	2553
+*|roblox	*|robblox	8847
+*|camera	*|cmera	7404
+*|roblox	*|open roblox	8826
+*|kalkulators	*|calc	1662
+*|	*|ppsspp	8542
+*|kalkulator	*|calk	7256
+*|rivatuner statistics server	*|rtss	2370
+*|	*|proton	8666
+*|kalkulator	*|calculator	6233
+*|ringcentral phone	*|ring central	4333
+*|kalkulaator	*|calc	1272
+*|representative console (support.eu.jll.com)	*|bomgar	1
+*|	*|ptouch	7961
+*|kakaotalk	*|kako	4452
+*|暴雪战网	*|b	693
+*|join.me	*|joinme	3567
+*|	*|pwsafe	9283
+*|join.me	*|join me	3149
+*|control panel	*|network ada	11794
+*|camera	*|camwe	8788
+*|remotedesktopverbindung	*|rdp	3344
+*|	*|qpulse	9155
+*|jegyzettömb	*|notepad	1685
+*|control panel	*|unistall	8627
+*|jack command	*|cmd	1
+*|remotedesktopverbindung	*|mstsc	1651
+*|	*|random	9018
+*|remote desktop connection manager	*|rdcman	5252
+*|iškarpų įrankis	*|snip	1531
+*|	*|migrate.cmd	9325
+*|itunes	*|ity	7490
+*|	*|reaper	8653
+*|itunes	*|iti	7795
+*|conexión a escritorio remoto	*|mstsc	1729
+*|camera	*|camra	5668
+*|remote desktop connection	*|vps	9248
+*|	*|report	8619
+*|itunes	*|itum	9233
+*|itunes	*|iunes	8877
+*|	*|retain	8101
+*|remote desktop connection	*|rer	9712
+*|itunes	*|itunw	8553
+*|remote desktop connection	*|rds	6564
+*|discord	*|ddiscord	10546
+*|itunes	*|ituns	7880
+*|	*|rocket	8822
+*|remote desktop connection	*|rdo	9202
+*|itunes	*|itunr	8090
+*|	*|rustad	9223
+*|remote desktop connection	*|rde	10595
+*|itunes	*|itues	7412
+*|itunes	*|itnes	8449
+*|camera	*|camet	8870
+*|remote desktop connection	*|rdc	5767
+*|	*|sasgui	9123
+*|itunes	*|iyunes	7880
+*|itunes	*|ituned	8690
+*|	*|saturn	9274
+*|control panel	*|conbtrol	10727
+*|itunes	*|ituens	8043
+*|remote desktop connection	*|rd[	10300
+*|	*|school	8698
+*|control panel	*|adapter	9837
+*|itunes	*|itubes	7515
+*|conexión a escritorio remoto	*|remote	1512
+*|itunes	*|itnues	8980
+*|remote desktop connection	*|192	9188
+*|remote desktop connection	*|stsc	8520
+*|	*|secure	8537
+*|itunes	*|itunesd	8970
+*|	*|thunderbird	9087
+*|camera	*|caera	8066
+*|itunes	*|ituners	9134
+*|	*|sekiro	9186
+*|itunes	*|itunbes	8917
+*|remote desktop connection	*|redp	10631
+*|	*|seneca	9302
+*|itunes	*|itubnes	9155
+*|itunes	*|iitunes	9256
+*|remote desktop connection	*|rdpo	10447
+*|	*|server	9153
+*|remote desktop connection	*|mtsc	7973
+*|itunes	*|i tunes	6230
+*|it service desk info	*|itsd	1
+*|	*|shadow	8623
+*|remote desktop connection	*|mssc	9486
+*|iris anti money laundering	*|aml	1
+*|camera	*|webcam	4336
+*|remote desktop connection	*|rmote	8383
+*|	*|sharex	9030
+*|ipvanish	*|vpn	2722
+*|remote desktop connection	*|reote	8289
+*|ip-director	*|ipd	1
+*|控制面板	*|kongzhi	2558
+*|	*|sierra	8964
+*|invite de commandes	*|cmd	745
+*|cyberlink youcam 5	*|webcam	2052
+*|internet information services (iis) manager	*|iss	4650
+*|	*|signal	9039
+*|remote desktop connection	*|remte	7987
+*|internet information services (iis) manager	*|inetmgr	4104
+*|camera	*|kamera	8376
+*|control panel	*|c0ntrol	11088
+*|	*|simple	8825
+*|remote desktop connection	*|nstsc	10284
+*|internet explorer	*|inm	9761
+*|remote desktop connection	*|msysc	10233
+*|	*|sims 3	8385
+*|	*|tor browser	7714
+*|internet explorer	*|ijn	10829
+*|discord	*|disccord	10641
+*|internet explorer	*|ier	11088
+*|	*|sims 4	7455
+*|computer management	*|computr	6846
+*|remote desktop connection	*|mstcs	8963
+*|internet explorer	*|iee	10911
+*|	*|sky go	8373
+*|internet explorer	*|i.e	10605
+*|camera	*|cmaera	7733
+*|remote desktop connection	*|mstac	10170
+*|	*|skyrim	9493
+*|control panel	*|ؤخىفق	11256
+*|internet explorer	*|i e	10925
+*|remote desktop connection	*|msstc	9088
+*|internet explorer	*|ex[	10403
+*|	*|slack#	9259
+*|internet explorer	*|inrt	10448
+*|remote desktop connection	*|msrsc	10616
+*|	*|slayer	9271
+*|remote desktop connection	*|msctc	10908
+*|internet explorer	*|ie11	8505
+*|控制面板	*|control	1983
+*|	*|sophos	9296
+*|internet explorer	*|onter	10989
+*|camera	*|canera	8295
+*|internet explorer	*|inyer	10109
+*|	*|speccy	8839
+*|remote desktop connection	*|,stsc	10602
+*|internet explorer	*|intwr	10555
+*|控制台	*|control	1438
+*|	*|spider	8551
+*|remote desktop connection	*|romote	10815
+*|internet explorer	*|intrt	10417
+*|remote desktop connection	*|rmeote	7744
+*|	*|spotif	7458
+*|	*|atlauncher	8162
+*|internet explorer	*|intrr	11009
+*|control panel	*|cantrol	10886
+*|internet explorer	*|intra	9905
+*|	*|spyder	8918
+*|remote desktop connection	*|reomte	9606
+*|internet explorer	*|inrer	10823
+*|camera	*|camrea	7203
+*|	*|sqlite	8831
+*|internet explorer	*|inert	11084
+*|remote desktop connection	*|renote	9687
+*|	*|steam#	8231
+*|internet explorer	*|imter	10161
+*|remote desktop connection	*|renite	10393
+*|internet explorer	*|ie 11	11041
+*|	*|studio	7708
+*|internet explorer	*|ibter	11081
+*|camera	*|camerq	9134
+*|remote desktop connection	*|remtoe	7666
+*|	*|summer	8752
+*|remote desktop connection	*|rempte	9072
+*|internet explorer	*|expol	9609
+*|	*|anydesk	5070
+*|	*|tablet	8592
+*|internet explorer	*|ionter	10688
+*|computer management	*|compmgmt	4316
+*|discord	*|discoerd	10420
+*|internet explorer	*|inyter	10284
+*|	*|target	8185
+*|remote desktop connection	*|remoye	10275
+*|internet explorer	*|intwer	10275
+*|	*|teams#	9328
+*|remote desktop connection	*|remoto	10619
+*|internet explorer	*|intter	10711
+*|remote desktop connection	*|remore	8693
+*|camera	*|camear	8085
+*|	*|tempus	8971
+*|	*|battle.net	7636
+*|internet explorer	*|intrer	9973
+*|control panel	*|cintrol	10367
+*|internet explorer	*|intewr	10013
+*|	*|thankq	8590
+*|remote desktop connection	*|remoet	8799
+*|internet explorer	*|intetr	10092
+*|	*|tomtom	8408
+*|internet explorer	*|inter]	10240
+*|remote desktop connection	*|remite	10082
+*|	*|triple	8527
+*|internet explorer	*|inter#	9947
+*|camera	*|camara	6727
+*|remote desktop connection	*|re,pte	9873
+*|internet explorer	*|innter	10825
+*|	*|tunnel	7929
+*|internet explorer	*|ingter	11133
+*|remote desktop connection	*|re,ote	9877
+*|	*|twitch	7175
+*|remote desktop connection	*|mstysc	10364
+*|internet explorer	*|imnter	11440
+*|	*|unikey	8246
+*|internet explorer	*|ibnter	11422
+*|internet explorer	*|iternet	10173
+*|	*|univer	8841
+*|remote desktop connection	*|mstsxc	10791
+*|computer (1)	*|pc	2605
+*|internet explorer	*|intrnet	9929
+*|camera	*|ca,era	8202
+*|	*|vatspy	9402
+*|remote desktop connection	*|mstsvc	10780
+*|internet explorer	*|intnert	11338
+*|remote desktop connection	*|mststc	10948
+*|	*|verify	8678
+*|	*|bittorrent	9142
+*|internet explorer	*|internr	11229
+*|control panel	*|congtrol	11013
+*|internet explorer	*|interet	9299
+*|	*|verint	9241
+*|remote desktop connection	*|mstssc	10235
+*|internet explorer	*|intenet	8651
+*|camera	*|web cam	6976
+*|	*|vision	8651
+*|internet explorer	*|intener	10254
+*|remote desktop connection	*|mstscx	10721
+*|	*|vmware	7052
+*|control panel	*|cnotrol	11114
+*|internet explorer	*|int exp	10631
+*|discord	*|discoird	10405
+*|remote desktop connection	*|mstscv	10032
+*|internet explorer	*|inernet	9573
+*|	*|vortex	8309
+*|internet explorer	*|iexpore	11249
+*|remote desktop connection	*|mstscs	10740
+*|remote desktop connection	*|mstscc	10839
+*|	*|wallap	8892
+*|internet explorer	*|iexplre	11392
+*|截图工具	*|sc	3416
+*|camera	*|ccamera	9241
+*|	*|wechat	9079
+*|internet explorer	*|exporer	10481
+*|remote desktop connection	*|mstrsc	10311
+*|internet explorer	*|explorr	10893
+*|	*|winamp	8890
+*|computer (1)	*|my pc	4297
+*|internet explorer	*|exploer	8593
+*|remote desktop connection	*|msstsc	10867
+*|	*|winbox	6179
+*|remote desktop connection	*|msctsc	10863
+*|internet explorer	*|eplorer	10893
+*|	*|bluestacks	8346
+*|	*|windsc	9229
+*|internet explorer	*|browser	10151
+*|camera	*|camersa	8919
+*|internet explorer	*|itnernet	10466
+*|	*|winman	7232
+*|remote desktop connection	*|ermote	10480
+*|internet explorer	*|intrenet	10440
+*|	*|winmtr	8450
+*|internet explorer	*|intneret	11048
+*|remote desktop connection	*|rwemote	11004
+*|control panel	*|cobtrol	10801
+*|	*|winrar	7755
+*|internet explorer	*|internwt	11426
+*|remote desktop connection	*|rtemote	10674
+*|	*|winscp	6645
+*|internet explorer	*|internte	9932
+*|remote desktop connection	*|rremote	10166
+*|camera	*|camerra	9005
+*|remote desktop connection	*|rewmote	10084
+*|	*|winzip	8128
+*|internet explorer	*|internew	11446
+*|	*|wizard	9087
+*|cyberlink youcam 6	*|webcam	2333
+*|internet explorer	*|internat	10207
+*|remote desktop connection	*|renmote	10521
+*|	*|wonder	9361
+*|internet explorer	*|intermet	10952
+*|control panel	*|guest	10554
+*|camera	*|camerea	8786
+*|截图工具	*|snip	2163
+*|	*|x-lite	9478
+*|remote desktop connection	*|rempote	9547
+*|internet explorer	*|interent	8409
+*|remote desktop connection	*|remoyte	10371
+*|	*|xplane	8776
+*|	*|calculator	9391
+*|internet explorer	*|interbet	10701
+*|discord	*|discoprd	10711
+*|	*|yammer	8549
+*|computer (1)	*|my com	5010
+*|internet explorer	*|intenret	8915
+*|remote desktop connection	*|remotye	9746
+*|camera	*|cameras	8482
+*|	*|ygopro	8381
+*|internet explorer	*|inetrnet	10766
+*|	*|zoomit	9250
+*|remote desktop connection	*|remotwe	10876
+*|internet explorer	*|exployer	10628
+*|control panel	*|coj	10823
+*|camera	*|cameraa	8444
+*|	*|admin	8978
+*|remote desktop connection	*|remotre	8758
+*|internet explorer	*|enternet	9667
+*|	*|adnet	9084
+*|remote desktop connection	*|remotew	10022
+*|internet explorer	*|intyernet	11446
+*|remote desktop connection	*|remotes	10780
+*|camera	*|camera#	8979
+*|	*|adobe	6882
+*|internet explorer	*|intertnet	11286
+*|	*|after	7517
+*|control panel	*|congrol	11875
+*|camera	*|cameera	9099
+*|internet explorer	*|interrnet	11436
+*|remote desktop connection	*|remoter	8882
+*|	*|agent	8558
+*|discord	*|discord]	10815
+*|internet explorer	*|interneyt	11341
+*|截图工具	*|jietu	1968
+*|remote desktop connection	*|remotee	10272
+*|	*|alarm	9136
+*|remote desktop connection	*|remorte	10270
+*|internet explorer	*|internety	10090
+*|camera	*|caamera	9265
+*|	*|chatterino	9354
+*|	*|alpha	6482
+*|internet explorer	*|internett	11084
+*|	*|arbor	8607
+*|remote desktop connection	*|remopte	9029
+*|internet explorer	*|internetr	10172
+*|	*|arena	8545
+*|internet explorer	*|internetn	11266
+*|remote desktop connection	*|remoite	9663
+*|	*|argus	9147
+*|internet explorer	*|internet#	11212
+*|camera	*|video re	8915
+*|remote desktop connection	*|remnote	9559
+*|	*|as400	8942
+*|internet explorer	*|internert	9934
+*|remote desktop connection	*|remmote	10282
+*|	*|atlas	8890
+*|remote desktop connection	*|remiote	10338
+*|internet explorer	*|interneet	11298
+*|截图工具	*|jie'tu	3253
+*|	*|audio	9391
+*|internet explorer	*|interenet	9696
+*|computer (1)	*|this pc	2906
+*|	*|avast	7170
+*|remote desktop connection	*|rem,ote	10445
+*|internet explorer	*|inteernet	11280
+*|camera	*|take photo	8818
+*|control panel	*|conreol	10215
+*|	*|avaya	9126
+*|internet explorer	*|ineternet	11046
+*|remote desktop connection	*|reemote	10713
+*|	*|avira	9528
+*|internet explorer	*|iinternet	11196
+*|	*|clone hero	8141
+*|	*|avola	8753
+*|internet explorer	*|iexplorer	8902
+*|camera	*|video camera	9212
+*|remote desktop connection	*|remote a	10972
+*|	*|axxia	8759
+*|internet explorer	*|explorere	9207
+*|	*|azyra	9328
+*|internet explorer	*|iexplore.exe	9455
+*|control panel	*|conmtrol	9994
+*|discord	*|discordd	10403
+*|control panel	*|conrrol	11844
+*|	*|babun	9084
+*|internet explorer	*|internetexplorer	10752
+*|remote desktop connection	*|mstsc.exe	8323
+*|	*|baldi	8806
+*|internet explorer	*|internet exporer	10946
+*|calendar	*|caln	6334
+*|remote desktop connection	*|remote dek	10602
+*|	*|black	7857
+*|internet explorer	*|internet exploere	10653
+*|카메라	*|camera	1567
+*|	*|blcmm	7864
+*|internet explorer	*|microsoft explorer	11172
+*|	*|blitz	8804
+*|internet explorer	*|internet explorere	9735
+*|computer	*|pc	3203
+*|	*|blizz	9153
+*|remote desktop connection	*|mstscadmin	10528
+*|internet explorer	*|internet exploreer	11091
+*|control panel	*|conrtol	9704
+*|calendar	*|caled	6390
+*|	*|bns b	9357
+*|	*|desktophut	9590
+*|internet explorer	*|internet explorer 11	10617
+*|remote desktop connection	*|mstsc admin	10501
+*|	*|bosca	9220
+*|control panel	*|cpmtr	11367
+*|internet download manager	*|هیئ	6305
+*|	*|brave	8491
+*|internet download manager	*|idm	1381
+*|remote desktop connection	*|remotedesktop	10697
+*|	*|brawl	9321
+*|intel(r) extreme tuning utility	*|xtu	1709
+*|calendar	*|calender	3167
+*|	*|brill	8526
+*|intapp time	*|dte	3026
+*|	*|burli	9158
+*|rekenmachine	*|calculator	5463
+*|control panel	*|conteol	10643
+*|	*|camis	9286
+*|微信	*|weixin	2921
+*|instrument de decupare	*|snip	1510
+*|calendar	*|calander	4516
+*|	*|canon	6270
+*|instagram	*|insr	9114
+*|reiknivél	*|calc	1062
+*|	*|casio	9378
+*|discord	*|discordf	9336
+*|	*|chart	9220
+*|control panel	*|control pal	11628
+*|instagram	*|isnta	8305
+*|registry editor	*|red	5834
+*|	*|chase	8397
+*|	*|dimensions	9368
+*|instagram	*|insat	9091
+*|calendar	*|calandar	6967
+*|control panel	*|contolr	11087
+*|	*|chemo	9214
+*|registry editor	*|regit	7052
+*|	*|citra	8387
+*|instagram	*|instgram	8960
+*|	*|clash	7304
+*|infinity client	*|voyager	2008
+*|	*|clean	9286
+*|registry editor	*|regedt	7765
+*|calendar	*|callender	7149
+*|	*|clear	9309
+*|image composite editor	*|ice	776
+*|control panel	*|conntrol	10736
+*|registry editor	*|egedit	7302
+*|	*|cloud	8190
+*|idle (python gui)	*|python idle	5633
+*|微信	*|wechat	2227
+*|	*|cmder	6248
+*|computer	*|my pc	4576
+*|control panel	*|contral	10039
+*|	*|cpu-z	9402
+*|icloud	*|i cloud	5095
+*|calculatrice	*|calculator	5661
+*|	*|cpuid	8468
+*|微信	*|wei'xin	4449
+*|ic business manager	*|icb	1415
+*|registry editor	*|regedit	1171
+*|	*|curse	9357
+*|	*|ds4windows	9416
+*|	*|cyber	8338
+*|ibm notes	*|lotus	3173
+*|registrierungs-editor	*|regedit	1
+*|calculator	*|计算器	11765
+*|control panel	*|contrik	11328
+*|	*|db br	9309
+*|hyper-v manager	*|vm	4166
+*|	*|disc#	9309
+*|discord	*|discords	9831
+*|reflect	*|mac	732
+*|	*|dmacs	7454
+*|hyper-v manager	*|hyperv	3706
+*|control panel	*|contl	11628
+*|	*|dream	9305
+*|hyper-v manager	*|virtual	5265
+*|calculator	*|แฟส	10790
+*|	*|droid	9459
+*|rechner	*|calculator	5611
+*|	*|eagle	9409
+*|	*|arduino	8776
+*|hyper-v manager	*|hyper v	4267
+*|cámara	*|camara	1945
+*|	*|earth	9166
+*|hwmonitor	*|cpu	3145
+*|reader	*|pdf	693
+*|	*|elder	8612
+*|control panel	*|contril	9537
+*|calculator	*|czl	11427
+*|	*|elite	8049
+*|rd tabs	*|rdt	1837
+*|hrdirect	*|hr direct	4329
+*|	*|emacs	9115
+*|	*|epic games	8250
+*|hr access	*|hra	478
+*|control panel	*|control pl	11854
+*|	*|email	8964
+*|razer synapse	*|razor	6084
+*|control panel	*|contrll	11882
+*|	*|entry	8994
+*|hp support assistant	*|hps	5150
+*|calculator	*|ca.	10940
+*|	*|epsxe	8714
+*|rabbitmq command prompt (sbin dir)	*|cmd	1
+*|hp support assistant	*|hp ass	4754
+*|	*|equal	9445
+*|	*|exp s	9405
+*|hp smart	*|hpsmart	6198
+*|quick assist	*|quickassist	4996
+*|calculator	*|زشمز	10674
+*|	*|fceux	8892
+*|hp smart	*|hp printer	5526
+*|	*|ffxiv	9402
+*|discord	*|discored	9132
+*|control panel	*|conotrol	11834
+*|	*|final	8051
+*|query designer	*|bex	1448
+*|hp scan	*|hpscan	5776
+*|control panel	*|contrlo	11260
+*|	*|fire#	9354
+*|hesap makinesi	*|calcu	4683
+*|calculator	*|ؤشمؤ	10566
+*|ql-x	*|qlx	712
+*|	*|first	9277
+*|	*|everything	8743
+*|	*|flash	6078
+*|herramienta recortes	*|cut	4291
+*|qbittorrent	*|qto	6142
+*|	*|fmrte	8623
+*|herramienta recortes	*|snipp	3931
+*|	*|focal	8414
+*|calculator	*|בשךב	11447
+*|q-pulse 5	*|qpulse	2288
+*|	*|focus	7715
+*|control panel	*|contro,	10994
+*|heroes of newerth	*|hon	972
+*|	*|forge	7107
+*|help desk	*|amber	1
+*|	*|forza	9478
+*|q-pulse	*|qpulse	2393
+*|control panel	*|conti	11552
+*|	*|foxit	8413
+*|小算盤	*|calc	2349
+*|handbrake	*|handbreak	6150
+*|calculator	*|цалц	10604
+*|computer	*|my com	4435
+*|	*|fraps	8804
+*|h-class airtime sales	*|landmark	908
+*|příkazový řádek	*|cmd	693
+*|	*|fsxwx	9008
+*|control panel	*|contron	10631
+*|	*|ftb l	9164
+*|putty	*|puuty	7914
+*|gооglе сhrоmе	*|chrome	639
+*|calculator	*|сфдс	9917
+*|	*|gamez	9128
+*|	*|lightworks	8338
+*|gyazo	*|gyao	8033
+*|	*|genio	8969
+*|putty	*|putyy	6737
+*|discord	*|discorfd	9996
+*|	*|gerbv	9175
+*|gyazo	*|gyzao	7931
+*|	*|ghost	8110
+*|putty	*|putyt	8639
+*|gyazo	*|gyazp	7758
+*|calculator	*|каль	10875
+*|control panel	*|contrpl	10745
+*|	*|glass	9505
+*|	*|gmail	9459
+*|gyazo	*|gyazi	7327
+*|putty	*|puttu	8796
+*|	*|godot	7942
+*|gyazo	*|gayzo	7845
+*|	*|goog#	9312
+*|putty	*|outty	7031
+*|calculator	*|xalc	11383
+*|	*|gopro	9164
+*|control panel	*|conrtrol	11402
+*|guild wars 2	*|gw2	2528
+*|putty	*|puttty	7811
+*|control panel	*|conttol	11277
+*|	*|grand	8343
+*|小畫家	*|paint	1227
+*|gt&e	*|gte	1858
+*|	*|guild	8641
+*|pulse secure	*|puse	6694
+*|	*|mw desktop	9467
+*|	*|heidi	8365
+*|groove music	*|grr	6203
+*|calculator	*|vcal	11648
+*|pulse secure	*|pule	6460
+*|	*|hello	9013
+*|groove music	*|grove	4799
+*|	*|house	9334
+*|	*|hrims	9197
+*|control panel	*|conyrol	10996
+*|groove music	*|play music	6636
+*|calculator	*|valv	12135
+*|pulse secure	*|pluse	7476
+*|	*|hwmon	9290
+*|greenshot	*|gren	5572
+*|	*|hyper	7818
+*|pulse secure	*|oulse	6440
+*|discord	*|discorrd	10513
+*|	*|ideas	8303
+*|grand theft auto v	*|gta	1424
+*|control panel	*|cont#	10973
+*|	*|iesve	8062
+*|grand theft auto san andreas	*|gta	318
+*|calculator	*|valc	11300
+*|pulse secure	*|junos	5533
+*|	*|ilspy	8564
+*|control panel	*|add	7671
+*|命令提示符	*|cmd	693
+*|control panel	*|conytol	10512
+*|	*|infor	9371
+*|publisher 2016	*|publsiher	6919
+*|grammarly	*|grammer	5133
+*|	*|navisworks	8734
+*|	*|input	9331
+*|gotomeeting	*|go to	3301
+*|	*|irfan	8656
+*|publisher	*|publu	7384
+*|calculator	*|culc	11715
+*|	*|isams	8686
+*|google earth pro	*|gog	7080
+*|	*|itris	8266
+*|google earth pro	*|googleearth	7172
+*|	*|jdown	9247
+*|publisher	*|publsiher	6776
+*|	*|jonas	8524
+*|control panel	*|cotnrol	10321
+*|google chrome	*|لخخ	11246
+*|publisher	*|microsoft publisher	7189
+*|calculator	*|cslc	10099
+*|	*|joyto	8695
+*|命令提示字元	*|cmd	1
+*|google chrome	*|cjh	10860
+*|	*|kelio	9244
+*|	*|khaos	7891
+*|google chrome	*|gppg	11475
+*|psql control center & documentation	*|pcc	1
+*|calculator	*|cqlc	10770
+*|control panel	*|conterol	10501
+*|	*|kitty	7239
+*|google chrome	*|goio	12078
+*|	*|powerpoint	7370
+*|	*|krita	9253
+*|control panel	*|cpntrol	10156
+*|príkazový riadok	*|cmd	693
+*|discord	*|discortd	10353
+*|	*|laser	8481
+*|google chrome	*|goooo	11059
+*|	*|libre	7287
+*|google chrome	*|goole	8781
+*|calculator	*|caul	11173
+*|prompt dei comandi	*|cmd	693
+*|	*|linux	9290
+*|	*|logon	9229
+*|google chrome	*|gmail	8824
+*|prompt de comando	*|cmd	693
+*|	*|lucid	8579
+*|google chrome	*|crome	6775
+*|	*|lunar	9112
+*|제어판	*|control	3003
+*|computer	*|this pc	3539
+*|calculator	*|caoc	12105
+*|control panel	*|kontrol	10971
+*|	*|macro	8555
+*|pro evolution soccer 6	*|pes	1
+*|google chrome	*|chro,	9500
+*|	*|match	9223
+*|control panel	*|conon	11596
+*|google chrome	*|chrme	8824
+*|pro evolution soccer 2019	*|pes	396
+*|	*|maver	8573
+*|	*|processing	8291
+*|	*|media	7227
+*|google chrome	*|chome	8261
+*|pro evolution soccer 2018	*|pes	1
+*|calculator	*|calt	11445
+*|	*|merit	8028
+*|google chrome	*|xhrome	10826
+*|	*|midas	9241
+*|control panel	*|program	7562
+*|	*|mine#	9405
+*|google chrome	*|vhrome	10414
+*|pro evolution soccer 2017	*|pes	274
+*|calculator	*|cals	9530
+*|	*|mitel	9361
+*|google chrome	*|goolge	9997
+*|	*|mongo	9220
+*|pro evolution soccer 2016	*|pes	1
+*|discord	*|discxord	10748
+*|剪取工具	*|snip	1718
+*|	*|movie	8714
+*|google chrome	*|googke	11582
+*|control panel	*|control pam	11001
+*|	*|music	9448
+*|control panel	*|unstall	10753
+*|google chrome	*|googel	8963
+*|calculator	*|calm	11555
+*|	*|nexus	7670
+*|private internet access	*|pia	1809
+*|	*|ninja	9161
+*|	*|sourcetree	8301
+*|google chrome	*|goofle	11630
+*|print management	*|printm	3573
+*|	*|nitro	8935
+*|google chrome	*|goodle	11788
+*|	*|noise	8935
+*|calculator	*|cald	10557
+*|control panel	*|contgrol	10803
+*|	*|notes	9256
+*|control panel	*|vontrol	11419
+*|google chrome	*|gogole	8989
+*|poznámkový blok	*|notepad	1551
+*|	*|oasis	9006
+*|google chrome	*|goggle	8764
+*|	*|opera	6135
+*|powershell 6 (x64)	*|pwsh	1253
+*|	*|panda	8690
+*|リモート デスクトップ接続	*|re	693
+*|google chrome	*|ggogle	10606
+*|calculator	*|cal]	10422
+*|	*|pango	8857
+*|google chrome	*|crhome	9384
+*|	*|paris	7711
+*|メモ帳	*|memo	1514
+*|powerpoint 2016	*|ppt	4641
+*|control panel	*|xontrol	10424
+*|	*|patch	7896
+*|google chrome	*|cjrome	11344
+*|	*|streamlabs	8750
+*|calculator	*|cal7	11409
+*|	*|pcsx2	9037
+*|powerpoint 2016	*|ppo	8377
+*|google chrome	*|chtome	10862
+*|	*|phone	8419
+*|discord	*|disscord	10815
+*|	*|pivot	9203
+*|control panel	*|cntrl	11250
+*|google chrome	*|chrpme	10366
+*|	*|pixel	9241
+*|powerpoint 2016	*|poo	8249
+*|google chrome	*|chrone	9431
+*|calculator	*|cal4	11182
+*|	*|pixie	8783
+*|powerpoint 2016	*|pwer	7539
+*|	*|pkhex	8386
+*|google chrome	*|chroms	10864
+*|	*|ascribe	9309
+*|component services	*|dcom	1868
+*|	*|plays	8721
+*|control panel	*|appear	10973
+*|google chrome	*|chroke	11363
+*|	*|praat	9034
+*|calculator	*|cal1	12166
+*|powerpoint 2016	*|slide	8540
+*|	*|primo	8130
+*|control panel	*|control o	11510
+*|google chrome	*|chroem	8247
+*|	*|teamcenter	8935
+*|	*|print	8824
+*|control panel	*|contr]	11413
+*|google chrome	*|chrmoe	10520
+*|powerpoint 2016	*|pwoer	8215
+*|	*|prism	8320
+*|	*|prote	9388
+*|google chrome	*|chrine	11018
+*|calculator	*|cal.	11630
+*|	*|proxo	9368
+*|google chrome	*|chrime	9406
+*|powerpoint 2016	*|powwe	8434
+*|	*|proxy	8743
+*|	*|pulse	7800
+*|powerpoint 2016	*|powre	9024
+*|google chrome	*|chorme	8448
+*|calculator	*|cal'	11874
+*|	*|quest	9158
+*|google chrome	*|chomre	10280
+*|control panel	*|contorol	11245
+*|	*|rapid	8083
+*|control panel	*|cpanel	9796
+*|Your Phone	*|my phone	64000
+*|Your Phone	*|Android	64000

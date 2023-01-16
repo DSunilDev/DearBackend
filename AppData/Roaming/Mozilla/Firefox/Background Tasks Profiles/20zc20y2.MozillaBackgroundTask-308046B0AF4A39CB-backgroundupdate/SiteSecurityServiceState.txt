@@ -1,0 +1,3 @@
+firefox.settings.services.mozilla.com:HSTS	3	19371	1705217886886,1,0
+incoming.telemetry.mozilla.org:HSTS	4	19371	1705217886651,1,0
+aus5.mozilla.org:HSTS	3	19371	1705217886506,1,0

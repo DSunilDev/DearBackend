@@ -1,0 +1,14 @@
+C:\Program Files\Android\Android Studio\jre\bin
+C:\Users\ADMIN\AppData\Local\Android\Sdk\emulator\emulator.exe
+11
+C:\Users\ADMIN\AppData\Local\Android\Sdk\emulator\emulator.exe
+-netdelay
+none
+-netspeed
+full
+-avd
+Pixel_6_API_33
+-qt-hide-window
+-grpc-use-token
+-idle-grpc-timeout
+300
