@@ -1,3 +1,4 @@
+/*
 const http=require('http');
 
 function handle(request,response)
@@ -29,3 +30,28 @@ const server=http.createServer(handle)
 server.listen(1400);
 
 //Custom Web Server
+
+*/
+
+const express=require('express');
+
+const app=express();
+
+app.get('/S',function(request,response){
+    response.send('<h1>Hi Sunil.You are WElcome</h1>')
+})
+
+app.get('/',function(request,response){
+    response.send('<h1>Hello Anonymous USer</h1>')
+})
+
+app.listen(1400);
+
+
+//Ran on Remote Machine ;-)
+
+
+
+
+
+
