@@ -6,6 +6,7 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+<script src="app.js" defer></script>
         <title>RRC CS</title>
     </head>
     <body>
@@ -27,12 +28,18 @@
 <h2>Video Based Learning</h2>
 <img src="" align="right">
         </div>
-        <div class="Newsletter">
+        <p>WE found <%= numberofMembers %> members</p>
             <h2>Become a member</h2>
             <h4>Get technical newsletters</h4>
-            <input type="mail" placeholder="Enter Mail" required>
+            <form action="/Home" method="POST">
+            <input type="text" placeholder="Enter Mail" name="member">
             <button>Join Now</button>
-        </div>
+            </form>
+<% for(const member of members) {%>
+    <h1><%= member.member %></h1>
+    <p>Member are recognized</p>
+<%}%>
+
         <div class="footer">
             <h3>&#169; Copyright by United R&D 2023</h3>
             <h4 align="right">All Rights Reserved ^</h4>
