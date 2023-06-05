@@ -30,8 +30,7 @@ const server=http.createServer(handle)
 server.listen(1400);
 
 //Custom Web Server
-
-*/
+Express WEb server...
 
 const express=require('express');
 
@@ -49,6 +48,46 @@ app.listen(1400);
 
 
 //Ran on Remote Machine ;-)
+
+*/
+
+const express=require('express')
+
+const app=express();
+
+app.use(express.urlencoded({extended:false}))
+
+
+app.get('/form',function(req,res)
+{
+    res.send('<form action="/g" method="POST"><label>Age<input type="number" name="number"></label><button>Submit</button></form>')
+})
+
+app.post('/g',function(req,res)
+{
+    const age=req.body.number;
+    console.log(age);
+    res.send('<h2>We have Successfully inserted the data</h2>')
+})
+
+
+app.listen(1432);
+
+//All data pops up at console in lightining speed...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
