@@ -23,6 +23,15 @@ app.get('/',function(req,res)
     res.render('index',{ numberofMembers:memberdata.length,members:memberdata});
 })
 
+
+app.get('/userdetail',function(req,res)
+{
+    const filepath=path.join(__dirname,'views','members.json')
+    const filedata=fs.readFileSync(filepath)
+    const memberdata=JSON.parse(filedata)
+    res.render('/userdetail.ejs',{ members:memberdata})
+})
+
 app.get('/Home',function(req,res)
 {
     res.render('index')
@@ -49,6 +58,16 @@ app.post('/Home',function(req,res)
     
 })
 
+
+
+app.get('/User/:id',function(req,res)
+{
+    const memberId=req.params.id;
+    const filepath=path.join(__dirname,'views','members.json')
+    const filedata=fs.readFileSync(filepath)
+    const memberdata=JSON.parse(filedata)
+    res.render('userdetail',{mid:memberId ,members:memberdata})
+})
 
 
 app.get('/Nature',function(req,res)
