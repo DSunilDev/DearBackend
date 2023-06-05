@@ -17,3 +17,24 @@ response.end('')
 request.url('/')-->Url requested by the user
 
 http->BUILT IN PACKAGE FOR WEB SERVER
+
+
+EXPRESS JS:
+
+express()-->Imported as function
+
+function(req,res,next) are the parameters
+
+{No need to define The Status Code as Express takes care of it }
+
+.get('/path',function()
+{
+    Action to be performed...
+    .send('Custom Code')
+})
+
+
+.listen(3000)->Port connection~
+
+
+
