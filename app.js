@@ -1,3 +1,7 @@
+const fs=require('fs')
+const path=require('path')
+
+
 const express=require('express');
 
 const app=express();
@@ -18,10 +22,23 @@ app.get('/',function(request,res)
 app.post('/storeuser',function(req,res)
 {
         const Username=req.body.username;
-        console.log(Username);
+        const filepath=path.join(__dirname,'data','user.json')
+        const filedata=fs.readFileSync(filepath);
+        const existingusers=JSON.parse(filedata);
+        existingusers.push(Username)
+fs.writeFileSync(filepath,JSON.stringify(existingusers))
         res.send('<h1>Sucess</h1>')
 })
 
+
+app.get('/users',function(req,res)
+{
+    const filepath=path.join(__dirname,'data','user.json')
+    const filedata=fs.readFileSync(filepath);
+    const existingusers=JSON.parse(filedata);
+
+    res.send(existingusers);
+})
 
 
 

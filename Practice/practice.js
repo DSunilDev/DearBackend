@@ -49,7 +49,7 @@ app.listen(1400);
 
 //Ran on Remote Machine ;-)
 
-*/
+//USER PARSING DATA TO CONSOLE
 
 const express=require('express')
 
@@ -78,17 +78,60 @@ app.listen(1432);
 
 
 
+let fs=require('fs');
+const path=require('path');
+
+
+const express=require('express');
+const { stringify } = require('querystring');
+const app=express();
+
+app.use(express.urlencoded({extended:false}));
+app.get('/storeusers',function(req,res)
+{
+    res.send('<form action="/store" method="POST"><label>Name<input type="text" name="name"></label><button>Submit</Submit></form>')
+})
+
+
+app.post('/store',function(req,res)
+{
+    const Username=req.body.name;
+    const filepath=path.join(__dirname,'dd','goal.json');
+    const filedata=fs.readFileSync(filepath);
+    const existingusers=JSON.parse(filedata);
+    existingusers.push(Username);
+    fs.writeFileSync(filepath,JSON.stringify(existingusers));
+    res.send("<h1>Done eeh</h1>")
+})
+
+
+app.get('/data',function(req,res)
+{
+    const filepath=path.join(__dirname,'dd','goal.json');
+    const filedata=fs.readFileSync(filepath);
+    const existingusers=JSON.parse(filedata);
+    res.send(existingusers);
+})
+
+app.listen(1432);
 
 
 
+//Stages of Writing a File:
+1.Establishing the variable with req
+2.File path
+3.readFileSync
+4.existing users json pa r se
+5.push existing users
+6.writeFileSync filepath,stringify
 
+//Readijng
+2.File path
+3.readFileSync
+4.existing users json pa r se
+Display with res.
 
-
-
-
-
-
-
+*/
 
 
 
