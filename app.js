@@ -1,56 +1,32 @@
-//BASIC EXPRESS FILE OPERATIONS
-
-
-
-const fs=require('fs')
+const express=require('express')
 const path=require('path')
-
-
-const express=require('express');
 
 const app=express();
 
-app.use(express.urlencoded({extended:false}));
-
-app.get('/currenttime',function(request,res){
-    res.send('<h1>'+ new Date().toISOString()+'</h1>')
-
-});
+app.use(express.static('styles'));
 
 
-app.get('/',function(request,res)
+app.get('/',function(req,res)
 {
-       res.send('<form action="/storeuser" method="POST"><label>Your Name</label><input type="text" placeholder="Name" name="username" required><button>Submit</button></form>')
+    res.send('<h1>HEllo</h1>')
 })
 
-app.post('/storeuser',function(req,res)
+app.get('/Home',function(req,res)
 {
-        const Username=req.body.username;
-        const filepath=path.join(__dirname,'data','user.json')
-        const filedata=fs.readFileSync(filepath);
-        const existingusers=JSON.parse(filedata);
-        existingusers.push(Username)
-fs.writeFileSync(filepath,JSON.stringify(existingusers))
-        res.send('<h1>Sucess</h1>')
+    const htmlfile=path.join(__dirname,'views','index.html')
+    res.sendFile(htmlfile);
 })
 
-
-app.get('/users',function(req,res)
+app.get('/Nature',function(req,res)
 {
-    const filepath=path.join(__dirname,'data','user.json')
-    const filedata=fs.readFileSync(filepath);
-    const existingusers=JSON.parse(filedata);
+    const htmlfile=path.join(__dirname,'views','nature.html')
+    res.sendFile(htmlfile);
+})
 
-let responsedata='<ul>';
-
-    for(const users of existingusers)
-    {
-        responsedata+='<li>'+users+'</li>';
-    }
-
-res.send(responsedata);
-});
-
-
+app.get('/devs',function(req,res)
+{
+    const htmlfile=path.join(__dirname,'views','devs.html')
+    res.sendFile(htmlfile);
+})
 
 app.listen(3000);
