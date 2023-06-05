@@ -78,6 +78,7 @@ app.listen(1432);
 
 
 
+
 let fs=require('fs');
 const path=require('path');
 
@@ -131,7 +132,36 @@ app.listen(1432);
 4.existing users json pa r se
 Display with res.
 
+//REFRESH REVISION
+
+let express=require('express')
+const app=express();
+
+app.use(express.urlencoded({extended:false}));
+
+app.get('/',function(req,res)
+{
+    res.send('<form action="/datagot" method="POST"><label>Name</label><input type="text" name="s"><button>Submit</button></form>')
+})
+
+app.post('/datagot',function(req,res)
+{
+    const name=req.body.s;
+    console.log(name);
+    res.send('<h1>DONEYYY</h1>')
+})
+
+
+app.listen(3000);
+
+
 */
+
+
+
+
+
+
 
 
 

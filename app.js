@@ -1,3 +1,7 @@
+//BASIC EXPRESS FILE OPERATIONS
+
+
+
 const fs=require('fs')
 const path=require('path')
 
@@ -16,7 +20,7 @@ app.get('/currenttime',function(request,res){
 
 app.get('/',function(request,res)
 {
-       res.send('<form action="/storeuser" method="POST"><label>Your Name</label><input type="text" placeholder="NAme" name="username"><button>Submit</button></form>')
+       res.send('<form action="/storeuser" method="POST"><label>Your Name</label><input type="text" placeholder="Name" name="username" required><button>Submit</button></form>')
 })
 
 app.post('/storeuser',function(req,res)
@@ -37,8 +41,15 @@ app.get('/users',function(req,res)
     const filedata=fs.readFileSync(filepath);
     const existingusers=JSON.parse(filedata);
 
-    res.send(existingusers);
-})
+let responsedata='<ul>';
+
+    for(const users of existingusers)
+    {
+        responsedata+='<li>'+users+'</li>';
+    }
+
+res.send(responsedata);
+});
 
 
 
