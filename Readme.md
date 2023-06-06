@@ -41,7 +41,30 @@ function(req,res,next) are the parameters
 
 fs-->File System
 
+path-->For Path creation
+
+path.join(__dirname,'','end-file')
+
 .listen(3000)->Port connection~
 
+EJS:
+
+.render();
 
 
+<% Looping condition{ %>
+Html Code
+
+{ %= VARIABLE RETURNS VALUE %}
+
+{% } %>
+
+{%- HTML CODE %}
+
+<% include('end-file') %> -->Reduce the HTML total  Code
+
+
+.status()-->Convey Status Code to the Browser..
+
+
+404->Not found 500-->Error Occured..
