@@ -196,6 +196,41 @@ app.listen(3000);
 */
 
 
+const express=require('express')
+const app=express();
+
+app.use(express.urlencoded({extended:false}))
+
+app.get('/',function(req,res)
+{
+    res.send("<h2>Loading</h2>")
+}
+)
+
+
+
+app.get('/form',function(req,res)
+{
+    res.send('<form action="/dd" method="POST"><label>Reading</label><input type="number" name="read"><button>Submit</button></form>')
+})
+
+app.post('/dd',function(req,res)
+{
+    const reading=req.body.read;
+    console.log(reading);
+    res.send("<h1>Suceess</h1>")
+})
+
+
+
+
+app.use(function(req,res)
+{
+    res.send("<h1>404</h1>")
+})
+
+
+app.listen(1400)
 
 
 
