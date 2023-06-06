@@ -4,6 +4,7 @@
 const express=require('express')
 const fs=require('fs')
 const path=require('path')
+const uuid=require('uuid')
 
 const app=express();
 
@@ -49,6 +50,7 @@ app.get('/data',function(req,res){
 app.post('/Home',function(req,res)
 {
     const membername=req.body;
+    membername.id=uuid.v4();
     const filepath=path.join(__dirname,'views','members.json')
     const filedata=fs.readFileSync(filepath)
     const memberdata=JSON.parse(filedata)
@@ -66,7 +68,13 @@ app.get('/User/:id',function(req,res)
     const filepath=path.join(__dirname,'views','members.json')
     const filedata=fs.readFileSync(filepath)
     const memberdata=JSON.parse(filedata)
-    res.render('userdetail',{mid:memberId ,members:memberdata})
+    for(const member of memberdata)
+    {
+        if(member.id==memberId)
+        {
+            return res.render('userdetail',{member:member})
+        }
+    }
 })
 
 
