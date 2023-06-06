@@ -63,8 +63,17 @@ Html Code
 
 <% include('end-file') %> -->Reduce the HTML total  Code
 
+.redirect-->Redirect to the Site after the operation..
 
 .status()-->Convey Status Code to the Browser..
 
 
 404->Not found 500-->Error Occured..
+
+
+
+Code Refactoring::
+Definitions in one place and rightly accessing the variables ..
+
+Variable Scoping:
+Can Use Variable Shadowing of outer variable inside the Nested Code..
