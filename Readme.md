@@ -33,6 +33,13 @@ function(req,res,next) are the parameters
     .send('Custom Code')
 })
 
+.post()-->Handles the form connection
+
+.use(express.static)
+
+.sendFile
+
+fs-->File System
 
 .listen(3000)->Port connection~
 
