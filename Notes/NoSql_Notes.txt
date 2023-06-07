@@ -30,4 +30,33 @@ director:
 Data which is often queried should be stored together....
 
 
+WORK ENVIRONMENT:
+
+Related Data :Saved BY Nesting Data one inside the other
+
+show dbs->Show Databases
+
+use db db_name-->CReates a datbase but it will only appear after Inserting any data into it
+
+db.coll_name.insertOne({name:'Sunil'})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
