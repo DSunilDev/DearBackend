@@ -15,3 +15,11 @@ Service Runnning can be modified at the Service window available...
 
 Normalized Data Used..
 Linking of Tables is used...
+
+Workbench-Dedicated UI for working with Sequel server
+
+INSERT INTO tab_name (col_name) VALUES(field_value)
+
+SELECT * FROM tab_name WHERE field<10  (WHERE-->used to Specify Condition)
+
+
