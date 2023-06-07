@@ -38,13 +38,23 @@ show dbs->Show Databases
 
 use db db_name-->CReates a datbase but it will only appear after Inserting any data into it
 
+
+col_name-->Stands for Collection Name...
+
 db.coll_name.insertOne({name:'Sunil'})
 
 
 db.col_name.find({})-->View 
 
+db.col_name.findOne({})-->Find out one data..
+
+db.col_name.updateOne({Filtering function },{ $set:{"name"}:{"Sunil"}})---> Filters the data from the
+wholesome data and then updates the changes in the database..
+
+db.col_name.deleteOne({Filtering function})
 
 
+deleteMany-->Deletes all the Data that fits it..
 
 
 
