@@ -1,0 +1,15 @@
+DEPLOYMENT NOTES:
+
+1.Test your Website and Prepare Code Deployment
+
+2.Be aware of Browser Limitations
+(Try out different browsers)
+  -----CROSS BROWSER SUPPORT------
+i.e., USE [ Can I USE ? ]website..
+
+3.SEO-Search Engine Optimisation
+(Add important metadata to make content discoverable)
+
+4.Improve Performance by Shrinking FrontEnd Assets (Js,Images,CSS)
+(Avoid forcing users to download too much of Data)
+

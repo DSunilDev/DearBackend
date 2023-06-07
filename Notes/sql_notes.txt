@@ -1,0 +1,17 @@
+SQL-Relational Database
+Require high set of Schema and Predefined Structure..
+Contain tables to store data..
+Have Workbench that maintains the Database in GUI format..
+
+
+SQL(rdbms)-->SQL server-->SQL Databases-->Collection of Tables inside it..
+
+Windows:
+Install by Downloading MySQL Installer..
+
+
+Service Runnning can be modified at the Service window available...
+
+
+Normalized Data Used..
+Linking of Tables is used...

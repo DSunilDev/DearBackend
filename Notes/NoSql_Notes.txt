@@ -1,0 +1,33 @@
+NOSQL-No Sequel (Loose Relation)
+Non Relation Database
+Lot of Flexibilty..
+
+MongoDb--Super Efficient
+
+
+
+Collection and Document Module of Data Storage..
+
+Collection contain Document..
+
+Document contain key:value pairs of data..
+
+++++ Related Data -->Used Nested Instead of Spillting Normalized data..
+
+Books-->
+{
+"id":
+"Name":
+"movies":["m1","m2"]
+}
+Movies
+{
+id:
+director:
+}
+
+
+Data which is often queried should be stored together....
+
+
+
