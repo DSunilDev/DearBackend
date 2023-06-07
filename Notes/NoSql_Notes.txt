@@ -41,6 +41,8 @@ use db db_name-->CReates a datbase but it will only appear after Inserting any d
 db.coll_name.insertOne({name:'Sunil'})
 
 
+db.col_name.find({})-->View 
+
 
 
 
