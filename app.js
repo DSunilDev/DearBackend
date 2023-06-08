@@ -6,6 +6,9 @@ const fs=require('fs')
 const path=require('path')
 const uuid=require('uuid')
 
+const db=require('./MONGO_D/database');
+
+
 const app=express();
 
 app.use(express.static('styles'));
@@ -87,5 +90,12 @@ app.get('/devs',function(req,res)
 {
     res.render('devs')
 })
-
+/*
+app.get('/Mongo',async function(req,res){
+    const trains=await db.getDB().collection("traindata").find().toArray();
+    console.log(trains);
+    res.render('index')
+    res.send("<h1>Done</h1>");
+});
+*/
 app.listen(3000);
