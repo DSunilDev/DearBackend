@@ -91,12 +91,12 @@ app.get('/devs',function(req,res)
 {
     res.render('devs')
 })
-
+/*
 app.get('/Mongo',async function(req,res){
     const trains=await db.getDB().collection('g').find().toArray();
     console.log(trains);
     res.send("<h1>Done</h1>");
-});
+}); */
 
 module.exports=app;
 
