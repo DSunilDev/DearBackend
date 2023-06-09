@@ -6,15 +6,16 @@ const fs=require('fs')
 const path=require('path')
 const uuid=require('uuid')
 
-const db=require('./MONGO_D/database');
+const db=require('./MONGO_D/database.js');
 
 
 const app=express();
 
 app.use(express.static('styles'));
 
-app.use(express.urlencoded({extended:false}))
+app.use(express.urlencoded({extended:true}))
 
+app.use(express.json());
 
 app.set('views',path.join(__dirname,'views'));
 app.set('view engine','ejs');
@@ -90,13 +91,13 @@ app.get('/devs',function(req,res)
 {
     res.render('devs')
 })
-/*
+
 app.get('/Mongo',async function(req,res){
-    const trains=await db.getDB().collection("traindata").find().toArray();
+    const trains=await db.getDB().collection('g').find().toArray();
     console.log(trains);
-    res.render('index')
     res.send("<h1>Done</h1>");
 });
-*/
+
+module.exports=app;
+
 app.listen(3000);
-//>.
