@@ -8,7 +8,6 @@ const uuid=require('uuid')
 //app.use(express.json())
 
 const db=require('./MONGO_D/database.js');
-const database = require('./MONGO_D/database.js');
 const app=express();
 
 app.use(express.static('styles'));
