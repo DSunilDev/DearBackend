@@ -195,9 +195,12 @@ app.listen(3000);
 
 */
 
-
+const fs=require('fs')
 const express=require('express')
 const app=express();
+
+const path=require('path')
+
 
 app.use(express.urlencoded({extended:false}))
 
@@ -206,6 +209,11 @@ app.get('/',function(req,res)
     res.send("<h2>Loading</h2>")
 }
 )
+
+app.get('/Home',function(req,res)
+{
+    res.send("<h1>Hello</h1>")
+})
 
 
 
@@ -217,7 +225,11 @@ app.get('/form',function(req,res)
 app.post('/dd',function(req,res)
 {
     const reading=req.body.read;
-    console.log(reading);
+    const filepath=path.join(__dirname,'dd','goal.json')
+    const filedata=fs.readFileSync(filepath)
+    const existingusers=JSON.parse(filedata);
+    existingusers.push(reading);
+    fs.writeFileSync(filepath,JSON.stringify(existingusers));
     res.send("<h1>Suceess</h1>")
 })
 
