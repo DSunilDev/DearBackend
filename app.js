@@ -90,12 +90,13 @@ app.get('/devs',function(req,res)
 })
 
 app.get('/Mongo',async function(req,res){
-    const trains=await db.getDB().collection('g').find().toArray();
-    console.log(trains);
-    res.send("<h1>Done</h1>");
+    const trains=await db.getDb('train').collection('g').find().toArray();
+    res.render('traind',{ trains:trains})
 }); 
 
 module.exports=app;
 
-
-app.listen(3000);
+db.connectToDatabase().then(function () {
+    app.listen(3000);
+  });
+  
