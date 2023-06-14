@@ -10,11 +10,11 @@
     <h2>TRAINS AVAILABE IN THE STATION <%= trainno %></h2>
         <% for(const data of trains){%>
             <ul>
-                <li><%=data.From %></li>
-                <li><%=data.To %></li>
-                <li><%=data.Train_Name %></li>
-                <li><%=data.Arrival_Time %></li>
-                <li><%=data.Fare %></li>
+                <li>FROM :<%=data.From %></li>
+                <li>TO :<%=data.To %></li>
+                <li><b>TRAIN NAME :</b><%=data.Train_Name %></li>
+                <li><b>ARRIVAL TIME :</b><%=data.Arrival_Time %></li>
+                <li>FARE :<%=data.Fare %></li>
             </ul>
             <%}%>
 </body>

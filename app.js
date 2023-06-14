@@ -91,7 +91,7 @@ app.get('/devs',function(req,res)
 
 app.get('/Mongo',async function(req,res){
     const trains=await db.getDb('train').collection('g').find().toArray();
-    res.render('traind',{ trains:trains})
+    res.render('traind',{ trains:trains ,trainno:trains.length})
 }); 
 
 module.exports=app;
