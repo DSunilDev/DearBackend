@@ -4,12 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/trains.css">
 <title>Train Schedule Details</title>
 </head>
 <body>
+    <div class="workplace">
     <h2>TRAINS AVAILABE IN THE STATION <%= trainno %></h2>
         <% for(const data of trains){%>
-            <p>Train NO:</p><%= no=no+1 %>
+            <p>Train NO: <%= no=no+1 %></p>
             <ul>
                 <li>FROM :<%=data.From %></li>
                 <li>TO :<%=data.To %></li>
@@ -18,5 +20,6 @@
                 <li>FARE :<%=data.Fare %></li>
             </ul>
             <%}%>
+        </div>
 </body>
 </html>
