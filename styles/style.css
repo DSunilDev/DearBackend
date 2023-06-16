@@ -1,0 +1,129 @@
+*
+{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+div{
+    border:1px 1px 1px 1px solid black;
+    padding:3px;
+    
+}
+.navbar
+{
+    background-color:blueviolet;
+    overflow: hidden;
+    height: 38px;
+    text-align: center;
+}
+
+.navbar a{
+    color:white;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 22px;
+word-spacing: 5px;
+}
+
+.navbar a:hover
+{
+color:black;
+background-color: beige;
+font-size: 24px;
+}
+
+.navbar a:active
+{
+    background-color: aquamarine;
+    color:white;
+}
+.mail{
+    width:70px;
+    height:70px;
+    text-decoration:none;
+    text-align: center;
+    background-color:ghostwhite;
+    border-color: black;
+}
+
+.mail a{
+    text-decoration-color: aqua;
+    font-weight: bolder;
+    text-decoration: none;
+    border-color: black;
+}
+
+.map
+{
+    font-size:18px;
+}
+
+.aboutbl,aboutcl
+{
+text-indent: 120px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.uplink{
+    text-align: center;
+}
+.uplink a
+{
+    text-align: center;
+    text-decoration: none;
+    font-size:small;
+    font-style:oblique;
+    font-weight: bolder;
+}
+
+.devps
+{
+    padding:40px;
+    border:30px;
+background-color: azure;
+font-weight: bold;
+}
+
+.mailbox
+{
+    height:25px;
+    width:200px;
+    font-size: large;
+    font-weight: lighter;
+}
+
+.tech3{
+    font-size: large;
+}
+
+
+button{
+    width:100px;
+    height:48px;
+    background-color: lightseagreen;
+    border: 2px solid wheat;
+
+}
+
+.pov
+{
+    width:300px;
+    height:175px;
+    background-color: aliceblue;
+}
+
+.footer
+{
+    position: relative;
+    background-color: aliceblue;
+    text-shadow: 6px black; 
+}
+
+
+
+
+
+
+
+
+
