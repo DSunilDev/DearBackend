@@ -5,6 +5,7 @@ const express=require('express')
 const fs=require('fs')
 const path=require('path')
 const uuid=require('uuid')
+const bcry=require('bcryptjs')
 //app.use(express.json())
 
 const db=require('./MONGO_D/database.js');
@@ -62,6 +63,28 @@ app.post('/Home',function(req,res)
     
 })
 
+
+app.get('/form',function(req,res)
+{
+    res.render('tt')
+})
+
+app.post('/signup',async function(req,res)
+{
+    const userdata=req.body;
+    const mail=userdata.mail;
+    const password=userdata.password;
+
+    const passwordd=await bcry.hash(password,12)
+
+    const users={
+        email:mail,
+        passkey:passwordd
+    };
+
+await db.getDb().collection('users').insertOne(users);
+res.redirect('/form') //USe it to Successful Page or Login Page
+})
 
 
 app.get('/User/:id',function(req,res)
