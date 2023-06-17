@@ -69,6 +69,17 @@ app.get('/form',function(req,res)
     res.render('tt')
 })
 
+app.get('/login',function(req,res)
+{
+    res.render('login')
+})
+
+
+app.get('/admin',function(req,res)
+{
+    res.send("<h2>Welcome User</h2>")
+})
+
 app.post('/signup',async function(req,res)
 {
     const userdata=req.body;
@@ -83,8 +94,37 @@ app.post('/signup',async function(req,res)
     };
 
 await db.getDb().collection('users').insertOne(users);
-res.redirect('/form') //USe it to Successful Page or Login Page
+res.redirect('/login') //USe it to Successful Page or Login Page
 })
+
+app.post('/login',async function(req,res)
+{
+    const userdata=req.body;
+    const mail=userdata.mail;
+    const password=userdata.password;
+
+    const existdata=await db.getDb().collection('users').findOne({email:mail})
+
+    if(!existdata)
+    {
+        console.log("Sorry")
+        return res.redirect('/signup')
+    }
+
+    const passkeycheck=await bcry.compare(password,existdata.passkey)
+
+    if(!passkeycheck)
+    {
+        res.redirect('/admin')
+    }
+})
+
+
+
+
+
+
+
 
 
 app.get('/User/:id',function(req,res)
