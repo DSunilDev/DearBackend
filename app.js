@@ -80,11 +80,20 @@ app.get('/admin',function(req,res)
     res.send("<h2>Welcome User</h2>")
 })
 
+//Signup functionality
+
 app.post('/signup',async function(req,res)
 {
     const userdata=req.body;
     const mail=userdata.mail;
     const password=userdata.password;
+
+    const existdata=await db.getDb().collection('users').findOne({email:mail})
+    
+    if(existdata)
+    {
+        res.render('login')
+    }
 
     const passwordd=await bcry.hash(password,12)
 
@@ -97,32 +106,31 @@ await db.getDb().collection('users').insertOne(users);
 res.redirect('/login') //USe it to Successful Page or Login Page
 })
 
+//Login Functionality
+
 app.post('/login',async function(req,res)
 {
     const userdata=req.body;
     const mail=userdata.mail;
-    const password=userdata.password;
+    const epassword=userdata.epassword;
 
     const existdata=await db.getDb().collection('users').findOne({email:mail})
 
     if(!existdata)
     {
         console.log("Sorry")
-        return res.redirect('/signup')
+        return res.redirect('/form')
     }
 
-    const passkeycheck=await bcry.compare(password,existdata.passkey)
+    const passkeycheck=await bcry.compare(epassword,existdata.passkey)
 
     if(!passkeycheck)
     {
-        res.redirect('/admin')
+        return res.redirect('/form')
     }
+    console.log("User authenticated")
+    res.redirect('/admin')
 })
-
-
-
-
-
 
 
 
