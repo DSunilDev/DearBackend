@@ -88,13 +88,13 @@ app.post('/signup',async function(req,res)
     const mail=userdata.mail;
     const password=userdata.password;
 
-    const existdata=await db.getDb().collection('users').findOne({email:mail})
-    
-    if(existdata)
-    {
-        res.render('login')
-    }
+    const alreadyuser=await db.getDb().collection('users').findOne({email:mail})
 
+    if(alreadyuser)
+    {
+        res.redirect("/login")
+    }
+    
     const passwordd=await bcry.hash(password,12)
 
     const users={
@@ -126,7 +126,7 @@ app.post('/login',async function(req,res)
 
     if(!passkeycheck)
     {
-        return res.redirect('/form')
+        res.redirect('/form')
     }
     console.log("User authenticated")
     res.redirect('/admin')
