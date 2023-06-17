@@ -94,7 +94,7 @@ app.post('/signup',async function(req,res)
     {
         res.redirect("/login")
     }
-    
+else{
     const passwordd=await bcry.hash(password,12)
 
     const users={
@@ -103,7 +103,9 @@ app.post('/signup',async function(req,res)
     };
 
 await db.getDb().collection('users').insertOne(users);
-res.redirect('/login') //USe it to Successful Page or Login Page
+res.redirect('/login') 
+//USe it to Successful Page or Login Page
+}
 })
 
 //Login Functionality
@@ -118,8 +120,7 @@ app.post('/login',async function(req,res)
 
     if(!existdata)
     {
-        console.log("Sorry")
-        return res.redirect('/form')
+        res.redirect('/form')
     }
 
     const passkeycheck=await bcry.compare(epassword,existdata.passkey)
@@ -128,8 +129,9 @@ app.post('/login',async function(req,res)
     {
         res.redirect('/form')
     }
-    console.log("User authenticated")
+    else{
     res.redirect('/admin')
+    }
 })
 
 
