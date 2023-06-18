@@ -70,7 +70,7 @@ Html Code
 
 404->Not found 500-->Error Occured..
 
-
+401->User Authentication Error..
 
 Code Refactoring::
 Definitions in one place and rightly accessing the variables ..
