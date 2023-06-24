@@ -1,0 +1,34 @@
+{
+  "homepage": "https://DSunilDev.github.io/DearBackend",
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Started with Node",
+  "main": "app.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "webpack --config webpack.config.js",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSunilDev/DearBackend.git"
+  },
+  "author": "Sunilkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSunilDev/DearBackend/issues"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bcryptjs": "^2.4.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0",
+    "nodemon": "^2.0.22"
+  }
+}
