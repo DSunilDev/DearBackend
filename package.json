@@ -1,13 +1,9 @@
 {
-  "homepage": "https://DSunilDev.github.io/DearBackend",
   "name": "backend",
   "version": "1.0.0",
   "description": "Started with Node",
   "main": "app.js",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "build": "webpack --config webpack.config.js",
     "start": "nodemon app.js"
   },
   "repository": {
