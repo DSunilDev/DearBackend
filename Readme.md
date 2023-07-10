@@ -52,7 +52,7 @@ EJS:
 .render();
 
 
-<% Looping condition{ %>
+<% Looping condition{only starting} %>
 Html Code
 
 { %= VARIABLE RETURNS VALUE %}
