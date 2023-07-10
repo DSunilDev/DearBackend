@@ -1,4 +1,4 @@
-Hello Everyone ,
+Hello Everyone,
 
 I have Specially created this for Backend 
 Fuctionality to get known and keep a track of my learning progress ..
