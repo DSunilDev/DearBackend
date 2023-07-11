@@ -51,21 +51,7 @@ EJS:
 
 .render();
 
-
-<% Looping condition{only starting} %>
-Html Code
-
-{ %= VARIABLE RETURNS VALUE %}
-
-{% } %>
-
-{%- HTML CODE %}
-
-<% include('end-file') %> -->Reduce the HTML total  Code
-
-.redirect-->Redirect to the Site after the operation..
-
-.status()-->Convey Status Code to the Browser..
+//Check Notepad Ejs notes
 
 
 404->Not found 500-->Error Occured..
