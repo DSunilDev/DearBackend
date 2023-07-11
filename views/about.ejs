@@ -7,14 +7,7 @@
         <title>ABOUT | RRC CS</title>
     </head>
     <body>
-        <div class="navbar">
-            <a class="active" href="/Home">HOME </a>
-            <a href="/tech">TECHNOLOGY </a>
-            <a href="/Nature">NATURE </a>
-            <a href="/faculty">FACULTY </a>
-            <a href="/devs">DEV </a>
-            <a href="/about">ABOUT </a>
-        </div>
+        <%- include('navbar') %>
         <center>
             <div class="mail">
                 <a href="mailto:sunilkumardeveops@gmail.com">MAIL US<img src="IMGS/mail2.jpg" height=50px width=70px></a>
@@ -57,20 +50,6 @@
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3699.764967057379!2d77.52827321461098!3d9.466556393218086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b06e9d898934809%3A0x4ee80838bdbdae10!2sCS%20department!5e1!3m2!1sen!2sin!4v1678508580152!5m2!1sen!2sin" width="1040" height="430" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </center>  
     </div>
-    <div class="footer">
-        <h3>&#169; Copyright by United R&D 2023</h3>
-        <h4 align="right">All Rights Reserved ^</h4>
-        <div class="uplink">
-            <a href="index.html">HOME</a>
-        <a href="tech.html">TECH</a>
-        <a href="nature.html">NATURE</a>
-        <a href="faculty.html">STAFF</a>
-        <a href="devs.html">DEV</a>
-        <a href="about.html">ABOUT</a>
-        <br>
-        <a href="#">PRIVACY POLICY</a><br>
-        <a href="#">Release Notes</a>
-    </div>
-    </div>
+    <%- include('footer') %>
     </body>
 </html>

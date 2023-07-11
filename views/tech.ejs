@@ -6,15 +6,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
         <title>Technology | RRC CS</title>
     </head>
-    <body>
-        <div class="navbar">
-            <a class="active" href="/Home">HOME </a>
-            <a href="/tech">TECHNOLOGY </a>
-            <a href="/Nature">NATURE </a>
-            <a href="/faculty">FACULTY </a>
-            <a href="/devs">DEV </a>
-            <a href="/about">ABOUT </a>
-        </div>  
+    <%- include('navbar') %>
         <div class="tech">
             <h1 align="center">
                 Unleash the power in you ..
@@ -45,20 +37,6 @@
             <button>Join Now</button>
         </center>
         </div>
-            <div class="footer">
-                <h3>&#169; Copyright by United R&D 2023</h3>
-                <h4 align="right">All Rights Reserved ^</h4>
-                <div class="uplink">
-                    <a href="index.html">HOME</a>
-                <a href="/tech">TECH</a>
-                <a href="/Nature">NATURE</a>
-                <a href="/faculty">STAFF</a>
-                <a href="/devs">DEV</a>
-                <a href="/about">ABOUT</a>
-                <br>
-                <a href="#">PRIVACY POLICY</a><br>
-                <a href="#">Release Notes</a>
-            </div>
-            </div>
+        <%- include('footer') %>
     </body>
 </html>
