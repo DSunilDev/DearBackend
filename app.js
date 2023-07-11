@@ -24,7 +24,7 @@ app.get('/',function(req,res)
     const filepath=path.join(__dirname,'views','members.json')
     const filedata=fs.readFileSync(filepath)
     const memberdata=JSON.parse(filedata)
-    res.render('index',{ numberofMembers:memberdata.length,members:memberdata});
+    res.render('index',{ numberofMembers:memberdata.length,members:memberdata}); 
 })
 
 
@@ -182,7 +182,7 @@ app.get('/about',function(req,res)
 
 
 app.get('/Mongo',async function(req,res){
-    const trains=await db.getDb('train').collection('g').find().toArray();
+    const trains=await db.getDb('train').collection('SOUTH').find().toArray();
     res.render('traind',{ trains:trains ,trainno:trains.length,no:0})
 }); 
 
