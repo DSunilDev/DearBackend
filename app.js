@@ -152,6 +152,11 @@ app.get('/User/:id',function(req,res)
     }
 })
 
+app.get('/faculty',function(req,res)
+{
+    res.render('faculty')
+})
+
 
 app.get('/Nature',function(req,res)
 {
@@ -161,6 +166,12 @@ app.get('/Nature',function(req,res)
 app.get('/devs',function(req,res)
 {
     res.render('devs')
+})
+
+
+app.get('/tech',function(req,res)
+{
+    res.render('tech')
 })
 
 app.get('/Mongo',async function(req,res){
