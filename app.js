@@ -179,13 +179,6 @@ app.get('/about',function(req,res)
     res.render('about')
 })
 
-
-
-app.get('/Mongo',async function(req,res){
-    const trains=await db.getDb('train').collection('SOUTH').find().toArray();
-    res.render('traind',{ trains:trains ,trainno:trains.length,no:0})
-}); 
-
 module.exports=app;
 
 db.connectToDatabase().then(function () {
