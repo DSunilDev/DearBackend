@@ -47,18 +47,6 @@ app.get('/data',function(req,res){
 })
 
 
-app.post('/Home',function(req,res)
-{
-    const membername=req.body;
-    membername.id=uuid.v4();
-    const filepath=path.join(__dirname,'views','members.json')
-    const filedata=fs.readFileSync(filepath)
-    const memberdata=JSON.parse(filedata)
-    memberdata.push(membername);
-    fs.writeFileSync(filepath,JSON.stringify(memberdata));
-    res.send('<h1>done</h1>')
-    
-})
 
 
 app.get('/form',function(req,res)
@@ -176,9 +164,17 @@ app.get('/about',function(req,res)
     res.render('about')
 })
 
+//Not found
+
+app.use(function(req,res)
+{
+    res.send("<h1>Sorry,Page is not found</h1>");
+})
+
 module.exports=app;
 
 db.connectToDatabase().then(function () {
     app.listen(80);
   });
   
+app.listen(3000)
