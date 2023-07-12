@@ -21,10 +21,7 @@ app.set('view engine','ejs');
 
 app.get('/',function(req,res)
 {
-    const filepath=path.join(__dirname,'views','members.json')
-    const filedata=fs.readFileSync(filepath)
-    const memberdata=JSON.parse(filedata)
-    res.render('index',{ numberofMembers:memberdata.length,members:memberdata}); 
+    res.render('index'); 
 })
 
 
