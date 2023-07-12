@@ -19,7 +19,7 @@ app.set('views',path.join(__dirname,'views'));
 app.set('view engine','ejs');
 
 
-app.get('/Home',function(req,res)
+app.get('/',function(req,res)
 {
     res.render('index'); 
 })
